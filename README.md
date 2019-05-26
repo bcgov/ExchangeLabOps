@@ -29,8 +29,6 @@ We anticipate posting and continuously improving the following content:
  - Value delivery reports and frameworks we use to improve our performance
  - Communications content library
 
-## Getting Help or Reporting an Issue
-
 ## How to Contribute
 
 Please do offer your feedback on how well our content supports your team's operations at the lab. You can contribute issues directly to this repository for things that need to be fixed, or email CSILab@gov.bc.ca
