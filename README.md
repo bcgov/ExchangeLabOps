@@ -5,6 +5,8 @@ Teams are supported to deliver quickly (within a year) with a DevOps Platform as
 
 This Repo contains resources the Lab Operations team makes available for Lab Residents who are going on this journey, and those curious about how we run the lab. We always welcome feedback!
 
+If you are OnBoarding to the CSI Lab, please start here: https://trello.com/b/XlAXaWkK/csi-lab-onboarding
+
 Contact the lab at CSILab@gov.bc.ca
 
 For developer specific resources, please see the [DevHub](http://developer.gov.bc.ca)
