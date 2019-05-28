@@ -1,7 +1,7 @@
 # CSILabOps
 The Continuous Service Improvement (CSI) Lab is a digital delivery space that hosts a community of BC Public Service employees and technology sector partners who work on teams to deliver government services. 
 
-Teams are supported to deliver quickly (within a year) with a DevOps Platform as well as training, coaching, and facilitation to define their problem, discover a proof of concept (alpha), and release beta and live products ([learn more about the Agile process](https://developer.gov.bc.ca/Agile-Delivery-Process/Agile-Delivery-Process). Teams journey through the lab and return to their home organizations, which are supported to adopt Agile mindsets and DevOps practices.
+Teams are supported to deliver quickly (within a year) with a DevOps Platform as well as training, coaching, and facilitation to define their problem, discover a proof of concept (alpha), and release beta and live products ([learn more about the Agile process](https://developer.gov.bc.ca/Agile-Delivery-Process/Agile-Delivery-Process)). Teams journey through the lab and return to their home organizations, which are supported to adopt Agile mindsets and DevOps practices.
 
 This Repo contains resources the Lab Operations team makes available for Lab Residents who are going on this journey, and those curious about how we run the lab. We always welcome feedback!
 
