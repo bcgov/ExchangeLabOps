@@ -1,10 +1,10 @@
-##Phase 0: Desire a new way of working & Apply to work with or at the CSI Lab
+## Phase 0: Desire a new way of working & Apply to work with or at the CSI Lab
 
 Have you been working towards delivering value in your organization and feel that the systems or process are challenging your ability to get results?
 
 Maybe it's time to step back and consider some new ways of working. Your friends at the CSI lab have done that, and are having lots of success (and fun). We're keen to share.
 
-###This Repo
+## This Repo
 
 Here you will find communication materials and worksheets we share to help others explore various innovation discaplines, perspectives or ways of working.
 
