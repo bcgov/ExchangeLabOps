@@ -1,15 +1,16 @@
 # About the Exchange Lab - Formerly the Continuous Service Improvement (CSI) Lab
-The Exchange Lab is a creative space where multi-disciplinary teams of public servants can learn new ways of working to build a modern public service. It is part of the broader Developer’s Exchange: a network and collection of products and programs that are inventing next generation approaches to public service. It is actively advancing the goals of the corporate HR Plan and government’s Digital Framework, by balancing the relationship between people, process, and technology.
 
-The Developer’s Exchange organization embraces experimentation, innovation and empowerment. Empowered public servants make good decisions. Calculated experiments lead to exciting innovations and engaged employees. 
+The BCDevExchange exists at the leading edge of delivery-driven government in British Columbia. We are here to improve people's lives, address the province's priorities and improve the public's experience of government. We do this by providing a platform of services to support the design and build of the digital public services that the people of the province expect. We partner across and beyond government to support the open collaboration, engagement and enablement of teams committed to creating public value through digital service delivery.  
 
-Culture in the Lab is based on four values: people over process, collaboration over negotiation, results over excessive documentation and embracing change. 
+The BCDevExchange organization embraces experimentation, innovation and empowerment. By adopting the principles, values and practices of the BCDevExchange, partner government entities adapt their typical ways of working to better align with leading practice amongst technology companies and digital agencies. As a result, the BCDevExchange is changing the way program areas throughout government and the broader public sector engage and work together. 
 
-Delivery Teams from Ministry programs reside at the Lab. Programs apply to accelerate how they modernize by developing a digital product during the year long residency. 
- 
-Teams are supported to deliver quickly (within a year) with a DevOps Platform as well as training, coaching, and facilitation to define their problem, discover a proof of concept (alpha), and release beta and live products. Teams journey through the lab and return to their home organizations, which are supported to adopt Agile mindsets and DevOps practices.
+Our work centers around the Exchange Lab (previously known as the Continuous Service Improvement, or CSI Lab) – the physical place from which the BCDevExchange program delivers its services, centers its engagement efforts, and hosts digital delivery teams working to solve priority public challenges. 
 
-This and other programs and experiences offered at the Lab are continuously improved
+At the Lab, the DevExchange partners with Ministry program areas to build Digital Delivery Teams. We train these teams in methods aligned to an Agile mindset, equip them with enabling processes and technology, and empower them to use these tools and teamwork to build better public services. 
+
+Delivery Teams at the Lab are surrounded by mentors and experts in DevOps, service design, behavioral insights, innovation, privacy, security, and data. These disciplines combine with the Agile approach to development to enable teams to deliver small increments of value quickly. Teams learn and improve their product with direct feedback from users every few weeks and deliver substantial value within a year.
+
+These teams, connected and supported by the BCDevExchange, pay it forward to a growing community of change makers by offering learning events and mentorship. These and other programs and experiences offered at the Lab are continuously improved
 
 ## This Repo
 
