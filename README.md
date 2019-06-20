@@ -1,11 +1,11 @@
-# About the Continuous Service Improvement (CSI) Lab
-The CSI Lab is a creative space where multi-disciplinary teams of public servants can learn new ways of working to build a modern public service. It is part of the broader Developer’s Exchange: a network and collection of products and programs that are inventing next generation approaches to public service. It is actively advancing the goals of the corporate HR Plan and government’s Digital Framework, by balancing the relationship between people, process, and technology.
+# About the Exchange Lab - Formerly the Continuous Service Improvement (CSI) Lab
+The Exchange Lab is a creative space where multi-disciplinary teams of public servants can learn new ways of working to build a modern public service. It is part of the broader Developer’s Exchange: a network and collection of products and programs that are inventing next generation approaches to public service. It is actively advancing the goals of the corporate HR Plan and government’s Digital Framework, by balancing the relationship between people, process, and technology.
 
 The Developer’s Exchange organization embraces experimentation, innovation and empowerment. Empowered public servants make good decisions. Calculated experiments lead to exciting innovations and engaged employees. 
 
 Culture in the Lab is based on four values: people over process, collaboration over negotiation, results over excessive documentation and embracing change. 
 
- “Continuous Service Improvement Teams” from Ministry programs reside at the Lab. Programs apply to accelerate how they modernize by developing a digital product during the year long residency. 
+Delivery Teams from Ministry programs reside at the Lab. Programs apply to accelerate how they modernize by developing a digital product during the year long residency. 
  
 Teams are supported to deliver quickly (within a year) with a DevOps Platform as well as training, coaching, and facilitation to define their problem, discover a proof of concept (alpha), and release beta and live products. Teams journey through the lab and return to their home organizations, which are supported to adopt Agile mindsets and DevOps practices.
 
@@ -15,14 +15,14 @@ This and other programs and experiences offered at the Lab are continuously impr
 
 This Repo contains resources the Lab Operations team makes available for Lab Residents who are going on this journey, community members, and those curious about how we run the lab. We always welcome feedback!
 
-If you are OnBoarding to the CSI Lab, please start here: https://trello.com/b/XlAXaWkK/csi-lab-onboarding
+If you are OnBoarding to the Lab, please start here: https://trello.com/b/XlAXaWkK/csi-lab-onboarding
 
 Contact the lab at CSILab@gov.bc.ca
 
 For developer specific resources, please see the [DevHub](http://developer.gov.bc.ca)
 
 ## Features
-The content in this repo does not include code. We're offering the artifacts we are continuously improving to support a team's successful journey through the CSI Lab. 
+The content in this repo does not include code. We're offering the artifacts we are continuously improving to support a team's successful journey through the Lab. 
 
 ## Project Status
 
