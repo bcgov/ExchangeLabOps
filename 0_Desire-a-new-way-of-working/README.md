@@ -16,6 +16,6 @@ Here you will find communication materials and worksheets we share to help other
 
 We'll also be adding more information about how to engage and get involved.
 
-[Reference this phase in the Journey of a Team diagram](https://github.com/bcgov/CSILabOps/blob/master/2019-05-25_One-Pager_Journey-Of-A-CSI-Lab-Team-8.5x11.pdf).
+[Reference this phase in the Journey of a Team diagram](https://github.com/bcgov/ExchangeLabOps/blob/master/One-Pager_Journey-of-an-Exchange-Lab-Team.pdf).
 
 
