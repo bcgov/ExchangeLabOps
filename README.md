@@ -6,7 +6,7 @@ The BCDevExchange organization embraces experimentation, innovation and empowerm
 
 Our work centers around the Exchange Lab (previously known as the Continuous Service Improvement, or CSI Lab) – the physical place from which the BCDevExchange program delivers its services, centers its engagement efforts, and hosts digital delivery teams working to solve priority public challenges. 
 
-At the Lab, the DevExchange partners with Ministry program areas to build Digital Delivery Teams. We train these teams in methods aligned to an Agile mindset, equip them with enabling processes and technology, and empower them to use these tools and teamwork to build better public services. 
+At the Lab, the BCDevExchange partners with Ministry program areas to build Digital Delivery Teams. We train these teams in methods aligned to an Agile mindset, equip them with enabling processes and technology, and empower them to use these tools and teamwork to build better public services. 
 
 Delivery Teams at the Lab are surrounded by mentors and experts in DevOps, service design, behavioral insights, innovation, privacy, security, and data. These disciplines combine with the Agile approach to development to enable teams to deliver small increments of value quickly. Teams learn and improve their product with direct feedback from users every few weeks and deliver substantial value within a year.
 
