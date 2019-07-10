@@ -25,6 +25,16 @@ For developer specific resources, please see the [DevHub](http://developer.gov.b
 ## Features
 The content in this repo does not include code. We're offering the artifacts we are continuously improving to support a team's successful journey through the Lab. 
 
+Here are some of the products our teams are building:
+
+- [Verifiable Organizations Network (VON)](https://vonx.io/)
+- [BC Developers' Exchange](https://bcdevexchange.org/)
+- [Devhub](https://developer.gov.bc.ca/)
+- [EAO Project Information and Collaboration (EPIC)](https://projects.eao.gov.bc.ca/)
+- [Public Review and Comment (PRC)](https://comment.nrs.gov.bc.ca/)
+- [GroundWater Wells and Aquifers (GWELLS)](https://digital.pathfinder.gov.bc.ca/www2.gov.bcc.ca/gov/content)
+- [Mines Digital Services](https://mines.nrs.gov.bc.ca/)
+
 ## Project Status
 
 Just getting some products we've built in the last 6 months into the open! People from around the world are asking for them :)
