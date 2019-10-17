@@ -54,7 +54,7 @@ We anticipate posting and continuously improving the following content:
 
 ## How to Contribute
 
-Please do offer your feedback on how well our content supports your team's operations at the lab. You can contribute issues directly to this repository for things that need to be fixed, or email CSILab@gov.bc.ca
+Please do offer your feedback on how well our content supports your team's operations at the lab. You can contribute issues directly to this repository for things that need to be fixed, or email ExchangeLab@gov.bc.ca.
 
 ## License
 
