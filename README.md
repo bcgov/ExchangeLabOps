@@ -35,6 +35,8 @@ Here are some of the products our teams are building:
 - [GroundWater Wells and Aquifers (GWELLS)](https://digital.pathfinder.gov.bc.ca/www2.gov.bcc.ca/gov/content)
 - [Mines Digital Services](https://mines.nrs.gov.bc.ca/)
 
+[Learn more about these and other teams that have graduated from the Lab.](https://github.com/bcgov/ExchangeLabOps/tree/master/Resident-Teams)
+
 ## Project Status
 
 Just getting some products we've built in the last 6 months into the open! People from around the world are asking for them :)
