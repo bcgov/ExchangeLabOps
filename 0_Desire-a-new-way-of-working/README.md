@@ -6,7 +6,8 @@ Maybe it's time to step back and consider some new ways of working. Your friends
 
 Lab teams and community members are surrounded by mentors and experts in DevOps, service design, behavioral insights, innovation, privacy, security, and data. These disciplines combine with the agile approach to development to enable teams to deliver small increments of value quickly. Teams learn and improve their product with direct feedback from users every few weeks and deliver substantial value within a year.
 
-- [Learn more about the Agile process](https://developer.gov.bc.ca/Agile-Delivery-Process/Agile-Delivery-Process)
+* [Learn more about the Agile process](https://developer.gov.bc.ca/Agile-Delivery-Process/Agile-Delivery-Process)
+* [Learn about the full Journey of a Team](https://github.com/bcgov/ExchangeLabOps/blob/master/One-Pager_Journey-of-an-Exchange-Lab-Team.pdf).
 
 Teams pay it forward to a growing community of change makers, by offering learning events and mentorship. 
 
@@ -23,12 +24,5 @@ Teams pay it forward to a growing community of change makers, by offering learni
 
 ## This Repo
 
-Here you will find communication materials and worksheets we share to help others explore various innovation discaplines, perspectives or ways of working.
-
-We'll also be adding more information about how to engage and get involved.
-
-[Reference this phase in the Journey of a Team diagram](https://github.com/bcgov/ExchangeLabOps/blob/master/One-Pager_Journey-of-an-Exchange-Lab-Team.pdf).
-
-[How to teams in the Exchange Lab operate? Check out the template partnership agreement.](https://github.com/bcgov/ExchangeLabOps/blob/master/0_Desire-a-new-way-of-working/Exchange-Lab-Residency-Partnership-Agreement_TEMPLATE.pdf)
-
+We are putting our content out in the open as we develop it. We are also working on creating a more beautiful experience for accessing this content. Stay tuned!
 
