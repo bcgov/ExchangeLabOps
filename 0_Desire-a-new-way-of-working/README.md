@@ -16,7 +16,7 @@ Teams pay it forward to a growing community of change makers, by offering learni
 2. Connect with other innovation discaplines to help you think about how you might explore opportunities for service improvement (see [using ideas at work](https://www2.gov.bc.ca/gov/content/careers-myhr/all-employees/new-employees/next-steps/first-six-months))
 3. Consider what problem you might address with these new methods. (What have you been stuck on? Where could you start small?). [Fill out a Value Canvas](https://github.com/bcgov/ExchangeLabOps/blob/master/0_Desire-a-new-way-of-working/Lab-Residency_Intake-Value-Canvas-Workbook.pdf).
 4. Attend a Lab Info Session (coming soon!)
-5. Meet with Exchange Lab leadership to discuss the opportunities available to you to get started. [Contact the LabOps Team](mailto:ExchangeLab@gov.bc.ca?subject="Interested in Lab Residency").
+5. Meet with Exchange Lab leadership to discuss the opportunities available to you to get started. [Contact the LabOps Team](ExchangeLab@gov.bc.ca).
 6. If you are close to meeting readiness critieria, we facilitate an Alignment session for the Product Owner, their leadership and stakeholders.
 7. If Alignment is successful, we get to sign the [Partnership Agreement](https://github.com/bcgov/ExchangeLabOps/blob/master/0_Desire-a-new-way-of-working/Lab-Residency-Partnership-Agreement.pdf).
 8. Get started!
