@@ -2,7 +2,7 @@
 
 Have you been working towards delivering value in your organization and feel that the systems or process are challenging your ability to get results?
 
-Maybe it's time to step back and consider some new ways of working. Your friends at the Exchange lab have done that, and are having lots learning, success (and fun). We're keen to share.
+Maybe it's time to step back and consider some new ways of working. Your friends at the Exchange lab have done that, and are having lots of learning, success, and fun. We're keen to share.
 
 Lab teams and community members are surrounded by mentors and experts in DevOps, service design, behavioral insights, innovation, privacy, security, and data. These disciplines combine with the agile approach to development to enable teams to deliver small increments of value quickly. Teams learn and improve their product with direct feedback from users every few weeks and deliver substantial value within a year.
 
