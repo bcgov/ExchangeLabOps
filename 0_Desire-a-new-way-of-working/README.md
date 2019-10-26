@@ -1,6 +1,6 @@
-## Phase 0: Desire a new way of working & Apply to work with or at the CSI Lab
+## Phase 0: Desire a new way of working & Apply to work with or at the Exchange Lab
 
-Have you been working towards delivering value in your organization and feel that the systems or process are challenging your ability to get results?
+Have you been working towards delivering value in your organization and feel that the systems or process are challenging your ability to get results? Particularly when there is technology involved?
 
 Maybe it's time to step back and consider some new ways of working. Your friends at the Exchange lab have done that, and are having lots of learning, success, and fun. We're keen to share.
 
