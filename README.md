@@ -1,41 +1,33 @@
-# About the Exchange Lab - Formerly the Continuous Service Improvement (CSI) Lab
+# About the Exchange Lab (Formerly the Continuous Service Improvement (CSI) Lab)
 
-The BCDevExchange exists at the leading edge of delivery-driven government in British Columbia. We are here to improve people's lives, address the province's priorities and improve the public's experience of government. We do this by providing a platform of services to support the design and build of the digital public services that the people of the province expect. We partner across and beyond government to support the open collaboration, engagement and enablement of teams committed to creating public value through digital service delivery.  
+The BCDevExchange exists at the leading edge of delivery-driven government in British Columbia. We live at a location called the **Exchage Lab.**
+
+We are here to improve people's lives, address the province's priorities and improve the public's experience of government. To do this we work with program areas across government and we: 
+* provide a platform of services to support the design and build of the digital public services,
+* train, coach and support delivery teams with enabling tools, community and methods, such as Agile,
+* define problems and remove barriers related to processes that slow us down or diminish our return on investment, and
+* partner across and beyond government to support the open collaboration, engagement and enablement of better service delivery.
 
 The BCDevExchange organization embraces experimentation, innovation and empowerment. By adopting the principles, values and practices of the BCDevExchange, partner government entities adapt their typical ways of working to better align with leading practice amongst technology companies and digital agencies. As a result, the BCDevExchange is changing the way program areas throughout government and the broader public sector engage and work together. 
 
-Our work centers around the Exchange Lab (previously known as the Continuous Service Improvement, or CSI Lab) – the physical place from which the BCDevExchange program delivers its services, centers its engagement efforts, and hosts digital delivery teams working to solve priority public challenges. 
+At the Lab, we build Digital Delivery Teams. We train these teams in methods aligned to an Agile mindset, equip them with enabling processes and technology, and empower them to use these tools and teamwork to build better public services. 
 
-At the Lab, the BCDevExchange partners with Ministry program areas to build Digital Delivery Teams. We train these teams in methods aligned to an Agile mindset, equip them with enabling processes and technology, and empower them to use these tools and teamwork to build better public services. 
+* [Learn about teams in the Lab or that have graduated.](https://github.com/bcgov/ExchangeLabOps/tree/master/Resident-Teams)
 
 Delivery Teams at the Lab are surrounded by mentors and experts in DevOps, service design, behavioral insights, innovation, privacy, security, and data. These disciplines combine with the Agile approach to development to enable teams to deliver small increments of value quickly. Teams learn and improve their product with direct feedback from users every few weeks and deliver substantial value within a year.
 
-These teams, connected and supported by the BCDevExchange, pay it forward to a growing community of change makers by offering learning events and mentorship. These and other programs and experiences offered at the Lab are continuously improved
+These teams, connected and supported by the BCDevExchange, pay it forward to a growing community of change makers by offering learning events and mentorship. These and other programs and experiences offered at the Lab are continuously improved.
 
-## This Repo
+## What you'll find here
 
-This Repo contains resources the Lab Operations team makes available for Lab Residents who are going on this journey, community members, and those curious about how we run the lab. We always welcome feedback!
+This Repo contains resources the Lab Operations team makes available for Lab Residents who are going on this journey, community members, and those curious about how we run the lab. We're working on developing a more complete web presence, but this is where we are delivering content we are asked for daily in the meantime. We always welcome feedback!
 
-If you are OnBoarding to the Lab, please start here: https://trello.com/b/XlAXaWkK/exchange-lab-onboarding
+[If you are coming to the Lab, please see our onboarding Trello board.](https://trello.com/b/XlAXaWkK/exchange-lab-onboarding)
 
-Contact the lab at ExchangeLab@gov.bc.ca
-
-For developer specific resources, please see the [DevHub](http://developer.gov.bc.ca)
+For developer specific resources, [please see the DevHub](http://developer.gov.bc.ca)
 
 ## Features
 The content in this repo does not include code. We're offering the artifacts we are continuously improving to support a team's successful journey through the Lab. 
-
-Here are some of the products our teams are building:
-
-- [Verifiable Organizations Network (VON)](https://vonx.io/)
-- [BC Developers' Exchange](https://bcdevexchange.org/)
-- [Devhub](https://developer.gov.bc.ca/)
-- [EAO Project Information and Collaboration (EPIC)](https://projects.eao.gov.bc.ca/)
-- [Public Review and Comment (PRC)](https://comment.nrs.gov.bc.ca/)
-- [GroundWater Wells and Aquifers (GWELLS)](https://digital.pathfinder.gov.bc.ca/www2.gov.bcc.ca/gov/content)
-- [Mines Digital Services](https://mines.nrs.gov.bc.ca/)
-
-[Learn more about these and other teams that have graduated from the Lab.](https://github.com/bcgov/ExchangeLabOps/tree/master/Resident-Teams)
 
 ## Project Status
 
