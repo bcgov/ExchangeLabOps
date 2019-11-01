@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resident Teams
+title: Products of the Lab
 nav_order: 20
 ---
 

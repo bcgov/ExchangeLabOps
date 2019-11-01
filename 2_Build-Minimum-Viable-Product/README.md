@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phase 2: Building an MVP
+title: Phase 2: Build a Product
 nav_order: 12
 ---
 
