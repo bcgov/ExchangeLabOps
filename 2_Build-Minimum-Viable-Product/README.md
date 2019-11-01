@@ -1,3 +1,9 @@
+---
+layout: default
+title: Phase 2: Build a Product
+nav_order: 12
+---
+
 # Phase 2: Build a Minimum Viable Product
 
 During this phase, a new team starts working on the proof of concept they have imagined as a result of what was discovered in phase 1.
