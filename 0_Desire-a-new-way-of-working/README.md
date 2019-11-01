@@ -1,15 +1,11 @@
-## Phase 0: Desire a new way of working & apply to work with or at the Exchange Lab
+# Phase 0: Desire a new way of working
 
 Have you been working towards delivering value in your organization and feel that the systems or process are challenging your ability to get results? Particularly when there is technology involved?
 
 Maybe it's time to step back and consider some new ways of working. Your friends at the Exchange lab have done that, and are having lots of learning, success, and fun. We're keen to share.
 
-Lab teams and community members are surrounded by mentors and experts in DevOps, service design, behavioral insights, innovation, privacy, security, and data. These disciplines combine with the agile approach to development to enable teams to deliver small increments of value quickly. Teams learn and improve their product with direct feedback from users every few weeks and deliver substantial value within a year.
-
-* [Learn more about the Agile process](https://developer.gov.bc.ca/Agile-Delivery-Process/Agile-Delivery-Process)
 * [Learn about the full Journey of a Team](https://github.com/bcgov/ExchangeLabOps/blob/master/One-Pager_Journey-of-an-Exchange-Lab-Team.pdf).
-
-Teams pay it forward to a growing community of change makers, by offering learning events and mentorship. 
+* [Learn more about the Agile process](https://developer.gov.bc.ca/Agile-Delivery-Process/Agile-Delivery-Process)
 
 ## How our current intake process works:
 
