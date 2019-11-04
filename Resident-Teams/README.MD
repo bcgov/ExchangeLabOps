@@ -1,8 +1,3 @@
----
-layout: default
-title: Teams At The Lab
-nav_order: 1
----
 
 # Teams from Across the BC Public Service Learn to be Digital at the Exchange Lab
 
