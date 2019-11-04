@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phase 3: Graduating from the lab.
+title: Phase 3 - Take the Product Home.
 nav_order: 13
 ---
 

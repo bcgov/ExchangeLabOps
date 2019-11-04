@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phase 1: Assemble a team.
+title: Phase 1 - Assemble a team.
 nav_order: 11
 ---
 

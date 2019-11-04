@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Products of the Lab
-nav_order: 20
+title: Teams and Lab Products
+nav_order: 9
 ---
 
 # Teams from Across the BC Public Service Learn to be Digital at the Exchange Lab

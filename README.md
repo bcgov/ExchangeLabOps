@@ -1,13 +1,22 @@
----
-layout: default
-title: About
-nav_order: 0
----
+# Exchange Lab - Home
 
+The BCDevExchange exists at the leading edge of delivery-driven government in British Columbia. We live at a location called the **Exchage Lab.** (Formerly the Continuous Service Improvement (CSI) Lab)
 
-# About the Exchange Lab (Formerly the Continuous Service Improvement (CSI) Lab)
+## What you'll find here
 
-The BCDevExchange exists at the leading edge of delivery-driven government in British Columbia. We live at a location called the **Exchage Lab.**
+This site is maintained by the Lab Operations team. This is where we share information and resources with Lab Residents, community members, and those curious about how we run the lab.
+
+* How you can get started with us.
+* What it takes to build a team.
+* How to deliver a product.
+* How to sustain delivery.
+* All the learning resources.
+
+[If you are coming to the Lab, please see our onboarding Trello board.](https://trello.com/b/XlAXaWkK/exchange-lab-onboarding)
+
+For developer specific resources, [please see the DevHub](http://developer.gov.bc.ca)
+
+# More About Us
 
 We are here to improve people's lives, address the province's priorities and improve the public's experience of government. To do this we work with program areas across government and we: 
 * provide a platform of services to support the design and build of the digital public services,
@@ -25,22 +34,9 @@ Delivery Teams at the Lab are surrounded by mentors and experts in DevOps, servi
 
 These teams, connected and supported by the BCDevExchange, pay it forward to a growing community of change makers by offering learning events and mentorship. These and other programs and experiences offered at the Lab are continuously improved.
 
-## What you'll find here
+## Our Goals for this Site
 
-This Repo contains resources the Lab Operations team makes available for Lab Residents who are going on this journey, community members, and those curious about how we run the lab. We're working on developing a more complete web presence, but this is where we are delivering content we are asked for daily in the meantime. We always welcome feedback!
-
-[If you are coming to the Lab, please see our onboarding Trello board.](https://trello.com/b/XlAXaWkK/exchange-lab-onboarding)
-
-For developer specific resources, [please see the DevHub](http://developer.gov.bc.ca)
-
-## Features
-The content in this repo does not include code. We're offering the artifacts we are continuously improving to support a team's successful journey through the Lab. 
-
-## Project Status
-
-Just getting some products we've built in the last 6 months into the open! People from around the world are asking for them :)
-
-## Goals/Roadmap
+Just getting some products we've built in the last 6 months into the open! People from around the world are asking for them :) We're working on developing a more complete web presence, but this is where we are delivering content we are asked for daily in the meantime. We always welcome feedback!
 
 We anticipate posting and continuously improving the following content: 
 
@@ -53,7 +49,7 @@ We anticipate posting and continuously improving the following content:
 
 ## How to Contribute
 
-Please do offer your feedback on how well our content supports your team's operations at the lab. You can contribute issues directly to this repository for things that need to be fixed, or email ExchangeLab@gov.bc.ca.
+Please do offer your feedback on how well our content supports your team's operations at the lab. You can contribute issues directly to [this github repository](https://github.com/bcgov/ExchangeLabOps) for things that need to be fixed, or email ExchangeLab@gov.bc.ca.
 
 ## License
 
