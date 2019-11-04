@@ -1,3 +1,9 @@
+---
+layout: default
+title: Learning Resources
+nav_order: 22
+---
+
 # Links to Our Favourite Learning Resources
 We've curated a few of our favourite links for you to enjoy. There's plenty more to explore out there, but this might just get you started and hungry for more!
 
