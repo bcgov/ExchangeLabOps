@@ -1,3 +1,9 @@
+---
+layout: default
+title: Learning and Resources
+nav_order: 21
+---
+
 # Learning
 
 Our team creates and offers learning programs to support agencies to build the structures and competencies that enable better service delivery through digital government. 
