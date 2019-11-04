@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: Phase 0: Choosing another way.
+title: Phase 0 - Choosing another way.
 nav_order: 10
 ---
 
