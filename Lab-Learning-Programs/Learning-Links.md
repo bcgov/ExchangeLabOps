@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Favourite Resources
-nav_order: 22
+parent: Learning and Resources
+nav_order: 1
 ---
 
 # Links to Our Favourite Learning Resources
