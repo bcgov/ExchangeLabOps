@@ -1,4 +1,4 @@
-# Phase 0: Desire a new way of working
+1. Desire a new way of working
 
 Have you been working towards delivering value in your organization and feel that the systems or process are challenging your ability to get results? Particularly when there is technology involved?
 
