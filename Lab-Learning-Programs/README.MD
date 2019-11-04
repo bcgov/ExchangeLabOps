@@ -4,7 +4,7 @@ Our team creates and offers learning programs to support agencies to build the s
 
 All of the programs at the Exchange Lab are designed to facilitate learning this new way of working. In particular, we offer the following:
 
-[### Training - Delivered for a variety of experience levels.](https://miro.com/app/board/o9J_kyzak5o=/?moveToWidget=3074457346984654518)
+### [Training - Delivered for a variety of experience levels.](https://miro.com/app/board/o9J_kyzak5o=/?moveToWidget=3074457346984654518)
 
 The methods and tools used for delivery at the lab are largely new to to the BC Public Service, but have been used with success in other governments and sectors. We apply a specific approach, called Agile, to foster high performing teams that focus and deliver products in short time frames through iterative development. We also expect continuous service improvement and new approaches to technology, specifically DevOps practices.
 
@@ -14,7 +14,7 @@ The language and culture that has developed around these approaches is new and c
 
 The work we do is complex. Rather than relying on multiple layers of committees to review, approve or direct our work, we enagage with the community around us to discover the best possible way to solve problems. 
 
-Learn more about the communities you can participate in by [checking out events](https://developer.gov.bc.ca/events) or connect with them in Rocket.Chat.
+Learn more about the communities you can participate in by [checking out events](https://developer.gov.bc.ca/events) or [connect with them in Rocket.Chat, our community messaging tool](https://developer.gov.bc.ca/Steps-to-join-Pathfinder-Rocket.Chat).
 
 ### Delivery - Through a year long residency in the Lab, or through coaching.
 
