@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning Resources
+title: Favourite Resources
 nav_order: 22
 ---
 
