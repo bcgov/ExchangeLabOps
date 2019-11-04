@@ -1,3 +1,9 @@
+---
+layout: default
+title: Teams and Lab Products
+nav_order: 9
+---
+
 # Teams from Across the BC Public Service Learn to be Digital at the Exchange Lab
 
 The Exchange Lab hosts Agile product delivery teams that learn to be digital through experience. Teams of
