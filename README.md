@@ -1,8 +1,3 @@
----
-layout: default
-title: Exchange Lab - Home
-nav_order: 0
----
 
 # Exchange Lab - Home
 
