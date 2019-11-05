@@ -10,6 +10,8 @@ Have you been working towards delivering value in your organization and feel tha
 
 Maybe it's time to step back and consider some new ways of working. Your friends at the Exchange lab have done that, and are having lots of learning, success, and fun. We're keen to share.
 
+<a href="/ExchangeLabOps/One-Pager_Journey-of-an-Exchange-Lab-Team.pdf">Learn about the full Journey of a Team</a>
+
 * [Learn about the full Journey of a Team](https://github.com/bcgov/ExchangeLabOps/blob/master/One-Pager_Journey-of-an-Exchange-Lab-Team.pdf).
 * [Learn more about the Agile process](https://developer.gov.bc.ca/Agile-Delivery-Process/Agile-Delivery-Process)
 
