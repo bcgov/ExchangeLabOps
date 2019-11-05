@@ -11,6 +11,10 @@ We've curated a few of our favourite links for you to enjoy. There's plenty more
 ## Product Owner in a Nutshell
 -->  [Video](https://www.youtube.com/watch?v=502ILHjX9EE)  <--
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=502ILHjX9EE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 Learn about the typical experience of a Product Owner in an ideal Agile Scrum team situation. This is important for government teams to watch because Henrik does a wonderful job explaining the typical challenges we face with decision making and productivity. He illustrates nicely why the role of "Product OWner" is so valuable, and some of the challenges they experience.
 
 ## Agile in the BC Public Service - The Mines Digital Service Team Experience
