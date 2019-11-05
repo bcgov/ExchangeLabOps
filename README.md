@@ -1,6 +1,6 @@
 # Exchange Lab - Home
 
-The BCDevExchange exists at the leading edge of delivery-driven government in British Columbia. We live at a location called the **Exchage Lab.** (Formerly the Continuous Service Improvement (CSI) Lab)
+The BCDevExchange exists at the leading edge of delivery-driven government in British Columbia. We live at a location called the **Exchange Lab.** (Formerly the Continuous Service Improvement (CSI) Lab)
 
 ## What you'll find here
 
