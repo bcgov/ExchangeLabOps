@@ -26,7 +26,7 @@ If you are interested in coming to the lab to support your organization to devel
 3. Consider what problem you might address with these new methods. (What have you been stuck on? Where could you start small?).
 <a href="/ExchangeLabOps/0_Desire-a-new-way-of-working/Lab-Residency_Intake-Value-Canvas-Workbook.pdf">Fill out a Value Canvas.</a>
 4. Attend a Lab Info Session (coming soon!)
-5. Meet with Exchange Lab leadership to discuss the opportunities available to you to get started. <a href = "ExchangeLab@gov.bc.ca">Contact the LabOps Team</a>.
+5. Meet with Exchange Lab leadership to discuss the opportunities available to you to get started. <a href = "mailto:ExchangeLab@gov.bc.ca">Contact the LabOps Team</a>.
 6. If you are close to meeting readiness critieria, we facilitate an Alignment session for the Product Owner, their leadership and stakeholders.
 7. If Alignment is successful, we get to sign the 
 <a href="/ExchangeLabOps/0_Desire-a-new-way-of-working/Lab-Residency-Partnership-Agreement.pdf">Partnership Agreement.</a>
