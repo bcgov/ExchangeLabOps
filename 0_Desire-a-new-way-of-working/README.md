@@ -28,6 +28,7 @@ If you are interested in coming to the lab to support your organization to devel
 4. Attend a Lab Info Session (coming soon!)
 5. Meet with Exchange Lab leadership to discuss the opportunities available to you to get started. [Contact the LabOps Team](ExchangeLab@gov.bc.ca).
 6. If you are close to meeting readiness critieria, we facilitate an Alignment session for the Product Owner, their leadership and stakeholders.
-7. If Alignment is successful, we get to sign the [Partnership Agreement](https://github.com/bcgov/ExchangeLabOps/blob/master/0_Desire-a-new-way-of-working/Lab-Residency-Partnership-Agreement.pdf).
+7. If Alignment is successful, we get to sign the 
+<a href="/ExchangeLabOps/0_Desire-a-new-way-of-working/Lab-Residency-Partnership-Agreement.pdf">Partnership Agreement.</a>
 8. Get started!
 
