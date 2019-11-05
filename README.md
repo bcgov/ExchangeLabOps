@@ -30,7 +30,7 @@ At the Lab, we build Digital Delivery Teams. We train these teams in methods ali
 
 * [Learn about teams in the Lab or that have graduated.](https://github.com/bcgov/ExchangeLabOps/tree/master/Resident-Teams)
 
-[a relative link](/Resident-Teams/README.html)
+[a relative link](/ExchangeLabOps/Resident-Teams/README.html)
 
 Delivery Teams at the Lab are surrounded by mentors and experts in DevOps, service design, behavioral insights, innovation, privacy, security, and data. These disciplines combine with the Agile approach to development to enable teams to deliver small increments of value quickly. Teams learn and improve their product with direct feedback from users every few weeks and deliver substantial value within a year.
 
