@@ -16,7 +16,7 @@ We also code in the open.
 This is a brief overview of the teams that have come through the Exchange Lab to learn how to work with DevOps methods and tools and as Agile product teams. 
 * [Or, download a 2 page PDF version of this content](https://github.com/bcgov/ExchangeLabOps/blob/master/Resident-Teams/2019-10-09_2pager_About-Exchange-Lab-teams.pdf)
 
-<a href="https://github.com/bcgov/ExchangeLabOps/blob/master/Resident-Teams/2019-10-09_2pager_About-Exchange-Lab-teams.pdf" download>Download PDF</a>
+<a href="/ExchangeLabOps/Resident-Teams/2019-10-09_2pager_About-Exchange-Lab-teams.pdf" download>Download PDF</a>
 
 ## Current Teams
 
