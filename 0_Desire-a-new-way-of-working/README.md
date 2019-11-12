@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phase 0 - Desire For Change.
+title: 1. Desire Change.
 nav_order: 10
 ---
 
