@@ -50,6 +50,10 @@ The new application will leverage the BC Services Card and PayBC for credit card
 * [View the app]()
 * [See the code on GitHub](https://github.com/bcgov/entity)
 
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| Vue | Flask, NameX  | PostgresSQL | Jenkins | Nightwatch | TypeScript, Python, js |
+
 ### Invasive Species
 Conservation is a key outcome for this team building tools to support invasive species
 management. The open source code will be a foundation for managing other types of species
