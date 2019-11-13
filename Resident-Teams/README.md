@@ -38,6 +38,10 @@ This branch of the Office of the Chief Information Officer models a modern Publi
 * [View the app](https://bcdevexchange.org/)
 * [See the code on GitHub](https://github.com/BCDevExchange/devex)
 
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| Agular | Express, Node.js  | Mongodb | Jenkins | | js, TypeScript |
+
 ### BC Registries
 The ServiceBC team is developing a number of Registry products. The Names Examination
 application verifies if a company name is available for use in BC. Cooperatives in B.C. will soon be
