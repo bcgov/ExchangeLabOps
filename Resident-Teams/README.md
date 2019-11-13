@@ -131,6 +131,10 @@ reused to produce an application that enables more efficient FOI process.
 * [View the app](https://my.gov.bc.ca/msp/application)
 * [See the code on GitHub](https://github.com/bcgov/MyGovBC-MSP)
 
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| Agular | Node.js  | | Jenkins | | js, TypeScript |
+
 ### MyRangeBC
 The Range program built an app with the BCDevExchange's Mobile Pathfinder that enables
 offline collection and management of data about crown lands used for livestock range. The open
