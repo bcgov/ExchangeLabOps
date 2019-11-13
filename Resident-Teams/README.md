@@ -130,6 +130,10 @@ source tool supports sustainable management of herds and the wild plants they re
 * [View the app](https://myrangebc.gov.bc.ca/)
 * [See the code on GitHub](https://github.com/bcgov/range-web)
 
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| React, Swift | Express, Node.js | PostgreSQL | Jenkins | | js, Swift |
+
 ### Water
 This team first built Groundwater wells (GWELLS): a registry application for industry, academia,
 governments and the general public who submit or use groundwater data and information. The
