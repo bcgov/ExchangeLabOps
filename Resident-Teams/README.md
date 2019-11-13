@@ -57,6 +57,10 @@ and ecosystem data in the future.
 * [View the app]()
 * [See the code on GitHub](https://github.com/bcgov/lucy-web)
 
+| Frontend | Backend | Database  | Deployment Tool| Browser Automation Test | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| Angular 2, Swift | Express, Node.js  | PostgresSQL | Jenkins | | js, Swift |
+
 ### Greenhouse Gas Industrial Reporting & Control
 This system is helping the Climate Action Secretariat to better understand the state of industrial
 greenhouse gas emissions in the province. Easy data visualization and analysis using open source
