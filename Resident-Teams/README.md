@@ -92,6 +92,10 @@ people learn about and provide comments on proposed activities.
 * [View the app](https://comment.nrs.gov.bc.ca/applications#splash)
 * [See the code on GitHub](https://github.com/bcgov/nrts-prc-public)
 
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| Agular | Node.js  | MongoDB | Jenkins | | js, TypeScript |  
+
 ### Environmental Assessment
 EPIC (EAO Project Information and Collaboration) provides citizens, Indigenous groups and
 stakeholders access to centralized information and the ability to participate in and provide
@@ -101,7 +105,7 @@ feedback on environmental assessments. The tool also simplifies business process
 
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
-| Angular | Express, Node.js  | Mongodb | Jenkins | | js |
+| Angular | Express, Node.js  | MongoDB | Jenkins | | js |
 
 ### Mines Digital Service (MDS)
 This dual team has built scalable, open source, data-driven systems, including a platform for
