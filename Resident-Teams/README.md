@@ -68,6 +68,10 @@ tools will help create and support programs to track and reduce industrial emiss
 team is also building a better experience for industrial reporters to send and view their data.
 * [See the code on GitHub](https://github.com/bcgov/cas-ggircs)
 
+| Frontend | Backend | Database  | Deployment Tool| Browser Automation Test | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| React, Relay, Next.js  | Node.js, GraphQL  | PostgresSQL | CircleCI | | typescript |
+
 ### Health Gateway
 The Health Gateway product will empower citizens with access and control over their health
 record. It enables a citizen to not only view and act on their health information, but also to
