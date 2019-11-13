@@ -26,6 +26,7 @@ that can be used globally. The Province of BC is leveraging open source decentra
 technology and collaborating with global experts to create this new capability.
 * [View the app](https://orgbook.gov.bc.ca/en/home)
 * [See the code on GitHub](https://github.com/bcgov/von)
+
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | Agular, Vue | Django, Node.js  | PostgresSQL | Jenkins | | Python, js |
