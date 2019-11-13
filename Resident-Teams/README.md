@@ -153,6 +153,10 @@ emissions from transportation fuel.
 * [View the app](https://www2.gov.bc.ca/gov/content/industry/electricity-alternative-energy/transportation-energies/renewable-low-carbon-fuels/transportation-fuels-reporting-system)
 * [See the code on GitHub](https://github.com/bcgov/tfrs)
 
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| React Redux | Django | PostgreSQL | Jenkins | Groovy/GEB | js, Python, Groovy |
+
 ### 100+ Apps Using DevOps and Coding in the Open
 While the BCDevExchange supports teams to deliver product in the Lab, we also make our DevOps platform available to teams outside of the Exchange lab. These teams are part of the development community helping to modernize the BC Public Service, including coding in the open. 
 * [See Developer.gov.bc.ca - the DevHub - for how they make things happen, including our design system of reusable components.](https://developer.gov.bc.ca/)
