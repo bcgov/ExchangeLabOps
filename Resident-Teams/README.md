@@ -111,6 +111,10 @@ a public portal – Minespace – allows mines to self-report electronically.
 * [View the BC Mine Information website's administrative console](https://mines.empr.gov.bc.ca/) ([github repository](https://github.com/bcgov/mem-admin))
 * [Learn about MDS](https://github.com/bcgov/mds)
 
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| React Redux | Pyhton Flask | PostgreSQL | Jenkins | Groovy/GEB | js, Pyton, Groovy |
+
 ### MSP Forms
 One of the first products to be supported by the BCDevExchange, the MSP application was a
 simple solution to a costly problem: a 40% error rate in MSP forms. People seeking health care in
