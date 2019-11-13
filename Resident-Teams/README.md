@@ -70,13 +70,17 @@ team is also building a better experience for industrial reporters to send and v
 
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
-| React, Relay, Next.js  | Node.js, GraphQL  | PostgresSQL | CircleCI | | typescript |
+| React, Relay, Next.js  | Node.js, GraphQL  | PostgresSQL | CircleCI | | Typescript |
 
 ### Health Gateway
 The Health Gateway product will empower citizens with access and control over their health
 record. It enables a citizen to not only view and act on their health information, but also to
 connect it safely and security with third-party health care applications.
 * [See the code on GitHub](https://github.com/bcgov/healthgateway)
+
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| Vue  | .NETCore  | PostgresSQL | Azure Agent | Selenium | js, c# |
 
 ## Graduated Teams
 
