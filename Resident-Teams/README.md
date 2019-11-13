@@ -57,7 +57,7 @@ and ecosystem data in the future.
 * [View the app]()
 * [See the code on GitHub](https://github.com/bcgov/lucy-web)
 
-| Frontend | Backend | Database  | Deployment Tool| Browser Automation Test | Languages|
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | Angular 2, Swift | Express, Node.js  | PostgresSQL | Jenkins | | js, Swift |
 
@@ -68,7 +68,7 @@ tools will help create and support programs to track and reduce industrial emiss
 team is also building a better experience for industrial reporters to send and view their data.
 * [See the code on GitHub](https://github.com/bcgov/cas-ggircs)
 
-| Frontend | Backend | Database  | Deployment Tool| Browser Automation Test | Languages|
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | React, Relay, Next.js  | Node.js, GraphQL  | PostgresSQL | CircleCI | | typescript |
 
