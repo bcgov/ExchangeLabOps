@@ -142,6 +142,10 @@ visualization service that enables robust and defensible water resource decision
 * [View the Groundwater Wells app](https://apps.nrs.gov.bc.ca/gwells/)
 * [See the code for Groundwater Wells on GitHub](https://github.com/bcgov/gwells)
 
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| Vue | Django REST | PostgreSQL | Jenkins | Groovy/GEB | js, Python, Groovy |
+
 ### Transportation Fuel Reporting System
 The Transportation Fuels Reporting System facilitates online Fuel Reporting and Low Carbon
 Fuel Credit Trading supporting BC’s market-based approach to avoiding lifecycle GHG
