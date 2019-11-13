@@ -99,6 +99,10 @@ feedback on environmental assessments. The tool also simplifies business process
 * [View the app](https://projects.eao.gov.bc.ca/)
 * [See the code on GitHub](https://github.com/bcgov/eagle-public)
 
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| Angular | Express, Node.js  | Mongodb | Jenkins | | js |
+
 ### Mines Digital Service (MDS)
 This dual team has built scalable, open source, data-driven systems, including a platform for
 ministry staff that is intuitive and capable of providing meaningful data. They are also building
