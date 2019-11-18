@@ -52,7 +52,7 @@ The new application will leverage the BC Services Card and PayBC for credit card
 
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
-| Vue | Flask, NameX  | PostgresSQL | Jenkins | Nightwatch | TypeScript, Python, js |
+| Vue | Flask, NameX, aiohttp  | PostgresSQL | Jenkins | Nightwatch | TypeScript, Python, js |
 
 ### Invasive Species
 Conservation is a key outcome for this team building tools to support invasive species
