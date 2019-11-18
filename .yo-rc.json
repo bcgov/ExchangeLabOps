@@ -1,0 +1,33 @@
+{
+  "generator-bcdk": {
+    "promptValues": {
+      "modules": {
+        "jenkins": {
+          "path": ".jenkins",
+          "namespace": "fpgket-tools",
+          "name": "jenkins",
+          "version": "1.0.0",
+          "environments": {
+            "build": {
+              "namespace": "fpgket-tools"
+            },
+            "dev": {
+              "namespace": "fpgket-tools"
+            },
+            "test": {
+              "namespace": "fpgket-tools"
+            },
+            "prod": {
+              "namespace": "fpgket-tools"
+            }
+          },
+          "jenkinsJobName": "_jenkins",
+          "github_owner": "bcgov",
+          "github_repo": "ExchangeLabOps",
+          "jenkinsFilePath": ".jenkins/Jenkinsfile",
+          "uuid": "a47950a3-0f98-4090-a617-0f6bf7a00c97"
+        }
+      }
+    }
+  }
+}
