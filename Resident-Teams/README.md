@@ -29,7 +29,7 @@ technology and collaborating with global experts to create this new capability.
 
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
-| Agular, Vue | Django, Node.js  | PostgresSQL | Jenkins | | Python, js |
+| Angular, Vue | Django, Node.js  | PostgresSQL | Jenkins | | Python, js |
 
 ### BCDevExchange
 The team behind the initial creation of the Exchange Lab (formerly CSI Lab), the BCDevExchange
@@ -40,7 +40,7 @@ This branch of the Office of the Chief Information Officer models a modern Publi
 
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
-| Agular | Express, Node.js  | Mongodb | Jenkins | | js, TypeScript |
+| Angular | Express, Node.js  | Mongodb | Jenkins | | js, TypeScript |
 
 ### BC Registries
 The ServiceBC team is developing a number of Registry products. The Names Examination
