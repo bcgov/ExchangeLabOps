@@ -2,6 +2,16 @@
 layout: default
 title: Teams and Lab Products
 nav_order: 9
+personas: 
+  - Developer
+  - Product Owner
+  - Designer
+labels:
+  - tech
+  - stack
+  - current
+  - graduated
+  - teams
 ---
 
 # Teams from Across the BC Public Service Learn to be Digital at the Exchange Lab
