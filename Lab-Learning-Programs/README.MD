@@ -6,8 +6,9 @@ nav_order: 21
 ---
 
 # Learning
-| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+| Offering | What is this? | Who is it for?  | When?| Who delivers it? | Who is required to enroll?|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| Agile Fundamentals |  Learn the basics of Agile and about the Scrum Methodology we use at the Exchange lab and more broadly across the BCPS. | All government employees. Required for new teams entering the Exchange Lab, including contractors on teams. | Registration dates here | | we do |
 | Angular, Vue | Django, Node.js  | PostgresSQL | Jenkins | | Python, js |
 
 
