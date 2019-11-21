@@ -6,6 +6,10 @@ nav_order: 21
 ---
 
 # Learning
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| Angular, Vue | Django, Node.js  | PostgresSQL | Jenkins | | Python, js |
+
 
 Our team creates and offers learning programs to support agencies to build the structures and competencies that enable better service delivery through digital government. 
 
