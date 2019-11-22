@@ -11,7 +11,7 @@ nav_order: 21
 
 Learn the basics of Agile and about the Scrum Methodology we use at the Exchange lab and more broadly across the BCPS. 
 
-| Who is it for?  | When?| Who delivers it? | Who is required to enroll?|
+| Who is it for?  | When?| Who delivers it? | Who is required to enroll? | 
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | All government employees. | Registration dates here | Internal government employees: Scrum Masters and experienced Agilists (lab and partners) | New teams entering the Exchange Lab, including contractors on teams |
 
