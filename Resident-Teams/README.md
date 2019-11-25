@@ -6,12 +6,13 @@ personas:
   - Developer
   - Product Owner
   - Designer
-labels:
+tags:
   - tech
   - stack
   - current
   - graduated
   - teams
+description: A list of current and graduated teams, including their tech stacks.
 ---
 
 # Teams from Across the BC Public Service Learn to be Digital at the Exchange Lab
