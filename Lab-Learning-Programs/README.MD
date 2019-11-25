@@ -23,7 +23,7 @@ Learn the basics of Agile and about the Scrum Methodology we use at the Exchange
 
 | Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
 |:-----------------:|:----:|:----------------:|:--------------------------:|
-|  * BC Government employees   * BC Government contractors | Registration dates [Here](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite") | Internal government employees: Scrum Masters and experienced Agilists (lab and partners) | New teams entering the Exchange Lab, including contractors on teams |
+|  *  BC Government employees   *  BC Government contractors | Registration dates [Here](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite") | Internal government employees: Scrum Masters and experienced Agilists (lab and partners) | New teams entering the Exchange Lab, including contractors on teams |
 
 #### Digital Leadership
 
