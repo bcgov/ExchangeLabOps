@@ -22,7 +22,7 @@ The language and culture that has developed around these approaches is new and c
 #### Agile Fundamentals
 
 Learn the basics of Agile and about the Scrum Methodology we use at the Exchange lab and more broadly across the BCPS. 
-Course reading and watching resources can be found [here] (https://trello.com/b/1Zc2yCGO/exchange-lab-reading-watching-list "Resources for Agile (Trello Board)")
+Course reading and watching resources can be found [here](https://trello.com/b/1Zc2yCGO/exchange-lab-reading-watching-list "Resources for Agile (Trello Board)")
 
 | Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
 |-------------------|:----:|:----------------:|:--------------------------:|
@@ -40,7 +40,7 @@ Course content unpacks new leadership competencies, the new OCIO Digital Framewo
 #### Discover DevOps
 
 An introduction to what DevOps is, how it works, and why it is important for Product Owners (current or aspiring) to understand.
-Course reading and watching resources can be found [here] (https://trello.com/b/FYLrFxWQ/discover-devops "Resources for Discover DevOps (Trello Board)")
+Course reading and watching resources can be found [here](https://trello.com/b/FYLrFxWQ/discover-devops "Resources for Discover DevOps (Trello Board)")
 
 | Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
 |-------------------|:----:|:----------------:|:--------------------------:|
