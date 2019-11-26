@@ -22,7 +22,7 @@ The language and culture that has developed around these approaches is new and c
 #### Agile Fundamentals
 
 Learn the basics of Agile and about the Scrum Methodology we use at the Exchange lab and more broadly across the BCPS. 
-Course reading and watching resources can be found [here](https://trello.com/b/1Zc2yCGO/exchange-lab-reading-watching-list "Resources for Agile (Trello Board)")
+Course reading and watching resources can be found [Here](https://trello.com/b/1Zc2yCGO/exchange-lab-reading-watching-list "Resources for Agile (Trello Board)")
 
 | Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
 |-------------------|:----:|:----------------:|:--------------------------:|
