@@ -17,25 +17,40 @@ The methods and tools used for delivery at the lab are largely new to to the BC 
 
 The language and culture that has developed around these approaches is new and can be disorienting if you have not made the effort to learn.
 
+### Current Lab Training Offerings
+
 #### Agile Fundamentals
 
 Learn the basics of Agile and about the Scrum Methodology we use at the Exchange lab and more broadly across the BCPS. 
 
 | Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
 |:-----------------:|:----:|:----------------:|:--------------------------:|
-|  *  BC Government employees   *  BC Government contractors | Registration dates [Here](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite") | Internal government employees: Scrum Masters and experienced Agilists (lab and partners) | New teams entering the Exchange Lab, including contractors on teams |
+|  *  BC Government employees <br \>  *  BC Government contractors | Registration dates [Here](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite") | Internal government employees: Scrum Masters and experienced Agilists (lab and partners) | New teams entering the Exchange Lab, including contractors on teams |
 
 #### Digital Leadership
 
 Course content unpacks new leadership competencies, the new OCIO Digital Framework and focuses on Agile Governance, Lean IT and Servant Leadership
 
+| Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
+|:-----------------:|:----:|:----------------:|:--------------------------:|
+|  *  BC Government employees Band 3 and above | Registration dates [Here](https://www.eventbrite.ca/e/digital-leadership-training-tickets-79630142901 "Digital Leadership - Eventbrite") | Sid Tobias, Natural Resource Ministries | Leadership responsible for Agile teams |
+
+
 #### Discover DevOps
 
 An introduction to what DevOps is, how it works, and why it is important for Product Owners (current or aspiring) to understand.
 
+| Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
+|:-----------------:|:----:|:----------------:|:--------------------------:|
+|  *  BC Government employees, ideally product owners (current and aspiring) | Registration dates [Here](https://www.eventbrite.ca/e/discover-devops-tickets-82642392621 "Discover DevOps - Eventbrite") | Todd Wilson, BCDevExchange | Product Owners on software application development teams |
+
 #### OpenShift 101
 
 Covers DevOps platform training (application operational tasks).
+
+| Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
+|:-----------------:|:----:|:----------------:|:--------------------------:|
+|    *  BC Government employees <br \>  *  BC Government contractors | Registration dates [Here](https://www.eventbrite.ca/e/openshift-101-tickets-77206810649 "OpenShift 101 - Eventbrite") | Internal Government Staff (Developers) | Developers using the OpenShift Containter Platform |
 
 ### Community - Broad and specific to people who are learning new roles.
 
