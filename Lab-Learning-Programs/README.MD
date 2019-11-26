@@ -24,7 +24,7 @@ The language and culture that has developed around these approaches is new and c
 Learn the basics of Agile and about the Scrum Methodology we use at the Exchange lab and more broadly across the BCPS. 
 
 | Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
-|:-----------------:|:----:|:----------------:|:--------------------------:|
+|-------------------|:----:|:----------------:|:--------------------------:|
 |  <ul><li>  BC Government employees </li><li>BC Government contractors</li></ul> | Registration dates [Here](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite") | Internal government employees: Scrum Masters and experienced Agilists (lab and partners) | New teams entering the Exchange Lab, including contractors on teams |
 
 #### Digital Leadership
@@ -32,8 +32,8 @@ Learn the basics of Agile and about the Scrum Methodology we use at the Exchange
 Course content unpacks new leadership competencies, the new OCIO Digital Framework and focuses on Agile Governance, Lean IT and Servant Leadership
 
 | Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
-|:-----------------:|:----:|:----------------:|:--------------------------:|
-|  *  BC Government employees Band 3 and above | Registration dates [Here](https://www.eventbrite.ca/e/digital-leadership-training-tickets-79630142901 "Digital Leadership - Eventbrite") | Sid Tobias, Natural Resource Ministries | Leadership responsible for Agile teams |
+|-------------------|:----:|:----------------:|:--------------------------:|
+|<ul><li>BC Government employees Band 3 and above</li></ul> | Registration dates [Here](https://www.eventbrite.ca/e/digital-leadership-training-tickets-79630142901 "Digital Leadership - Eventbrite") | Sid Tobias, Natural Resource Ministries | Leadership responsible for Agile teams |
 
 
 #### Discover DevOps
