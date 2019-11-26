@@ -25,7 +25,7 @@ Learn the basics of Agile and about the Scrum Methodology we use at the Exchange
 
 | Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
 |:-----------------:|:----:|:----------------:|:--------------------------:|
-|  *  BC Government employees <br \>  *  BC Government contractors | Registration dates [Here](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite") | Internal government employees: Scrum Masters and experienced Agilists (lab and partners) | New teams entering the Exchange Lab, including contractors on teams |
+|  <ul><li>  BC Government employees </li><li>BC Government contractors</li></ul> | Registration dates [Here](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite") | Internal government employees: Scrum Masters and experienced Agilists (lab and partners) | New teams entering the Exchange Lab, including contractors on teams |
 
 #### Digital Leadership
 
@@ -50,7 +50,7 @@ Covers DevOps platform training (application operational tasks).
 
 | Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
 |:-----------------:|:----:|:----------------:|:--------------------------:|
-|    *  BC Government employees <br \>  *  BC Government contractors | Registration dates [Here](https://www.eventbrite.ca/e/openshift-101-tickets-77206810649 "OpenShift 101 - Eventbrite") | Internal Government Staff (Developers) | Developers using the OpenShift Containter Platform |
+| <ul><li>  BC Government employees </li><li>BC Government contractors</li></ul> | Registration dates [Here](https://www.eventbrite.ca/e/openshift-101-tickets-77206810649 "OpenShift 101 - Eventbrite") | Internal Government Staff (Developers) | Developers using the OpenShift Containter Platform |
 
 ### Community - Broad and specific to people who are learning new roles.
 
