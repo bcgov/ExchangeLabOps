@@ -9,15 +9,18 @@ nav_order: 21
 
 Our team creates and offers learning programs to support agencies to build the structures and competencies that enable better service delivery through digital government. 
 
-All of the programs at the Exchange Lab are designed to facilitate learning this new way of working. In particular, we offer the following:
-
-### [Training - Delivered for a variety of experience levels.](https://miro.com/app/board/o9J_kyzak5o=/?moveToWidget=3074457346984654518)
-
 The methods and tools used for delivery at the lab are largely new to to the BC Public Service, but have been used with success in other governments and sectors. We apply a specific approach, called Agile, to foster high performing teams that focus and deliver products in short time frames through iterative development. We also expect continuous service improvement and new approaches to technology, specifically DevOps practices.
 
 The language and culture that has developed around these approaches is new and can be disorienting if you have not made the effort to learn.
 
+All of the programs at the Exchange Lab are designed to facilitate learning this new way of working. In particular, we offer the following:
+
+### [Lab Learning Program Miro Board](https://miro.com/app/board/o9J_kyzak5o=/?moveToWidget=3074457346984654518)
+Note - the information on this Miro Board is being migrated to this website.
+
 ### Current Lab Training Offerings
+
+To be notified when new training sessions are being offered, [sign up to our mailing list](eepurl.com/gCpvVP "BCDevExchange Mailing List Sign Up")
 
 #### Agile Fundamentals
 
@@ -70,6 +73,6 @@ Programs created at the Lab are done so in collaboration with individuals across
 
 We also promote and offer training from other organizations and vendors that has been tested and accepted to be aligned with the BC Public Service's approach to digital.
 
-*Do you know of some excellent training we should point people to?* Please let us know at Exchangelab@gov.bc.ca.
+*Do you know of some excellent training we should point people to?* Please let us know at [ExchangeLab@gov.bc.ca](mailto:exchangelab@gov.bc.ca "Email ExchangeLab@gov.bc.ca").
 
 Note: materials offered here are open under a creative commons licence. 
