@@ -20,7 +20,7 @@ Note - the information on this Miro Board is being migrated to this website.
 
 ### Current Lab Training Offerings
 
-To be notified when new training sessions are being offered, [sign up to our mailing list](eepurl.com/gCpvVP "BCDevExchange Mailing List Sign Up")
+To be notified when new training sessions are being offered, [sign up to our mailing list](https://eepurl.com/gCpvVP "BCDevExchange Mailing List Sign Up")
 
 #### Agile Fundamentals
 
