@@ -4,7 +4,20 @@ title: Learning and Resources
 has_children: true
 nav_order: 21
 ---
-
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 50%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+}
+</style>
 # Learning
 
 Our team creates and offers learning programs to support agencies to build the structures and competencies that enable better service delivery through digital government. 
