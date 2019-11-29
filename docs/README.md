@@ -1,6 +1,6 @@
 # Exchange Lab - Fake Home
 
-The BCDevExchange exists at the leading edge of delivery-driven government in British Columbia. We live at a location called the **Exchage Lab.** (Formerly the Continuous Service Improvement (CSI) Lab)
+The BCDevExchange exists at the leading edge of delivery-driven government in British Columbia. We live at a location called the **Exchange Lab.** (Formerly the Continuous Service Improvement (CSI) Lab)
 
 ## What you'll find here
 
@@ -36,7 +36,7 @@ The BCDevExchange organization embraces experimentation, innovation and empowerm
 
 At the Lab, we build Digital Delivery Teams. We train these teams in methods aligned to an Agile mindset, equip them with enabling processes and technology, and empower them to use these tools and teamwork to build better public services. 
 
-* [Learn about teams in the Lab or that have graduated.](https://github.com/bcgov/ExchangeLabOps/tree/master/Resident-Teams)
+* [Learn about teams in the Lab or that have graduated.](/ExchangeLabOps/Resident-Teams/README.html)
 
 [a relative link](/ExchangeLabOps/Resident-Teams/README.html)
 
