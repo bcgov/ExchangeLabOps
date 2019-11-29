@@ -19,7 +19,7 @@ For developer specific resources, [please see the DevHub](http://developer.gov.b
 # This is a test 
 The snippet will be after this. 
 
-{% include_relative /snipit.md %}
+{% include_relative ../snipit.md %}
 
 The snippet will be before this.
 
