@@ -16,6 +16,14 @@ This site is maintained by the Lab Operations team. This is where we share infor
 
 For developer specific resources, [please see the DevHub](http://developer.gov.bc.ca)
 
+# This is a test 
+The snippet will be after this. 
+
+{% snipit.md %}
+
+The snippet will be before this.
+
+
 # More About Us
 
 We are here to improve people's lives, address the province's priorities and improve the public's experience of government. To do this we work with program areas across government and we: 
