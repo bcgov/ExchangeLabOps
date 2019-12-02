@@ -1,5 +1,5 @@
 # Exchange Lab - Fake Home
-[[ assets/images/BCDevExchange-avatar.png|alt=octocat]]
+[[https://github.com/thegentlemanphysicist/ExchangeLabOps/blob/master/docs/assets/images/BCDevExchange-avatar.png|alt=octocat]]
 
 The BCDevExchange exists at the leading edge of delivery-driven government in British Columbia. We live at a location called the **Exchange Lab.** (Formerly the Continuous Service Improvement (CSI) Lab)
 
