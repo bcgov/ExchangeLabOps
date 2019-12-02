@@ -50,5 +50,3 @@ Agile Scrum Teams are made up of 7 +/- 2 dedicated team members, with at least 2
 
 ### Customizations in the BC Public Service
 When there are limitations to hiring, we bring in contracted resources through [Sprint With Us](https://www.bcdevexchange.org/sprintwithus), a modern procurement vehicle that procures Agile teams.
-
-- its current status, nature of practice, etc in gov - ie (limited) history pre-Lab, how we practice it in Lab ("customizations" we've made), nascent proliferation around gov, and the fact/risks of "fake" agile
