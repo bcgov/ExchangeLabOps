@@ -20,12 +20,12 @@ In 2015, we started experimenting with Agile product teams. We learned about the
   * Bringing developers and operations closer together (DevOps)
   * Openness, transparency and community
 
-The positive results are evident given that there are over 12 product teams who have delivered high quality products within a year. The demand for support from across the Public Service to become more Agile is increasing. While the Exchange Lab uses Agile-Scrum methodologies, there is interest in applying Agile values and principles more broadly. There is a growing community of people supporting each other to learn how to apply scrum and other methods.
+The positive results are evident given that there are over [12 product teams](https://bcgov.github.io/ExchangeLabOps/Resident-Teams/README.html) who have delivered high quality products within a year. The demand for support from across the Public Service to become more Agile is increasing. While the Exchange Lab uses Agile-Scrum methodologies, there is interest in applying Agile values and principles more broadly. There is a growing community of people supporting each other to learn how to apply scrum and other methods.
 
 Join the community and start a conversation:
  * [Rocket.Chat](https://chat.pathfinder.gov.bc.ca "Rocket.Chat")
  * [LinkedIn](https://www.linkedin.com/company/bc-gov-csi-lab/ "BCDevExchange LinkedIn Page")
- * [@work](https://gww.gov.bc.ca/groups/bcdevexchange *BCDevExchange @work Page")
+ * [@work](https://gww.gov.bc.ca/groups/bcdevexchange "BCDevExchange @work Page")
 
 ## About Agile Scrum
 
