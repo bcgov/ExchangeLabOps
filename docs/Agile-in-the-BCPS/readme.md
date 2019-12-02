@@ -32,21 +32,19 @@ Join the community and start a conversation:
 Why do some organizations struggle to become agile?
 There are structures and resulting culture that prevent agile practices. These are hard to change and we're all learning to do this together. There are some specific competencies and practices that organizations can start working on right away. Servant leaders at the executive level supporting autonomous teams is key.
 
-These are the things that you can do:
+Tips:
 
 * Work in the open: Share information that would not normally be out there
 * Talk to your users directly, ideally citizens receiving services
 * Use modern tools and technology that support automation
 
-If youre interested in Agile Scrum in the BCPS, here's some things to know:
+### If you're interested in Agile Scrum in the BCPS, here are some things to know:
 
-### Teams
-Agile Scrum Teams are made up of 7 +/- 2 dedicated team members, with at least 2 full time government staff
-* Product Owner: Must be government staff
+#### Teams
+Agile Scrum Teams are made up of 5 to 9 dedicated team members, with at least 2 full time government staff
+* Product Owner
 * Scrum Master
-* Development team: If it is a software development product, one of the developers must be government staff
+* Development team
 
-[Agile Scrum](/assets/images/2019-12-02_one-pager_Agile-team-governance-bcps.png)
-
-### Customizations in the BC Public Service
+#### Customizations in the BC Public Service
 When there are limitations to hiring, we bring in contracted resources through [Sprint With Us](https://www.bcdevexchange.org/sprintwithus), a modern procurement vehicle that procures Agile teams.
