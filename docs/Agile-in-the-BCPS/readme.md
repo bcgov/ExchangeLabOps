@@ -46,6 +46,8 @@ Agile Scrum Teams are made up of 7 +/- 2 dedicated team members, with at least 2
 * Scrum Master
 * Development team: If it is a software development product, one of the developers must be government staff
 
+[Agile Scrum](/assets/images/2019-12-02_one-pager_Agile-team-governance-bcps.png)
+
 ### Customizations in the BC Public Service
 When there are limitations to hiring, we bring in contracted resources through [Sprint With Us](https://www.bcdevexchange.org/sprintwithus), a modern procurement vehicle that procures Agile teams.
 
