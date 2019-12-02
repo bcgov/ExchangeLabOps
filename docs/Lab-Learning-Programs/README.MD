@@ -42,7 +42,10 @@ Course reading and watching resources can be found [Here](https://trello.com/b/1
 
 | Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
 |-------------------|:----:|:----------------:|:--------------------------:|
-|  BC Government employees and BC Government contractors | Registration dates [Here](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite") | Internal government employees: Scrum Masters and experienced Agilists (lab and partners) | New teams entering the Exchange Lab, including contractors on teams |
+|  BC Government employees and BC Government contractors | Registration dates 
+  * [Here](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite")
+  * [Here2Day](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite")
+| Internal government employees: Scrum Masters and experienced Agilists (lab and partners) | New teams entering the Exchange Lab, including contractors on teams |
 
 #### Digital Leadership
 
