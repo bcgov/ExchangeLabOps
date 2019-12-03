@@ -35,7 +35,7 @@ Join the community and start a conversation:
  * [LinkedIn](https://www.linkedin.com/company/bc-gov-csi-lab/ "BCDevExchange LinkedIn Page")
  * [@work](https://gww.gov.bc.ca/groups/bcdevexchange "BCDevExchange @work Page")
 
-## About Agile Scrum
+## Agile Practices
 
 Why do some organizations struggle to become agile?
 
@@ -46,6 +46,8 @@ Tips:
 * Work in the open: Share information that would not normally be out there
 * Talk to your users directly, ideally citizens receiving services
 * Use modern tools and technology that support automation
+
+[Check out digital principles in development for the BC Public Service. ](https://github.com/bcgov/digital-principles "Digital Principles in the BCGov Github")
 
 ### If you're interested in Agile Scrum in the BCPS, here are some things to know:
 
