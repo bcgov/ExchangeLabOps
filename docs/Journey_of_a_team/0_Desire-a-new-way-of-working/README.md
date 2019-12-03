@@ -9,26 +9,16 @@ nav_order: 10
 
 Have you been working towards delivering value in your organization and feel that the systems or process are challenging your ability to get results? Particularly when there is technology involved?
 
-Maybe it's time to step back and consider some new ways of working. Your friends at the Exchange lab have done that, and are having lots of learning, success, and fun. We're keen to share.
+**Maybe it's time to step back and consider some new ways of working.** Your friends at the Exchange lab have done that, and are having lots of learning, success, and fun. We're keen to share. In particular, we apply Agile mindset and methods to delivery value more quickly, with less wasted resources, and to people's expectations.
 
 * [Learn more about Agile in the BC Public Service ](https://bcgov.github.io/ExchangeLabOps/Agile-in-the-BCPS/readme.html)
 
-All of the programs at the lab are designed to facilitate learning. In particular, we offer the following
-* Training - Delivered for a variety of experience levels.
-* Community - Broad and specific to people who are learning new roles and methods.
-* Delivery - Through a year long residency in the Lab, or through coaching.
+When people hear about us, they aren't quite sure if we are private sector or public sector. It's that much of a difference. 
 
-## Intake to the Residency Program
-If you are interested in coming to the lab to support your organization to develop digital capacities, here is the basic process:
+So, we encourage you to suspend your disbelief, tap into your growth mindset, and explore the journey of a Lab team. There's plenty you can take away and apply without having to reside at the lab.
+
+## Get started:
 
 1. [Take a Tour of the Exchange Lab](https://www.eventbrite.ca/e/take-a-walk-on-the-agile-side-tour-of-bc-govs-csi-lab-tickets-43946375793) and hear first hand how teams are re-inventing services delivery as Digital Product Teams. 
 2. Connect with other innovation discaplines to help you think about how you might explore opportunities for service improvement (see [using ideas at work](https://www2.gov.bc.ca/gov/content/careers-myhr/all-employees/new-employees/next-steps/first-six-months))
-3. Consider what problem you might address with these new methods. (What have you been stuck on? Where could you start small?).
-<a href="/ExchangeLabOps/0_Desire-a-new-way-of-working/Lab-Residency_Intake-Value-Canvas-Workbook.pdf">Fill out a Value Canvas.</a>
-4. Attend a Lab Info Session (coming soon!)
-5. Meet with Exchange Lab leadership to discuss the opportunities available to you to get started. <a href = "mailto:ExchangeLab@gov.bc.ca">Contact the LabOps Team</a>.
-6. If you are close to meeting readiness critieria, we facilitate an Alignment session for the Product Owner, their leadership and stakeholders.
-7. If Alignment is successful, we get to sign the 
-<a href="/ExchangeLabOps/0_Desire-a-new-way-of-working/Lab-Residency-Partnership-Agreement.pdf">Partnership Agreement.</a>
-8. Get started!
-
+3. [Sign up to our newsletter](https://us3.list-manage.com/subscribe?u=2cd8863adab4f39ade7cbee34&id=b331c22b50) and keep up to date on events and training opportunities. 
