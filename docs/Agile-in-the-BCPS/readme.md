@@ -26,7 +26,9 @@ In 2015, we started experimenting with Agile product teams. We learned about the
   * Bringing developers and operations closer together (DevOps)
   * Openness, transparency and community
 
-The positive results are evident given that there are over [12 product teams](https://bcgov.github.io/ExchangeLabOps/Resident-Teams/README.html) who have delivered high quality products within a year. The demand for support from across the Public Service to become more Agile is increasing. While the Exchange Lab uses Agile-Scrum methodologies, there is interest in applying Agile values and principles more broadly. There is a growing community of people supporting each other to learn how to apply scrum and other methods.
+The positive results are evident: there are over [12 product teams](https://bcgov.github.io/ExchangeLabOps/Resident-Teams/README.html) who have delivered high quality products within a year. Additionally, organizations that have graduated teams from the Lab are now embarking on broader Agile adoption and are creating more teams.
+
+The demand for support from across the Public Service to become more Agile is increasing. While the Exchange Lab uses Agile-Scrum methodologies, there is interest in applying Agile values and principles more broadly. There is a growing community of people supporting each other to learn how to apply scrum and other methods.
 
 Join the community and start a conversation:
  * [Rocket.Chat](https://chat.pathfinder.gov.bc.ca "Rocket.Chat")
@@ -36,6 +38,7 @@ Join the community and start a conversation:
 ## About Agile Scrum
 
 Why do some organizations struggle to become agile?
+
 There are structures and resulting culture that prevent agile practices. These are hard to change and we're all learning to do this together. There are some specific competencies and practices that organizations can start working on right away. Servant leaders at the executive level supporting autonomous teams is key.
 
 Tips:
