@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Phase 1 - Assemble a team.
+parent: Journey of a Lab team
 nav_order: 11
 ---
 

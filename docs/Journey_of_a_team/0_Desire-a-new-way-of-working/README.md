@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Phase 0 - Desire Change.
+parent: Journey of a Lab team
 nav_order: 10
 ---
 
