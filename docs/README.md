@@ -16,7 +16,7 @@ We anticipate posting and continuously improving the following content:
  - Resources and services offered to Lab affliated (non-resident) teams
  - Value delivery reports and frameworks we use to improve our performance
 
-Keep up to date on our offerings here, and on our other channels: [Sign up to our Newsletter](https://us3.list-manage.com/subscribe?u=2cd8863adab4f39ade7cbee34&id=b331c22b50).
+Keep up to date on our offerings here, and on our other channels: [Sign up to our Newsletter](https://us3.list-manage.com/subscribe?u=2cd8863adab4f39ade7cbee34&id=b331c22b50)
 
 For developer specific resources, [please see the DevHub](http://developer.gov.bc.ca)
 
