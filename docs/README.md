@@ -2,7 +2,7 @@
 
 The BCDevExchange exists at the leading edge of delivery-driven government in British Columbia. We live at a location called the **Exchange Lab** (formerly the Continuous Service Improvement - CSI - Lab), at 1012 Douglas Street in Victoria, British Columbia.
 
-[We are one of many labs around the world](https://apolitical.co/government-innovation-lab-directory/ "Map of Public Sector Innovation Labs"). Our Lab has a focus on building digital competencies and a more digital government, aligned to our [Digital Framework](https://digital.gov.bc.ca/ "BC's Digital Government Website").
+[We are one of many labs around the world](https://apolitical.co/government-innovation-lab-directory/ "Map of Public Sector Innovation Labs"). Our Lab has a focus on building digital competencies and a more digital government, aligned to our [Digital Framework](https://digital.gov.bc.ca/ "BC's Digital Government Website"). 
 
 ## What you'll find here
 
@@ -12,11 +12,11 @@ We anticipate posting and continuously improving the following content:
 
  - The process a team goes through to enter the lab (admittance criteria/assessment)
  - The journey a team takes to get through the lab and to deliver product
- - Resources for Lab resident teams, including a partnership agreement and checklist
+ - Resources for Lab resident teams, including a partnership agreement
  - Resources and services offered to Lab affliated (non-resident) teams
  - Value delivery reports and frameworks we use to improve our performance
 
-Keep up to date on our offerings here, and on our other channels, by signing up to our Newsletter.
+Keep up to date on our offerings here, and on our other channels: [Sign up to our Newsletter](https://us3.list-manage.com/subscribe?u=2cd8863adab4f39ade7cbee34&id=b331c22b50).
 
 For developer specific resources, [please see the DevHub](http://developer.gov.bc.ca)
 
@@ -30,7 +30,7 @@ We are here to improve people's lives, address the province's priorities and imp
 
 The BCDevExchange organization embraces experimentation, innovation and empowerment. By adopting the principles, values and practices of the BCDevExchange, partner government entities adapt their typical ways of working to better align with leading practice amongst technology companies and digital agencies. As a result, the BCDevExchange is changing the way program areas throughout government and the broader public sector engage and work together. 
 
-At the Lab, we build Digital Delivery Teams. We train these teams in methods aligned to an Agile mindset, equip them with enabling processes and technology, and empower them to use these tools and teamwork to build better public services. 
+At the Lab, we build Digital Delivery Teams. We train these teams in [methods aligned to an Agile mindset](https://bcgov.github.io/ExchangeLabOps/Agile-in-the-BCPS/readme.html "Learn about what we mean by Agile"), equip them with enabling processes and technology, and empower them to use these tools and teamwork to build better public services. 
 
 * [Learn about teams in the Lab or that have graduated.](/ExchangeLabOps/Resident-Teams/README.html)
 
@@ -38,7 +38,7 @@ Delivery Teams at the Lab are surrounded by mentors and experts in DevOps, servi
 
 These teams, connected and supported by the BCDevExchange, pay it forward to a growing community of change makers by offering learning events and mentorship. These and other programs and experiences offered at the Lab are continuously improved.
 
-## How to Contribute
+## How to Contribute to this Site
 
 Please do offer your feedback on how well our content supports your team's operations at the lab. You can contribute issues directly to [this github repository](https://github.com/bcgov/ExchangeLabOps) for things that need to be fixed, or email ExchangeLab@gov.bc.ca.
 
