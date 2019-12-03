@@ -1,18 +1,22 @@
 # Exchange Lab - Home
 
-The BCDevExchange exists at the leading edge of delivery-driven government in British Columbia. We live at a location called the **Exchange Lab.** (Formerly the Continuous Service Improvement (CSI) Lab)
+The BCDevExchange exists at the leading edge of delivery-driven government in British Columbia. We live at a location called the **Exchange Lab** (formerly the Continuous Service Improvement - CSI - Lab), at 1012 Douglas Street in Victoria, British Columbia.
+
+[We are one of many labs around the world](https://apolitical.co/government-innovation-lab-directory/ "Map of Public Sector Innovation Labs"). Our Lab has a focus on building digital competencies and a more digital government, aligned to our [Digital Framework](https://digital.gov.bc.ca/ "BC's Digital Government Website").
 
 ## What you'll find here
 
-This site is maintained by the Lab Operations team. This is where we share information and resources with Lab Residents, community members, and those curious about how we run the lab.
+This site is maintained by the Lab Operations team. This is where we share information and resources with Lab Residents, community members, and those curious about how we run the lab. We are constantly learning what works for our diverse clients. You'll see the materials on this site improved frequently.
 
-* How you can get started with us.
-* What it takes to build a team.
-* How to deliver a product.
-* How to sustain delivery.
-* All the learning resources.
+We anticipate posting and continuously improving the following content: 
 
-[If you are coming to the Lab, please see our onboarding Trello board.](https://trello.com/b/XlAXaWkK/exchange-lab-onboarding)
+ - The process a team goes through to enter the lab (admittance criteria/assessment)
+ - The journey a team takes to get through the lab and to deliver product
+ - Resources for Lab resident teams, including a partnership agreement and checklist
+ - Resources and services offered to Lab affliated (non-resident) teams
+ - Value delivery reports and frameworks we use to improve our performance
+
+Keep up to date on our offerings here, and on our other channels, by signing up to our Newsletter.
 
 For developer specific resources, [please see the DevHub](http://developer.gov.bc.ca)
 
@@ -33,19 +37,6 @@ At the Lab, we build Digital Delivery Teams. We train these teams in methods ali
 Delivery Teams at the Lab are surrounded by mentors and experts in DevOps, service design, behavioral insights, innovation, privacy, security, and data. These disciplines combine with the Agile approach to development to enable teams to deliver small increments of value quickly. Teams learn and improve their product with direct feedback from users every few weeks and deliver substantial value within a year.
 
 These teams, connected and supported by the BCDevExchange, pay it forward to a growing community of change makers by offering learning events and mentorship. These and other programs and experiences offered at the Lab are continuously improved.
-
-## Our Goals for this Site
-
-Just getting some products we've built in the last 6 months into the open! People from around the world are asking for them :) We're working on developing a more complete web presence, but this is where we are delivering content we are asked for daily in the meantime. We always welcome feedback!
-
-We anticipate posting and continuously improving the following content: 
-
- - The process a team goes through to enter the lab (admittance criteria/assessment)
- - The journey a team takes to get through the lab and to deliver product
- - Resources for Lab resident teams, including a partnership agreement and checklist
- - Resources and services offered to Lab affliated (non-resident) teams
- - Value delivery reports and frameworks we use to improve our performance
- - Communications content library
 
 ## How to Contribute
 
