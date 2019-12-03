@@ -15,7 +15,7 @@ It is difficult to meet citizen expectation in a complex, fast-changing world. A
   
 ## From Bridges to Software to Public Service
 
-Agile has its roots in Lean manufacturing and became popular in the software industry. Traditional project management made sense for engineering projects, but challenges surfaced for software development. In particular, waterfall project management limits the ability to make changes and involve the user throughout. The division of specialized teams and cascading hand-offs results in limiting innovation, slowing delivery of value and responding to changing requirements.
+Agile has its roots in Lean manufacturing and became popular in the software industry. Traditional project management made sense for engineering projects, but challenges surfaced for software development. In particular, waterfall project management limits the ability to make changes and involve the user throughout. The division of specialized teams and cascading hand-offs limits innovation, slows delivery of value, prevents responsiveness when we learn we need to change direction.
 
 In 2015, we started experimenting with Agile product teams. We learned about the value of an [Agile Delivery Process](https://developer.gov.bc.ca/Agile-Delivery-Journey?intention=LOGIN#error=login_required "Agile Delivery Process")  and culture, including:
   * Iteration
