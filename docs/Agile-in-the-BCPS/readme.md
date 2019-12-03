@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Agile in the BC Public Service
-nav_order: 9
+nav_order: 8
 ---
 
 # Agile in the BC Public Service
