@@ -1,3 +1,9 @@
+---
+layout: default
+title: Agile in the BC Public Service
+nav_order: 9
+---
+
 # Agile in the BC Public Service
 
 Agile practices yield better results for citizens through faster and more efficient service delivery. This, according to the [Corporate HR Plan](https://www2.gov.bc.ca/assets/gov/careers/forms-tools/all-employees/corporate_plan_where_ideas_work.pdf "Corporate HR Plan"), is why the BC Public Service is investing in learning how to apply agile methods, where traditional approaches are not meeting citizen expectations.
