@@ -11,8 +11,7 @@ Have you been working towards delivering value in your organization and feel tha
 
 Maybe it's time to step back and consider some new ways of working. Your friends at the Exchange lab have done that, and are having lots of learning, success, and fun. We're keen to share.
 
-* <a href="/ExchangeLabOps/One-Pager_Journey-of-an-Exchange-Lab-Team.pdf">Learn about the full Journey of a Team.</a>
-* [Learn more about the Agile process](https://developer.gov.bc.ca/Agile-Delivery-Process/Agile-Delivery-Process)
+* [Learn more about Agile in the BC Public Service ](https://bcgov.github.io/ExchangeLabOps/Agile-in-the-BCPS/readme.html)
 
 All of the programs at the lab are designed to facilitate learning. In particular, we offer the following
 * Training - Delivered for a variety of experience levels.
