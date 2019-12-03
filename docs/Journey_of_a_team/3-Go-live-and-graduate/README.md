@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 3 - Take the Product Home.
-parent: Journey Of A Team
+parent: Journey of a Lab team
 nav_order: 13
 ---
 

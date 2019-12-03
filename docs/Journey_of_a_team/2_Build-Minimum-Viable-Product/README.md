@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 2 - Build a Product.
-parent: Journey Of A Team
+parent: Journey of a Lab team
 nav_order: 12
 ---
 

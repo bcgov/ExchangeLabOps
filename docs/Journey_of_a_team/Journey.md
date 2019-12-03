@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Journey Of A Team
+title: Journey of a Lab team
 has_children: true
 nav_order: 10
 ---
