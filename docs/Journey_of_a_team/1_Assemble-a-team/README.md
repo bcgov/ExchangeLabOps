@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Phase 1 - Assemble a team.
+parent: Journey Of A Team
 nav_order: 11
 ---
 
