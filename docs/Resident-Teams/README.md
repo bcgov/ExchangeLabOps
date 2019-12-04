@@ -97,6 +97,13 @@ connect it safely and security with third-party health care applications.
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | Vue  | .NETCore  | PostgresSQL | Azure Agent | Selenium | js, c# |
 
+### Next Gen Application Security Project
+
+The Next Gen Security project has an ambitious goal to turn the DevOps Openshift Platform into the most secure application deployment environment in the BC Government. It plans to achieve this by implementing a new ‘Cloud Native’ security model for Platform applications using leading edge technologies and testing it out with real-life application pilots run in collaboration with partner Ministries. The new security model is based on the emerging Zero-Trust model for network security and includes expanding the DevOps toolkit with new tools to increase security on the platform and to reduce the risk profile of Platform applications. Some of the new security capabilities will include real-time container scanning for vulnerabilities, secret management, real-time threat response, security posture dashboard and continuous STRA/PIA compliance check.
+
+* View the project website (Coming Soon)
+*  [See the code on GitHub](https://github.com/BCDevOps/platform-services/tree/master/security/aporeto)
+
 ## Graduated Teams
 
 ### Public Review and Comment
