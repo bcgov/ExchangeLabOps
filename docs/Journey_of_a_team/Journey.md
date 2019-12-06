@@ -17,27 +17,28 @@ We support public servants to understand the value of building high performing t
 
 Not every journey is the same, but given what we have seen to be possible when the right conditions are in place, here is want you can expect from a digital delivery team in the lab:
 ___
->Within a month, program areas build a team and align their organizaton to support Agile delivery.
 
->Within two months, teams clarify the problem they are trying to solve.
+>**Within a month**, program areas build a team and align their organizaton to support Agile delivery.
 
->Within three months, teams build a prototype and engage directly with users to learn what is most important to them.
+>**Within two months**, teams clarify the problem they are trying to solve.
 
->Within four months, teams release a real digital product (considered an alpha product) to users and build trust in their organization that they are making solid progress. They can communicate their "velocity" and have high trust and productivity.
+>**Within three months**, teams build a prototype and engage directly with users to learn what is most important to them.
 
->Within six months, teams refine the product by getting feedback directly from users. They start coaching other teams and offering solutions back to the community.
+>**Within four months**, teams release a real digital product (considered an alpha product) to users and build trust in their organization that they are making solid progress. They can communicate their "velocity" and have high trust and productivity.
 
->Within eight months, teams are ready to release a beta product to the public. They have solid infrastructure and technical excellence so that they can quickly respond to changing requirements or unexpected issues. Vendor team mates coach new public service talent that will remain in the team. 
+>**Within six months**, teams refine the product by getting feedback directly from users. They start coaching other teams and offering solutions back to the community.
 
->Within a year, teams are ready to graduate. The product is ready for a live status and ongoing improvements in a stable production environment. The home organization is capable of supporting the ongoing productivity of the team, with new problems to solve.
+>**Within eight months**, teams are ready to release a beta product to the public. They have solid infrastructure and technical excellence so that they can quickly respond to changing requirements or unexpected issues. Vendor team mates coach new public service talent that will remain in the team. 
+
+>**Within a year**, teams are ready to graduate. The product is ready for a live status and ongoing improvements in a stable production environment. The home organization is capable of supporting the ongoing productivity of the team, with new problems to solve.
 
 ## How to get started
 
 We've outlined the main phases that teams go through on this site and are providing resources and tools that teams need during these different phases. 
 
-- Phase 0 - Desire a new Way of Working
-- Phase 1 - Assemble a team
-- Phase 2 - Build a product
-- Phase 3 - Take the product home
+- [Phase 0 - Desire a new Way of Working](https://bcgov.github.io/ExchangeLabOps/Journey_of_a_team/0_Desire-a-new-way-of-working/README.html)
+- [Phase 1 - Assemble a team](https://bcgov.github.io/ExchangeLabOps/Journey_of_a_team/1_Assemble-a-team/README.html)
+- [Phase 2 - Build a product](https://bcgov.github.io/ExchangeLabOps/Journey_of_a_team/2_Build-Minimum-Viable-Product/README.html)
+- [Phase 3 - Take the product home](https://bcgov.github.io/ExchangeLabOps/Journey_of_a_team/3-Go-live-and-graduate/README.html)
 
 If you know of a resource that we should add or build, please contact <ExchangeLab@gov.bc.ca>.
