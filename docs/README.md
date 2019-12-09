@@ -2,6 +2,10 @@
 
 The BCDevExchange exists at the leading edge of delivery-driven government in British Columbia. We live at a location called the **Exchange Lab.** (Formerly the Continuous Service Improvement (CSI) Lab)
 
+## Image TEST
+
+<img src="assets/images/happy_monkey.jfif" alt="monkey" class="inline"/>
+
 ## What you'll find here
 
 This site is maintained by the Lab Operations team. This is where we share information and resources with Lab Residents, community members, and those curious about how we run the lab.
