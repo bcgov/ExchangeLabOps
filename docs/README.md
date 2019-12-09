@@ -12,7 +12,11 @@ The BCDevExchange exists at the leading edge of delivery-driven government in Br
 
 ## Trello Test
 
-[![IMAGE ALT TEXT HERE]("https://trello.com/b/1Zc2yCGO.html")](https://trello.com/b/1Zc2yCGO)
+[![IMAGE ALT TEXT HERE]("https://trello.com/b/1Zc2yCGO.html")](https://trello.com/b/1Zc2yCGO.html)
+
+<a href="https://trello.com/b/1Zc2yCGO.html">
+<img src="assets/images/happy_monkey.jfif" alt="monkey" class="inline"/>
+</a>
 
 ## What you'll find here
 
