@@ -6,6 +6,11 @@ The BCDevExchange exists at the leading edge of delivery-driven government in Br
 
 <img src="assets/images/happy_monkey.jfif" alt="monkey" class="inline"/>
 
+## Video Test
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=M8rrWUUlZ_U)
+
+
 ## What you'll find here
 
 This site is maintained by the Lab Operations team. This is where we share information and resources with Lab Residents, community members, and those curious about how we run the lab.
