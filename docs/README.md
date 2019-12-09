@@ -8,7 +8,7 @@ The BCDevExchange exists at the leading edge of delivery-driven government in Br
 
 ## Video Test
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=M8rrWUUlZ_U)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/M8rrWUUlZ_U/0.jpg)](https://www.youtube.com/watch?v=M8rrWUUlZ_U)
 
 
 ## What you'll find here
