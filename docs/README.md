@@ -14,9 +14,6 @@ The BCDevExchange exists at the leading edge of delivery-driven government in Br
 
 [![IMAGE ALT TEXT HERE]("https://trello.com/b/1Zc2yCGO.html")](https://trello.com/b/1Zc2yCGO)
 
-
-<iframe src="https://trello.com/b/1Zc2yCGO.html" ></ iframe>
-
 ## What you'll find here
 
 This site is maintained by the Lab Operations team. This is where we share information and resources with Lab Residents, community members, and those curious about how we run the lab.
