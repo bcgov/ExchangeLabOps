@@ -14,7 +14,7 @@ This site is maintained by the Lab Operations team. This is where we share infor
 
 [If you are coming to the Lab, please see our onboarding Trello board.](https://trello.com/b/XlAXaWkK/exchange-lab-onboarding)
 
-For developer specific resources, [please see the DevHub](http://developer.gov.bc.ca)
+For developer specific resources, [please see the DevHub](http://developer.gov.bc.ca){:target="_blank"}
 
 # This is a test 
 The snippet will be after this. 
