@@ -51,7 +51,7 @@ Course content unpacks new leadership competencies, the new OCIO Digital Framewo
 
 | Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
 |-------------------|:----:|:----------------:|:--------------------------:|
-|BC Government employees Band 3 and above| Registration dates [Here](https://www.eventbrite.ca/e/digital-leadership-training-tickets-79630142901 "Digital Leadership - Eventbrite") | Sid Tobias, Natural Resource Ministries | Leadership responsible for Agile teams |
+|BC Government employees Band 3 and above| Registration dates [Here](https://www.eventbrite.ca/e/digital-leadership-registration-85577198705 "Digital Leadership - Eventbrite") | Sid Tobias, Natural Resource Ministries | Leadership responsible for Agile teams |
 
 
 #### Discover DevOps
