@@ -36,9 +36,4 @@ ___
 
 We've outlined the main phases that teams go through on this site and are providing resources and tools that teams need during these different phases. 
 
-- [Phase 0 - Desire a new Way of Working](https://bcgov.github.io/ExchangeLabOps/Journey_of_a_team/0_Desire-a-new-way-of-working/README.html)
-- [Phase 1 - Assemble a team](https://bcgov.github.io/ExchangeLabOps/Journey_of_a_team/1_Assemble-a-team/README.html)
-- [Phase 2 - Build a product](https://bcgov.github.io/ExchangeLabOps/Journey_of_a_team/2_Build-Minimum-Viable-Product/README.html)
-- [Phase 3 - Take the product home](https://bcgov.github.io/ExchangeLabOps/Journey_of_a_team/3-Go-live-and-graduate/README.html)
-
 If you know of a resource that we should add or build, please contact <ExchangeLab@gov.bc.ca>.
