@@ -25,20 +25,21 @@ table th:nth-of-type(4) {
 <table>
     <tbody>
         <tr>
-            <td>1</td>
+            <td>row 1 column 1</td>
             <td>
                 <ul>
-                    <li>[Here](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite")</li>
-                    <li>[Here2Day](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite")</li>
+                    <li>bullet Item one</li>
+                    <li>bullet item two</li>
                 </ul> 
             </td>
         </tr>
         <tr>
-            <td>1</td>
-            <td>2</td>
+            <td>row 2 column 1</td>
+            <td>row 2 column 2</td>
         </tr>
     </tbody>
 </table>
+
 
 Our team creates and offers learning programs to support agencies to build the structures and competencies that enable better service delivery through digital government. 
 
