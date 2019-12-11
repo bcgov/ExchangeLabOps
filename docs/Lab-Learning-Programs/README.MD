@@ -64,10 +64,6 @@ Course reading and watching resources can be found [Here](https://trello.com/b/1
     </tbody>
 </table>
 
-| Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
-|-------------------|:----:|:----------------:|:--------------------------:|
-|  BC Government employees and BC Government contractors | <ul><li>[January 14, 2020](https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131 "Agile Fundamentals - Eventbrite")</li><li>[February 11, 2020](https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131 "Agile Fundamentals - Eventbrite")</li><li>[March 19, 2020](https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131 "Agile Fundamentals - Eventbrite")</li></ul> | Internal government employees: Scrum Masters and experienced Agilists (lab and partners) | New teams entering the Exchange Lab, including contractors on teams |
-
 ### Digital Leadership
 
 Course content unpacks new leadership competencies, the new OCIO Digital Framework and focuses on Agile Governance, Lean IT and Servant Leadership
