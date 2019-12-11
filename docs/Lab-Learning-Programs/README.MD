@@ -28,8 +28,16 @@ table th:nth-of-type(4) {
             <td>row 1 column 1</td>
             <td>
                 <ul>
-                    <li>[Here](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite")</li>
-                    <li>[Here2Day](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite")</li>
+                    <li>
+                        <a href="https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693" target="_blank">
+                            Here
+                        </a>
+                    </li>
+                    <li> 
+                        <a href="https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693" target="_blank">
+                            Here 2
+                        </a>
+                    </li>
                 </ul> 
             </td>
         </tr>
