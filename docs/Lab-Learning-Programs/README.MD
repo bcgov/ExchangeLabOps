@@ -26,7 +26,12 @@ table th:nth-of-type(4) {
     <tbody>
         <tr>
             <td>1</td>
-            <td>2</td>
+            <td>
+                <ul>
+                    <li>[Here](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite")</li>
+                    <li>[Here2Day](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite")</li>
+                </ul> 
+            </td>
         </tr>
         <tr>
             <td>1</td>
