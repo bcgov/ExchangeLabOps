@@ -44,10 +44,10 @@ Course reading and watching resources can be found [Here](https://trello.com/b/1
 <table>
     <tbody>
         <tr>
-            <td>Who is it for?</td>
-            <td>When?</td>
-            <td>Who delivers it?</td>
-            <td>Who is required to enroll?</td>
+            <td><b>Who is it for?</b></td>
+            <td><b>When?</b></td>
+            <td><b>Who delivers it?</b></td>
+            <td><b>Who is required to enroll?</b></td>
         </tr>
         <tr>
             <td>BC Government employees and BC Government contractors</td>
@@ -71,10 +71,10 @@ Course content unpacks new leadership competencies, the new OCIO Digital Framewo
 <table>
     <tbody>
         <tr>
-            <td>Who is it for?</td>
-            <td>When?</td>
-            <td>Who delivers it?</td>
-            <td>Who is required to enroll?</td>
+            <td><b>Who is it for?</b></td>
+            <td><b>When?</b></td>
+            <td><b>Who delivers it?</b></td>
+            <td><b>Who is required to enroll?</b></td>
         </tr>
         <tr>
             <td>BC Government employees Band 3 and above</td>
@@ -100,10 +100,10 @@ Course reading and watching resources can be found [here](https://trello.com/b/F
 <table>
     <tbody>
         <tr>
-            <td>Who is it for?</td>
-            <td>When?</td>
-            <td>Who delivers it?</td>
-            <td>Who is required to enroll?</td>
+            <td><b>Who is it for?</b></td>
+            <td><b>When?</b></td>
+            <td><b>Who delivers it?</b></td>
+            <td><b>Who is required to enroll?</b></td>
         </tr>
         <tr>
             <td>BC Government employees and government contractors</td>
@@ -128,10 +128,10 @@ Covers DevOps platform training (application operational tasks).
 <table>
     <tbody>
         <tr>
-            <td>Who is it for?</td>
-            <td>When?</td>
-            <td>Who delivers it?</td>
-            <td>Who is required to enroll?</td>
+            <td><b>Who is it for?</b></td>
+            <td><b>When?</b></td>
+            <td><b>Who delivers it?</b></td>
+            <td><b>Who is required to enroll?</b></td>
         </tr>
         <tr>
             <td>BC Government employees and BC Government contractors</td>
