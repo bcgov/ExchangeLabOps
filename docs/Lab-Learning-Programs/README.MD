@@ -20,6 +20,21 @@ table th:nth-of-type(4) {
 </style>
 # Learning
 
+## table test
+
+<table>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+    </tbody>
+</table>
+
 Our team creates and offers learning programs to support agencies to build the structures and competencies that enable better service delivery through digital government. 
 
 The methods and tools used for delivery at the lab are largely new to to the BC Public Service, but have been used with success in other governments and sectors. We apply a specific approach, called Agile, to foster high performing teams that focus and deliver products in short time frames through iterative development. We also expect continuous service improvement and new approaches to technology, specifically DevOps practices.
