@@ -28,8 +28,8 @@ table th:nth-of-type(4) {
             <td>row 1 column 1</td>
             <td>
                 <ul>
-                    <li>bullet Item one</li>
-                    <li>bullet item two</li>
+                    <li>[Here](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite")</li>
+                    <li>[Here2Day](https://www.eventbrite.ca/e/agile-fundamentals-bc-gov-tickets-77211171693 "Agile Fundamentals - Eventbrite")</li>
                 </ul> 
             </td>
         </tr>
