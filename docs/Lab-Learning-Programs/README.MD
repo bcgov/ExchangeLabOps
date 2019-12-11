@@ -41,6 +41,29 @@ To be notified when new training sessions are being offered, [sign up to our mai
 Learn the basics of Agile and about the Scrum Methodology we use at the Exchange lab and more broadly across the BCPS. 
 Course reading and watching resources can be found [Here](https://trello.com/b/1Zc2yCGO/exchange-lab-reading-watching-list "Resources for Agile (Trello Board)")
 
+<table>
+    <tbody>
+        <tr>
+            <td>Who is it for?</td>
+            <td>When?</td>
+            <td>Who delivers it?</td>
+            <td>Who is requried to enroll?</td>
+        </tr>
+        <tr>
+            <td>BC Government employees and BC Government contractors</td>
+            <td>
+                <ul>
+                    <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">January 14, 2019</a></li>
+                    <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">February 11, 2019</a></li>
+                    <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">March 19, 2019</a></li>
+                </ul>
+            </td>
+            <td>Internal government employees (typically Scrum Masters)</td>
+            <td>New teams entering the Exchange Lab</td>
+        </tr>
+    </tbody>
+</table>
+
 | Who is it for?    | When?| Who delivers it? | Who is required to enroll? | 
 |-------------------|:----:|:----------------:|:--------------------------:|
 |  BC Government employees and BC Government contractors | <ul><li>[January 14, 2020](https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131 "Agile Fundamentals - Eventbrite")</li><li>[February 11, 2020](https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131 "Agile Fundamentals - Eventbrite")</li><li>[March 19, 2020](https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131 "Agile Fundamentals - Eventbrite")</li></ul> | Internal government employees: Scrum Masters and experienced Agilists (lab and partners) | New teams entering the Exchange Lab, including contractors on teams |
