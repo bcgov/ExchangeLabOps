@@ -36,7 +36,7 @@ Note - the information on this Miro Board is being migrated to this website.
 
 To be notified when new training sessions are being offered, [sign up to our mailing list](https://eepurl.com/gCpvVP "BCDevExchange Mailing List Sign Up")
 
-### Agile Fundamentals
+### Agile Fundamentals (Full Day)
 
 Learn the basics of Agile and about the Scrum framework we use at the Exchange lab and more broadly across the BCPS. 
 Course reading and watching resources can be found [Here](https://trello.com/b/1Zc2yCGO/exchange-lab-reading-watching-list "Resources for Agile (Trello Board)").
@@ -64,7 +64,7 @@ Course reading and watching resources can be found [Here](https://trello.com/b/1
     </tbody>
 </table>
 
-### Digital Leadership
+### Digital Leadership (Full Day)
 
 Course content unpacks new leadership competencies, the new OCIO Digital Framework and focuses on Agile Governance, Lean IT and Servant Leadership.
 
@@ -92,7 +92,7 @@ Course content unpacks new leadership competencies, the new OCIO Digital Framewo
     </tbody>
 </table>
 
-### Discover DevOps
+### Discover DevOps (Half Day)
 
 An introduction to what DevOps is, how it works, and why it is important for Product Owners (current or aspiring) to understand.
 Course reading and watching resources can be found [here](https://trello.com/b/FYLrFxWQ/discover-devops "Resources for Discover DevOps (Trello Board)").
@@ -121,7 +121,7 @@ Course reading and watching resources can be found [here](https://trello.com/b/F
     </tbody>
 </table>
 
-### OpenShift 101
+### OpenShift 101 (Two Full Days)
 
 Covers DevOps platform training (application operational tasks).
 
