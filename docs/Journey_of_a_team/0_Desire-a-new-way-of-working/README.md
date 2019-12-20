@@ -22,3 +22,14 @@ So, we encourage you to suspend your disbelief, tap into your growth mindset, an
 1. [Take a Tour of the Exchange Lab](https://www.eventbrite.ca/e/take-a-walk-on-the-agile-side-tour-of-bc-govs-csi-lab-tickets-43946375793) and hear first hand how teams are re-inventing services delivery as Digital Product Teams. 
 2. Connect with other innovation discaplines to help you think about how you might explore opportunities for service improvement (see [using ideas at work](https://www2.gov.bc.ca/gov/content/careers-myhr/all-employees/new-employees/next-steps/first-six-months))
 3. [Sign up to our newsletter](https://us3.list-manage.com/subscribe?u=2cd8863adab4f39ade7cbee34&id=b331c22b50) and keep up to date on events and training opportunities. 
+
+## Orient Around an Opportunity
+
+Now that you have a sense of the positive difference in results that teams acheive with agile mindset and methods, you're likely considering what you could start to solve for.
+
+We work with teams that start with a single, feasible, small problem to solve, because we've seen that learning to apply very new approaches through experience is the best way to catalyze and sustain the change. We've also seen attempts to solve for too much lead to less than ideal results, and disengaged public servants. 
+
+### Resources
+
+* Read and complete the [Value Canvas Workbook the Lab uses to intake new product teams](https://github.com/bcgov/ExchangeLabOps/blob/master/docs/Journey_of_a_team/0_Desire-a-new-way-of-working/Exchange-Lab-Residency_Intake-Value-Canvas_WORKBOOK.pdf). 
+* [Read the Partnership Agreement we use to orient teams towards readiness.](https://github.com/bcgov/ExchangeLabOps/blob/master/docs/Journey_of_a_team/0_Desire-a-new-way-of-working/Exchange-Lab-Residency-Partnership-Agreement_TEMPLATE.pdf)
