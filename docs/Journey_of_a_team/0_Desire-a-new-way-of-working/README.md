@@ -31,5 +31,5 @@ We work with teams that start with a single, feasible, small problem to solve, b
 
 ### Resources
 
-* Read and complete the [Value Canvas Workbook the Lab uses to intake new product teams](https://github.com/bcgov/ExchangeLabOps/blob/master/docs/Journey_of_a_team/0_Desire-a-new-way-of-working/Exchange-Lab-Residency_Intake-Value-Canvas_WORKBOOK.pdf). 
+* [Read and complete the Value Canvas Workbook the Lab uses to intake new product teams](https://github.com/bcgov/ExchangeLabOps/blob/master/docs/Journey_of_a_team/0_Desire-a-new-way-of-working/Exchange-Lab-Residency_Intake-Value-Canvas_WORKBOOK.pdf). 
 * [Read the Partnership Agreement we use to orient teams towards readiness.](https://github.com/bcgov/ExchangeLabOps/blob/master/docs/Journey_of_a_team/0_Desire-a-new-way-of-working/Exchange-Lab-Residency-Partnership-Agreement_TEMPLATE.pdf)
