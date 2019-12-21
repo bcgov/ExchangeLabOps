@@ -12,6 +12,7 @@ Have you been working towards delivering value in your organization and feel tha
 **Maybe it's time to step back and consider some new ways of working.** Your friends at the Exchange lab have done that, and are having lots of learning, success, and fun. We're keen to share. In particular, we apply Agile mindset and methods to delivery value more quickly, with less wasted resources, and to people's expectations.
 
 * [Learn more about Agile in the BC Public Service ](https://bcgov.github.io/ExchangeLabOps/Agile-in-the-BCPS/readme.html)
+* [Spend some time digging into resource provided by the Agile Alliance](https://www.agilealliance.org/agile-essentials/)
 
 When people hear about us, they aren't quite sure if we are private sector or public sector. It's that much of a difference. 
 
@@ -30,6 +31,29 @@ Now that you have a sense of the positive difference in results that teams achei
 We work with teams that start with a single, feasible, small problem to solve, because we've seen that learning to apply very new approaches through experience is the best way to catalyze and sustain the change. We've also seen attempts to solve for too much lead to less than ideal results, and disengaged public servants. 
 
 ### Resources
+The following documents guide how program areas engage with the Exchange Lab.
 
 * [Read and complete the Value Canvas Workbook the Lab uses to intake new product teams](https://github.com/bcgov/ExchangeLabOps/blob/master/docs/Journey_of_a_team/0_Desire-a-new-way-of-working/Exchange-Lab-Residency_Intake-Value-Canvas_WORKBOOK.pdf). 
 * [Read the Partnership Agreement we use to orient teams towards readiness.](https://github.com/bcgov/ExchangeLabOps/blob/master/docs/Journey_of_a_team/0_Desire-a-new-way-of-working/Exchange-Lab-Residency-Partnership-Agreement_TEMPLATE.pdf)
+
+Contact ExchangeLab@gov.bc.ca to request editable PPTX/DOCX versions.
+
+## Engage the Lab 
+
+The Exchange Lab is a full service, fast-paced, and in demand resource. So, we appreciate the effort you make to do some homework prior to asking for help.
+
+Once you have some awareness of what we offer, and what you want to solve for, we're very happy to:
+
+* Meet and explore how we might to work together, including Lab residency.
+* Connect you to others in the community that you could work with.
+* Coach your organization on building digital capabilities.
+
+Please be prepared to have very honest conversations about what you believe to be in the way of realizing better service delivery.
+
+Make contact by attending events we host, or email ExchangeLab@gov.bc.ca. 
+
+## Next Step: Assemble a Team
+
+If you decide to take an Agile approach to service delivery, then you'll likely be seeking to build a small, cross functional delivery team that will continue to improve your service into the future with direct feedback from users. (If not, then please ask us how you can come to understand why this is the preferred approach to service delivery.)
+
+[Learn about what it takes to assemble a team.](https://bcgov.github.io/ExchangeLabOps/Journey_of_a_team/1_Assemble-a-team/README.html)
