@@ -35,6 +35,9 @@ footer ul li a {
   padding-left: 5px;
   padding-right: 5px;
 }
+li:before {
+  content:"";
+}
 a:hover {
   color: #fff;
   text-decoration: underline;
