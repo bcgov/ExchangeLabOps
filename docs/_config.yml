@@ -1,3 +1,20 @@
 remote_theme: pmarsceill/just-the-docs
 
 logo: "/assets/images/BCDevExchange-avatar.png"
+
+footer_content: "<body style="display: flex; flex-direction: column; height: 100vh;">
+  <div style="flex: 1 0 auto; padding: 20px;">
+    <h1>Sample Footer</h1>
+  </div>
+  <footer class="footer">
+    <div class="container">
+    <ul>
+      <li><a href=".">Home</a></li>
+      <li><a href=".">Disclaimer</a></li>
+      <li><a href=".">Privacy</a></li>
+      <li><a href=".">Accessibility</a></li>
+      <li><a href=".">Copyright</a></li>
+      <li><a href=".">Contact Us</a></li>
+    </ul>
+    </div>
+  </footer>"
