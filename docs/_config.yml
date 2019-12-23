@@ -17,5 +17,13 @@ footer_content: '''
         <li><a href="/">Copyright</a></li>
         <li><a href="/">Contact Us</a></li>
       </ul>
+      <li>
+        <ul><a href="/">Home</a></ul>
+        <ul><a href="/">Disclaimer</a></ul>
+        <ul><a href="/">Privacy</a></ul>
+        <ul><a href="/">Accessibility</a></ul>
+        <ul><a href="/">Copyright</a></ul>
+        <ul><a href="/">Contact Us</a></ul>
+      </li>
     </div>
   </footer>'''
