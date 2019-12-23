@@ -62,7 +62,7 @@ These teams, connected and supported by the BCDevExchange, pay it forward to a g
 
 ## Our Goals for this Site
 
-Just getting some products we've built in the last 6 months into the open! People from around the world are asking for them :) We're working on developing a more complete web presence, but this is where we are delivering content we are asked for daily in the meantime. We always welcome feedback!
+Just getting some products we've built in the last 6 months into the open! People from around the world are asking for them ;) We're working on developing a more complete web presence, but this is where we are delivering content we are asked for daily in the meantime. We always welcome feedback!
 
 We anticipate posting and continuously improving the following content: 
 
