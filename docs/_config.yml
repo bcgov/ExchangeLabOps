@@ -51,7 +51,7 @@ a:hover {
   <footer class="footer">
     <div class="container">
       <ul>
-        <li><a href="/">Home</a></li>
+        <li style="content:'';"><a href="/">Home</a></li>
         <li><a href="/">Disclaimer</a></li>
         <li><a href="/">Privacy</a></li>
         <li><a href="/">Accessibility</a></li>
