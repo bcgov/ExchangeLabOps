@@ -3,6 +3,15 @@ remote_theme: pmarsceill/just-the-docs
 logo: "/assets/images/BCDevExchange-avatar.png"
 
 footer_content: '''
+<style>
+  ul.fa-ul2 > li {
+   position: relative;
+  }
+  ul.fa-ul2 li:before {
+   position: absolute;
+   left: -13px;
+  }
+</style>
 <body style="display: flex; flex-direction: column; height: 100vh;">
   <div style="flex: 1 0 auto; padding: 20px;">
     <h1>Sample Footer</h1>
