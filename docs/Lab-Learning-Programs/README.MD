@@ -53,7 +53,7 @@ Course reading and watching resources can be found [Here](https://trello.com/b/1
             <td>BC Government employees and BC Government contractors</td>
             <td>
                 <ul>
-                    <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">January 14, 2020</a></li>
+                    <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">January 29, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">February 11, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">March 19, 2020</a></li>
                 </ul>
@@ -80,8 +80,8 @@ Course content unpacks new leadership competencies, the new OCIO Digital Framewo
             <td>BC Government employees Band 3 and above</td>
             <td>
                 <ul>
-                    <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">January 15, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">January 30, 2020</a></li>
+                    <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">January 31, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">February 20, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">March 26, 2020</a></li>
                 </ul>
@@ -110,7 +110,6 @@ Course reading and watching resources can be found [here](https://trello.com/b/F
             <td>
                 <ul>
                     <li><a href="https://www.eventbrite.ca/e/discover-devops-tickets-85567545833" target="_blank">January 21, 2020</a></li>
-                    <li><a href="https://www.eventbrite.ca/e/discover-devops-tickets-85567604007" target="_blank">February 4, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/discover-devops-tickets-85567908919" target="_blank">February 25, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/discover-devops-tickets-85568424461" target="_blank">March 10, 2020</a></li>
                 </ul>
