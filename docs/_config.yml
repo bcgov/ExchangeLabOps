@@ -3,5 +3,10 @@ remote_theme: pmarsceill/just-the-docs
 logo: "/assets/images/BCDevExchange-avatar.png"
 
 footer_content: '''
+<style> 
+footer {
+  background-color: #036;
+}
+</style>
 <p> Footer content </p>
 '''
