@@ -4,9 +4,11 @@ logo: "/assets/images/BCDevExchange-avatar.png"
 
 footer_content: '''
 <style> 
-footer {
+footer-body {
   background-color: #036;
 }
 </style>
-<p> Footer content </p>
+<div class="footer-body>
+  <p> Footer content </p>
+</div>
 '''
