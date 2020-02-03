@@ -42,16 +42,13 @@ technology and collaborating with global experts to create this new capability.
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | Angular, Vue | Django, Node.js  | PostgresSQL | Jenkins | | Python, js |
 
-### BCDevExchange
-The team behind the initial creation of the Exchange Lab (formerly CSI Lab), the BCDevExchange
-modernizes how government delivers services. They created the flagship apps: "Code With Us" and "Sprint with Us."
-This branch of the Office of the Chief Information Officer models a modern Public Service by building & supporting teams that apply the culture, processes, business models and technology of the digital era to solving public challenges.
-* [View the app](https://bcdevexchange.org/)
-* [See the code on GitHub](https://github.com/BCDevExchange/devex)
+### BCDevExchange - Website
+The team behind the static website of the Exchange Lab (formerly CSI Lab). 
+* [See the code on GitHub](https://github.com/bcgov/bcdevexchange)
 
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
-| Angular | Express, Node.js  | Mongodb | Jenkins | | js, TypeScript |
+| Razor ASP.NET | N/A  | N/A | Jenkins | N/A | C#, HTML |
 
 ### BC Registries
 The ServiceBC team is developing a number of Registry products. The Names Examination
@@ -105,6 +102,17 @@ The Next Gen Security project has an ambitious goal to turn the DevOps Openshift
 *  [See the code on GitHub](https://github.com/BCDevOps/platform-services/tree/master/security/aporeto)
 
 ## Graduated Teams
+
+### BCDevExchange - Procurement Site
+The team behind the initial creation of the Exchange Lab (formerly CSI Lab), the BCDevExchange
+modernizes how government delivers services. They created the flagship apps: "Code With Us" and "Sprint with Us."
+This branch of the Office of the Chief Information Officer models a modern Public Service by building & supporting teams that apply the culture, processes, business models and technology of the digital era to solving public challenges.
+* [View the app](https://bcdevexchange.org/)
+* [See the code on GitHub](https://github.com/BCDevExchange/devex)
+
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| Angular | Express, Node.js  | Mongodb | Jenkins | | js, TypeScript |
 
 ### Public Review and Comment
 Public review and comment is the way the government collects public input on proposed
