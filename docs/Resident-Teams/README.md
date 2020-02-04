@@ -52,7 +52,7 @@ technology and collaborating with global experts to create this new capability.
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | Angular, Vue | Django, Node.js  | PostgresSQL | Jenkins | | Python, js |
 
-### BCDevExchange
+### BCDevExchange (Website)
 The team behind the initial creation of the Exchange Lab (formerly CSI Lab), the BCDevExchange
 modernizes how government delivers services. They created the flagship apps: "Code With Us" and "Sprint with Us."
 This branch of the Office of the Chief Information Officer models a modern Public Service by building & supporting teams that apply the culture, processes, business models and technology of the digital era to solving public challenges.
