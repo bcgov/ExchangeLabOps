@@ -30,13 +30,37 @@ This is a brief overview of the teams that have come through the Exchange Lab to
 
 ## Current Teams
 
-[Verifiable Organizations Network (VON)](#verifiable-organizations-network)
+[Verifiable Organizations Network (VON)](#verifiable-organizations-network-von)
 
-[BCDevExchange (Website)](#bcdevchange-(website))
+[BCDevExchange (Website)](#bcdevchange-website)
+
+[BC Registries](#bc-registries)
+
+[Invasive Species](#invasive-species)
+
+[Greenhouse Gas Industrial Reporting & Control](#greenhouse-gas-industrial-reporting--control)
+
+[Health Gateway](#health-gateway)
+
+[Next Gen Application Security Project](#next-gen-application-security-project)
 
 ## Graduated Teams
 
+[BCDevExchange (Procurement Site)](#bcdevexchange-procurement-site)
 
+[Public Review and Comment](#public-review-and-comment)
+
+[Environmental Assessment](#environmental-assessment)
+
+[Mines Digital Service (MDS)](#mines-digital-service-mds)
+
+[MSP Forms](#msp-forms)
+
+[MyRangeBC](#myrangebc)
+
+[Water](#water)
+
+[Transportation Fuel Reporting System](#transportation-fuel-reporting-system)
 
 ## Current Teams
 
@@ -113,7 +137,7 @@ The Next Gen Security project has an ambitious goal to turn the DevOps Openshift
 
 ## Graduated Teams
 
-### BCDevExchange - Procurement Site
+### BCDevExchange (Procurement Site)
 The team behind the initial creation of the Exchange Lab (formerly CSI Lab), the BCDevExchange
 modernizes how government delivers services. They created the flagship apps: "Code With Us" and "Sprint with Us."
 This branch of the Office of the Chief Information Officer models a modern Public Service by building & supporting teams that apply the culture, processes, business models and technology of the digital era to solving public challenges.
