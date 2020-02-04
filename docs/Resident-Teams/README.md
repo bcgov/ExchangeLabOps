@@ -33,9 +33,7 @@ This is a brief overview of the teams that have come through the Exchange Lab to
 ## Current Teams
 
 [Verifiable Organizations Network (VON)](#verifiable-organizations-network)
-
 [BCDevExchange (Website)](#bcdevchange-(website))
-
 [Invasive Species](#invasive-species)
 
 ## Graduated Teams
