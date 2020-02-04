@@ -32,6 +32,14 @@ This is a brief overview of the teams that have come through the Exchange Lab to
 
 ## Current Teams
 
+[Verifiable Organizations Network (VON)](#verifiable-organizations-network)
+
+[BCDevExchange (Website)](#bcdevchange-(website))
+
+## Graduated Teams
+
+## Current Teams
+
 ### Verifiable Organizations Network (VON)
 OrgBook BC is a searchable public directory of open verifiable data about organizations legally
 registered in BC. BC businesses are now empowered with a locally-issued trusted digital identity
