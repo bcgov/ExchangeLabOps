@@ -2,7 +2,6 @@ remote_theme: pmarsceill/just-the-docs
 
 logo: "assets/images/BCDevExchangeFullLogo.png"
 
-# footer_content: "<img src='/assets/images/BCID_H_rgb_pos.png' alt='BC Gov'/>"
 
 footer_content: "<img src='https://github.com/thegentlemanphysicist/ExchangeLabOps/blob/master/docs/assets/images/BCID_H_rgb_pos.png' alt='BC Gov'/>"
 
