@@ -2,4 +2,4 @@ remote_theme: pmarsceill/just-the-docs
 
 logo: "/assets/images/BCDevExchange-avatar.png"
 
-footer_content: "<img src="assets/images/BCDevExchange-avatar.png" alt="Dev Exchange" class="inline"/>"
+footer_content: "<img src='assets/images/BCDevExchange-avatar.png' alt='Dev Exchange' class='inline'/>"
