@@ -1,5 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
 
-logo: "/assets/images/BCDevExchange-avatar.png"
+logo: "/assets/images/bcmark.png"
 
-footer_content: "<img src='assets/images/BCDevExchange-avatar.png' alt='Dev Exchange' class='inline'/>"
+footer_content: "<img src='assets/images/BCDevExchangeFullLogo.png' alt='Dev Exchange' class='inline'/>"
