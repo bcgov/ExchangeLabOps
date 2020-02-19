@@ -2,7 +2,7 @@ remote_theme: pmarsceill/just-the-docs
 
 logo: "assets/images/BCDevExchangeFullLogo.png"
 
-footer_content: "![BC Gov](assets/images/BCID_H_rgb_pos.png)"
+footer_content: "![BC Gov]('assets/images/BCID_H_rgb_pos.png')"
 
 
 # "<img src='assets/images/BCID_H_rgb_pos.png' alt='BC Gov'/>"
