@@ -23,7 +23,7 @@ table th:nth-of-type(4) {
 
 Our team creates and offers learning programs to support agencies to build the structures and competencies that enable better service delivery through digital government. 
 
-The methods and tools used for delivery at the lab are largely new to to the BC Public Service, but have been used with success in other governments and sectors. We apply a specific approach, called Agile, to foster high performing teams that focus and deliver products in short time frames through iterative development. We also expect continuous service improvement and new approaches to technology, specifically DevOps practices.
+The methods and tools used for delivery at the Lab are largely new to to the BC Public Service, but have been used with success in other governments and sectors. We apply a specific approach, called Agile, to foster high performing teams that focus and deliver products in short time frames through iterative development. We also expect continuous service improvement and new approaches to technology, specifically DevOps practices.
 
 The language and culture that has developed around these approaches is new and can be disorienting if you have not made the effort to learn.
 
@@ -38,7 +38,7 @@ To be notified when new training sessions are being offered, [sign up to our mai
 
 ### Agile Fundamentals
 
-Learn the basics of Agile and about the Scrum framework we use at the Exchange lab and more broadly across the BCPS. 
+Learn the basics of Agile and about the Scrum framework we use at the Exchange Lab and more broadly across the BCPS. 
 Course reading and watching resources can be found [Here](https://trello.com/b/1Zc2yCGO/exchange-lab-reading-watching-list "Resources for Agile (Trello Board)").
 
 <table>
@@ -156,7 +156,7 @@ Learn more about the communities you can participate in by [checking out events]
 
 ## Delivery - Through a year long residency in the Lab, or through coaching.
 
-Delivery teams at the lab earn a residency through establishing a specific problem they are trying to solve, and by getting their organization aligned to the digital delivery approach we support. If you think your organization would benefit from a year long residency, please read about the Journey of a Lab Team.
+Delivery teams at the Lab earn a residency through establishing a specific problem they are trying to solve, and by getting their organization aligned to the digital delivery approach we support. If you think your organization would benefit from a year long residency, please read about the Journey of a Lab Team.
 
 ## How we develop our programs
 

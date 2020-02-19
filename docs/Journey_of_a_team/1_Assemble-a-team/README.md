@@ -25,7 +25,7 @@ Organizations have a few options for building a team.
 
 Once a team is brought together, we facilitate their journey.
 
-* [Check out the self-serve trello board we are building to support the journey of a lab team.](https://trello.com/b/Ov6fnUL5/exchange-lab-journey-checklist)
+* [Check out the self-serve trello board we are building to support the journey of a Lab team.](https://trello.com/b/Ov6fnUL5/exchange-lab-journey-checklist)
 
 ## Resources in Development
 

@@ -24,7 +24,7 @@ If applied appropriately, Agile practices usually yield better results for citiz
 * A lightweight read on agile delivery: [how our Exchange Lab Delivery Teams build stuff](https://medium.com/@awilkinson/skateboard-bike-car-6bec841ed96e)
 * Essential reading ["On Delivery Driven Government."](https://medium.com/code-for-america/delivery-driven-government-67e698c57c7b)
   
-The Exchange Lab is one place where public servants learn to be Agile. The lab incubates and accelerates learning through the experience of delivering high quality services. While we build real products, the higher value deliverable is the talent and team that becomes equipped to continue service improvement, while taking on new important challenges.
+The Exchange Lab is one place where public servants learn to be Agile. The Lab incubates and accelerates learning through the experience of delivering high quality services. While we build real products, the higher value deliverable is the talent and team that becomes equipped to continue service improvement, while taking on new important challenges.
 
 ### There is a way to do this with ill-effect.
 

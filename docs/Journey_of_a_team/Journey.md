@@ -7,7 +7,7 @@ nav_order: 10
 
 # The Journey of a Lab Team
 
-The primary program delivered by the Exchange Lab is a year long residency for a Team. These teams typically do not exist before an organization approaches the lab for help. 
+The primary program delivered by the Exchange Lab is a year long residency for a Team. These teams typically do not exist before an organization approaches the Lab for help. 
 
 We support public servants to understand the value of building high performing teams that build a product and continue to improve it. These teams use Agile methods to quickly and effectively build services that meet people's needs. We know, because the talk directly to the people who use the products!
 
@@ -15,7 +15,7 @@ We support public servants to understand the value of building high performing t
 
 # Expected Timeline
 
-Not every journey is the same, but given what we have seen to be possible when the right conditions are in place, here is want you can expect from a digital delivery team in the lab:
+Not every journey is the same, but given what we have seen to be possible when the right conditions are in place, here is want you can expect from a digital delivery team in the Lab:
 ___
 
 >**Within a month**, program areas build a team and align their organizaton to support Agile delivery.

@@ -230,5 +230,5 @@ emissions from transportation fuel.
 | React Redux | Django | PostgreSQL | Jenkins | Groovy/GEB | js, Python, Groovy |
 
 ### 100+ Apps Using DevOps and Coding in the Open
-While the BCDevExchange supports teams to deliver product in the Lab, we also make our DevOps platform available to teams outside of the Exchange lab. These teams are part of the development community helping to modernize the BC Public Service, including coding in the open. 
+While the BCDevExchange supports teams to deliver product in the Lab, we also make our DevOps platform available to teams outside of the Exchange Lab. These teams are part of the development community helping to modernize the BC Public Service, including coding in the open. 
 * [See Developer.gov.bc.ca - the DevHub - for how they make things happen, including our design system of reusable components.](https://developer.gov.bc.ca/)

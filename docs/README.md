@@ -6,12 +6,12 @@ The BCDevExchange exists at the leading edge of delivery-driven government in Br
 
 ## What you'll find here
 
-This site is maintained by the Lab Operations team. This is where we share information and resources with Lab Residents, community members, and those curious about how we run the lab. We are constantly learning what works for our diverse clients. You'll see the materials on this site improved frequently.
+This site is maintained by the Lab Operations team. This is where we share information and resources with Lab Residents, community members, and those curious about how we run the Lab. We are constantly learning what works for our diverse clients. You'll see the materials on this site improved frequently.
 
 We anticipate posting and continuously improving the following content: 
 
- - The process a team goes through to enter the lab (admittance criteria/assessment)
- - The journey a team takes to get through the lab and to deliver product
+ - The process a team goes through to enter the Lab (admittance criteria/assessment)
+ - The journey a team takes to get through the Lab and to deliver product
  - Resources for Lab resident teams, including a partnership agreement
  - Resources and services offered to Lab affliated (non-resident) teams
  - Value delivery reports and frameworks we use to improve our performance
@@ -40,7 +40,7 @@ These teams, connected and supported by the BCDevExchange, pay it forward to a g
 
 ## How to Contribute to this Site
 
-Please do offer your feedback on how well our content supports your team's operations at the lab. You can contribute issues directly to [this github repository](https://github.com/bcgov/ExchangeLabOps) for things that need to be fixed, or email ExchangeLab@gov.bc.ca.
+Please do offer your feedback on how well our content supports your team's operations at the Lab. You can contribute issues directly to [this github repository](https://github.com/bcgov/ExchangeLabOps) for things that need to be fixed, or email ExchangeLab@gov.bc.ca.
 
 ## License
 

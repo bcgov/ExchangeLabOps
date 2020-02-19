@@ -16,7 +16,7 @@ Here are some of the results of our work as of **December 2019.**
 
 **We aim to deliver digital products that meet people's needs.**
 
-The Exchange Lab has hosted more than a dozen teams since 2015. [See the list of resident and graduated teams for the products that have come from the lab](https://bcgov.github.io/ExchangeLabOps/Resident-Teams/README.html "Lab products")
+The Exchange Lab has hosted more than a dozen teams since 2015. [See the list of resident and graduated teams for the products that have come from the Lab](https://bcgov.github.io/ExchangeLabOps/Resident-Teams/README.html "Lab products")
 
 Note: We are working on ways to illustrate the return on investment for Agile product teams. 
 
@@ -36,7 +36,7 @@ Note: We are working on ways to illustrate the return on investment for Agile pr
 | Visual Facilitation Practices | 48 trainees |
 | Lab and Learns -  delivered by BCPS employees, vendors, or guest speakers. | 	35 sessions to date with over 1,000 attendees | 
 | Webinars - delivered by BCPS employees, vendors, or guest speakers.	| 7 Sessions to date with 330 attendees 330 | 
-| Tours of the Lab – Bi-weekly open door tours are a first stop for anyone interested in accessing lab programming. Attendees engage with teams active in the lab to learn about their experience.	| 50 tours with on average 9 attendees per tour. Special tours have been arranged for Deputy Ministers and the Premier’s Office staff. | 
+| Tours of the Lab – Bi-weekly open door tours are a first stop for anyone interested in accessing Lab programming. Attendees engage with teams active in the Lab to learn about their experience.	| 50 tours with on average 9 attendees per tour. Special tours have been arranged for Deputy Ministers and the Premier’s Office staff. | 
 | Partnership with Ontario Digital Services/Apolitical on How to be digital in the Canadian public service: a 10-week online boot camp.|  Just getting started!| 
 
 * Please see the [Learning and Resources page](https://bcgov.github.io/ExchangeLabOps/Lab-Learning-Programs/README.html) to sign up for available training.
