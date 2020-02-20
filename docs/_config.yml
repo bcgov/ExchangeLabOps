@@ -7,5 +7,5 @@ logo: "assets/images/ExchangeLabOpsImage.png"
 #   "<img src='assets/images/ExchangeLabOpsImage.png' alt='BC Gov'/>":
 #     - "//github.com/pmarsceill/just-the-docs"
 
-footer_content: "<img src='/ExchangeLabOps/assets/images/BCID_H_rgb_pos.png' height='42' width='200' alt='BC Gov'/>"
+footer_content: "<a href='gov.bc.ca'><img src='/ExchangeLabOps/assets/images/BCID_H_rgb_pos.png' height='42' width='200' class='center' alt='BC Gov'/> </a>"
 
