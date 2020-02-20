@@ -2,10 +2,10 @@ remote_theme: pmarsceill/just-the-docs
 
 logo: "assets/images/ExchangeLabOpsImage.png"
 
-# Aux links for the upper right navigation
-aux_links:
-  "<img src='assets/images/ExchangeLabOpsImage.png' alt='BC Gov'/>":
-    - "//github.com/pmarsceill/just-the-docs"
+# # Aux links for the upper right navigation
+# aux_links:
+#   "<img src='assets/images/ExchangeLabOpsImage.png' alt='BC Gov'/>":
+#     - "//github.com/pmarsceill/just-the-docs"
 
-footer_content: "<img src='assets/images/ExchangeLabOpsImage.png' alt='BC Gov'/>"
+# footer_content: "<img src='assets/images/ExchangeLabOpsImage.png' alt='BC Gov'/>"
 
