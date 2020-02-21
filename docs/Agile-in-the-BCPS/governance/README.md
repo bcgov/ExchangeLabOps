@@ -1,3 +1,10 @@
+---
+layout: default
+title: Governance
+parent: Agile in the BCPS
+nav_order: 13
+---
+
 # Governance for Agile Product Teams
 We get a lot of questions about how to support Agile teams with appropriate goverance. We also get questions about how to fit Agile teams into existing governance structures in the traditional models.
 
