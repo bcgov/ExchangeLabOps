@@ -10,3 +10,5 @@ The second question assumes that an Agile team can work with a traditional gover
 If your organization is seeking to deliver using agile methods, then we'd expect a focus on high performing teams. These teams are empowered to manage their work in ways that shrink risks assocaited with decisions through iterative and incremental work. They require quick feedback loops for learning.
 
 If you are trying to create these teams, you should be adjusting your governance model or executive leadership expectations and behaviours. Otherwise, your investment in the talent and the delivery will not be optimized. You may also be at risk of creating an aversion to agile methods overall, as people new to this way of working may abandon it out of frustration without the right governance conditions.
+
+**More resources related to creating effective governance structures are in development. Please reach out to Heather.Remacle@gov.bc.ca if you have any questions or feedback that might help us build useful products for you.**
