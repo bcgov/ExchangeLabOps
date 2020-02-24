@@ -78,6 +78,10 @@ This is a brief overview of the teams that have come through the Exchange Lab to
 * [See the code on GitHub (Frontend)](https://github.com/bcgov/wps-web)
 * [See the code on GitHub (Backend)](https://github.com/bcgov/wps-api)
 
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| React | FastAPI  | PostgresSQL PostGIS | Jenkins | | Python 3, js |
+
 ### Property Inventory Management System (PIMS)
 
 * [See the code on GitHub](https://github.com/bcgov/pims)
