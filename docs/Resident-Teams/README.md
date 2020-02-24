@@ -71,15 +71,14 @@ This is a brief overview of the teams that have come through the Exchange Lab to
 ## Current Teams
 
 ### Common Components
-
-The Common Components team is working on ways to reduce the time and cost of delivering digital products and services. The user-focused team plans to achieve this by making it easy to find, onboard to and use components like code and microservices that solve common problems across government. Several teams across the BC Public Service are creating reusable digital building blocks that can be used across government. The Common Components team is working to amplify these teams’ important work. Where gaps and unmet needs are found, the Common Components team will fill them, seeking wherever possible to reuse components from other jurisdictions or the open source community.
+The Common Components team is working on ways to reduce the time and cost of delivering digital products and services. The user-focused team plans to achieve this by making it easy to find, onboard to and use components like code and microservices that solve common problems. Several teams across the BC Public Service are creating reusable digital building blocks that can be used across government and the Common Components team is working to amplify these teams’ important work. Where gaps and unmet needs are found, the team will fill them, seeking wherever possible to reuse components from other jurisdictions or the open source community.
 
 * [See the code on GitHub (wiki)](https://github.com/bcgov/common-components-wiki)
 * [See the code on GitHub (openshift project)](https://github.com/bcgov/openshift-launchpad)
 
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
-| React | Flask  | PostgresSQL | Jenkins | | Python, js |
+| React | Flask  | PostgresSQL | OpenShift command line | | Python, js |
 
 
 ### Wildfire
