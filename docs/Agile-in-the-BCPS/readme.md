@@ -9,7 +9,7 @@ nav_order: 8
 Public servants are seeking ways to better deliver services that meet citizen expectations in a complex, fast-changing world. This means abandoning traditional approaches, which often assume:
 
 * we can predict the outcomes of our work over long periods of time, 
-* manage complexity with increasingly large and complex systems, and 
+* manage complexity with increasingly large and complex projects, and 
 * know people's needs without talking to them. 
 
 It also means re-training and gaining competency in new mindset and methods that enable us to navigate change and new opportunties. With  an "Agile" approach, teams can to respond to unpredictable change through:
@@ -28,7 +28,7 @@ The Exchange Lab is one place where public servants learn to be Agile. The lab i
 
 ### There is a way to do this with ill-effect.
 
-Agile is considered "new" to many, but it has been used in the technology industry since at least the 1990s. It has surged in popularily among public services across Canada and more broadly (particularly the UK). This means there are many flavours of adoption, and not all are successful.
+Agile is considered "new" to many, but it has been used in the technology industry since at least the 1990s. It has surged in popularily among public services across Canada and more broadly. This means there are many flavours of adoption, and not all are successful.
 
 Expecting a new team or organization to simply adopt Agile methodologies is like asking an African Safari guide to lead Scuba divers on a reef tour. There are some core competencies that need to be adopted before this can happen. 
 
@@ -49,7 +49,7 @@ In 2015, we started experimenting with Agile product teams. We learned about the
   * Bringing developers and operations closer together (DevOps)
   * Openness, transparency and community
 
-The positive results are evident: there are over [12 product teams](https://bcgov.github.io/ExchangeLabOps/Resident-Teams/README.html) who have delivered high quality products within a year. Additionally, organizations that have graduated teams from the Lab are now embarking on broader Agile adoption and are creating more teams.
+The positive results are evident: there are over [12 product teams](https://bcgov.github.io/ExchangeLabOps/Resident-Teams/README.html) who have delivered high quality products in an Agile way and many within a year. Additionally, organizations that have graduated teams from the Lab are now embarking on broader Agile adoption and are creating more teams.
 
 The demand for support from across the Public Service to become more Agile is increasing. While the Exchange Lab uses Agile-Scrum methodologies, there is interest in applying Agile values and principles more broadly. There is a growing community of people supporting each other to learn how to apply scrum and other methods.
 
@@ -64,11 +64,11 @@ Why do some organizations struggle to become agile?
 
 There are structures and resulting culture that prevent agile practices. These are hard to change and we're all learning to do this together. There are some specific competencies and practices that organizations can start working on right away. Servant leaders at the executive level supporting autonomous teams is key.
 
-Tips:
+Tips to get started:
 
-* Work in the open: Share information that would not normally be out there
-* Talk to your users directly, ideally citizens receiving services
-* Use modern tools and technology that support automation
+* Work in the open: Share information that would not normally be out there and invite feedback. [See the government of Canada's Guide for Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/open-source-software/guide-for-publishing-open-source-code.html)
+* Talk to your users directly, ideally citizens receiving services.
+* Use modern tools and technology that support automation.
 
 [Check out digital principles in development for the BC Public Service. ](https://github.com/bcgov/digital-principles "Digital Principles in the BCGov Github")
 
@@ -80,5 +80,5 @@ Agile Scrum Teams are made up of 5 to 9 dedicated team members, with at least 2 
 * Scrum Master
 * Development team
 
-#### Customizations in the BC Public Service
-When there are limitations to hiring, we bring in contracted resources through [Sprint With Us](https://www.bcdevexchange.org/sprintwithus), a modern procurement vehicle that procures Agile teams.
+#### Team Procurement
+We value working with our tech sector partners who offer additional experience and innovation. Procure a team that is equipped to work in an Agile way using [Sprint With Us](https://www.bcdevexchange.org/sprintwithus).
