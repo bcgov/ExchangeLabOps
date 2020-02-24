@@ -30,6 +30,12 @@ This is a brief overview of the teams that have come through the Exchange Lab to
 
 ## Current Teams
 
+[Common Components](#common-components)
+
+[Wildfire](#wildfire)
+
+[Property Inventory Management System (PIMS)](#property-inventory-management-system-pims)
+
 [Verifiable Organizations Network (VON)](#verifiable-organizations-network-von)
 
 [BCDevExchange (Website)](#bcdevchange-website)
@@ -69,12 +75,12 @@ This is a brief overview of the teams that have come through the Exchange Lab to
 ### Wildfire
 
 * [See the code on GitHub](https://github.com/bcgov/wps)
+* [See the code on GitHub (Frontend)](https://github.com/bcgov/wps-web)
+* [See the code on GitHub (Backend)](https://github.com/bcgov/wps-api)
 
 ### Property Inventory Management System (PIMS)
 
 * [See the code on GitHub](https://github.com/bcgov/pims)
-* [See the code on GitHub (Frontend)](https://github.com/bcgov/wps-web)
-* [See the code on GitHub (Backend)](https://github.com/bcgov/wps-api)
 
 ### Verifiable Organizations Network (VON)
 OrgBook BC is a searchable public directory of open verifiable data about organizations legally
