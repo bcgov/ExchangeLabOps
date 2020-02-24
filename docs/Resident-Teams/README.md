@@ -64,6 +64,18 @@ This is a brief overview of the teams that have come through the Exchange Lab to
 
 ## Current Teams
 
+### Common Components
+
+### Wildfire
+
+* [See the code on GitHub](https://github.com/bcgov/wps)
+
+### Property Inventory Management System (PIMS)
+
+* [See the code on GitHub](https://github.com/bcgov/pims)
+* [See the code on GitHub (Frontend)](https://github.com/bcgov/wps-web)
+* [See the code on GitHub (Backend)](https://github.com/bcgov/wps-api)
+
 ### Verifiable Organizations Network (VON)
 OrgBook BC is a searchable public directory of open verifiable data about organizations legally
 registered in BC. BC businesses are now empowered with a locally-issued trusted digital identity
