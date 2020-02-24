@@ -96,6 +96,10 @@ The Common Components team is working on ways to reduce the time and cost of del
 
 * [See the code on GitHub](https://github.com/bcgov/pims)
 
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+|  |  |  |  | | |
+
 ### Verifiable Organizations Network (VON)
 OrgBook BC is a searchable public directory of open verifiable data about organizations legally
 registered in BC. BC businesses are now empowered with a locally-issued trusted digital identity
