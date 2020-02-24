@@ -25,5 +25,9 @@ We like the Government of Canada's [Guide for Publishing Open Source Code](https
 
 For a good example of what this looks like, [check out this tweet thread from the Canadian Digial Service.](https://twitter.com/CDS_GC/status/1227971000471560197?s=20)
 
+## Wardelypedia - Strategy and Doctrine for Agile Organizations
+How does an organization move towards being adaptable enough to change its practices? We've been using Simon Wardely's open source guidance and strategy tools to support our efforts.
+
+In particular, check out his [Doctrine Patterns for building a healthy organization.](http://wardleypedia.org/mediawiki/index.php/Doctrine_Patterns)
 
 More to come!
