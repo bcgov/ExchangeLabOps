@@ -9,8 +9,9 @@ nav_order: 10
 
 Have you been working towards delivering value in your organization and feel that the systems or process are challenging your ability to get results? Particularly when there is technology involved?
 
-**Maybe it's time to step back and consider some new ways of working.** Your friends at the Exchange lab have done that, and are having lots of learning, success, and fun. We're keen to share. In particular, we apply Agile mindset and methods to delivery value more quickly, with less wasted resources, and to people's expectations.
+**Maybe it's time to step back and consider some new ways of working.** Your friends at the Exchange lab have done that, and are having lots of learning, success, and fun. We're keen to share. In particular, we apply Digital Principles, Agile mindset and methods to delivery value more quickly, with less wasted resources, and to people's expectations.
 
+* [Read the Draft Digital Principles & contribute your feedback](https://github.com/bcgov/digital-principles)
 * [Learn more about Agile in the BC Public Service ](https://bcgov.github.io/ExchangeLabOps/Agile-in-the-BCPS/readme.html)
 * [Spend some time digging into resource provided by the Agile Alliance](https://www.agilealliance.org/agile-essentials/)
 
