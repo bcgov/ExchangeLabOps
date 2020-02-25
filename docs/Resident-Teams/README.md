@@ -82,7 +82,7 @@ The Common Components team is working on ways to reduce the time and cost of del
 
 
 ### Wildfire
-
+Wildfire Predictive Services to support decision making in prevention, preparedness, response and recovery.
 * [See the code on GitHub](https://github.com/bcgov/wps)
 * [See the code on GitHub (Frontend)](https://github.com/bcgov/wps-web)
 * [See the code on GitHub (Backend)](https://github.com/bcgov/wps-api)
