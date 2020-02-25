@@ -30,6 +30,12 @@ This is a brief overview of the teams that have come through the Exchange Lab to
 
 ## Current Teams
 
+[Common Components](#common-components)
+
+[Wildfire](#wildfire)
+
+[Property Inventory Management System (PIMS)](#property-inventory-management-system-pims)
+
 [Verifiable Organizations Network (VON)](#verifiable-organizations-network-von)
 
 [BCDevExchange (Website)](#bcdevchange-website)
@@ -63,6 +69,35 @@ This is a brief overview of the teams that have come through the Exchange Lab to
 [Transportation Fuel Reporting System](#transportation-fuel-reporting-system)
 
 ## Current Teams
+
+### Common Components
+The Common Components team is working on ways to reduce the time and cost of delivering digital products and services. The user-focused team plans to achieve this by making it easy to find, onboard to and use components like code and microservices that solve common problems. Several teams across the BC Public Service are creating reusable digital building blocks that can be used across government and the Common Components team is working to amplify these teams’ important work. Where gaps and unmet needs are found, the team will fill them, seeking wherever possible to reuse components from other jurisdictions or the open source community.
+
+* [See the code on GitHub (wiki)](https://github.com/bcgov/common-components-wiki)
+* [See the code on GitHub (openshift project)](https://github.com/bcgov/openshift-launchpad)
+
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| React | Flask  | PostgresSQL | OpenShift command line | | Python, js |
+
+
+### Wildfire
+Wildfire Predictive Services to support decision making in prevention, preparedness, response and recovery.
+* [See the code on GitHub](https://github.com/bcgov/wps)
+* [See the code on GitHub (Frontend)](https://github.com/bcgov/wps-web)
+* [See the code on GitHub (Backend)](https://github.com/bcgov/wps-api)
+
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| React | FastAPI  | PostgresSQL PostGIS | Jenkins | | Python 3, js |
+
+### Property Inventory Management System (PIMS)
+The PIMS team is building a system to manage the inventory of BC Government’s titled properties. Including the ability to oversee compliance with Core Policy and Inventory Policies. The app will be based on a geo-spatial platform and will also act as an internal real estate website for re-purposing properties within the public sector.
+* [See the code on GitHub](https://github.com/bcgov/pims)
+
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| React Node  | .NET Core 3.1  | MSSQL | Jenkins |  | js, C#, Leaflet |
 
 ### Verifiable Organizations Network (VON)
 OrgBook BC is a searchable public directory of open verifiable data about organizations legally
