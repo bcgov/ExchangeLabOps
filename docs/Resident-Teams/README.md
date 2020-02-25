@@ -97,7 +97,7 @@ The PIMS team is building a system to manage the inventory of BC Government’s 
 
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
-| React Node  | .NET Core 3.1  | MSSQL |  |  | js, C#, Leaflet |
+| React Node  | .NET Core 3.1  | MSSQL | Jenkins |  | js, C#, Leaflet |
 
 ### Verifiable Organizations Network (VON)
 OrgBook BC is a searchable public directory of open verifiable data about organizations legally
