@@ -92,12 +92,12 @@ The Common Components team is working on ways to reduce the time and cost of del
 | React | FastAPI  | PostgresSQL PostGIS | Jenkins | | Python 3, js |
 
 ### Property Inventory Management System (PIMS)
-
+The PIMS team is building a system to manage the inventory of BC Government’s titled properties. Including the ability to oversee compliance with Core Policy and Inventory Policies. The app will be based on a geo-spatial platform and will also act as an internal real estate website for re-purposing properties within the public sector.
 * [See the code on GitHub](https://github.com/bcgov/pims)
 
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
-|  |  |  |  | | |
+| React Node  | .NET Core 3.1  | MSSQL |  |  | js, C#, Leaflet |
 
 ### Verifiable Organizations Network (VON)
 OrgBook BC is a searchable public directory of open verifiable data about organizations legally
