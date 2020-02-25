@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Agile in the BC Public Service
+has_children: true
 nav_order: 8
 ---
 
