@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Governance
-parent: Agile in the BCPS
-nav_order: 13
+parent: Agile in the BC Public Service
+nav_order: 1
 ---
 
 # Governance for Agile Product Teams
