@@ -7,16 +7,16 @@ nav_order: 8
 
 # Agile in the BC Public Service
 
-Public servants are seeking ways to better deliver services that meet citizen expectations in a complex, fast-changing world. This means abandoning traditional approaches, which often assume:
+Public servants are seeking ways to better deliver services that meet citizen expectations in a complex, fast-changing world. This means abandoning traditional approaches, which often assume we can:
 
-* we can predict the outcomes of our work over long periods of time, 
+* predict the outcomes of our work over long periods of time, 
 * manage complexity with increasingly large and complex projects, and 
 * know people's needs without talking to them. 
 
 It also means re-training and gaining competency in new mindset and methods that enable us to navigate change and new opportunties. With  an "Agile" approach, teams can to respond to unpredictable change through:
 
-* starting small,
-* building, or iterating on, direct feedback from users on prototypes and real products or services we build; and
+* starting small on a well defined problem,
+* building, or iterating on, direct feedback from users on prototypes or early versions of real products; and
 * taking an incremental approach to delivery that reduces the risk we manage at any given time.
 
 If applied appropriately, Agile practices usually yield better results for citizens through faster and more efficient service delivery. This, according to the [Corporate HR Plan](https://www2.gov.bc.ca/assets/gov/careers/forms-tools/all-employees/corporate_plan_where_ideas_work.pdf "Corporate HR Plan"), is why the BC Public Service is investing in learning how to apply agile methods, where traditional approaches are not meeting citizen expectations.
