@@ -30,4 +30,7 @@ How does an organization move towards being adaptable enough to change its pract
 
 In particular, check out his [Doctrine Patterns for building a healthy organization.](http://wardleypedia.org/mediawiki/index.php/Doctrine_Patterns)
 
-More to come!
+## Other Reading
+
+* A lightweight read on agile delivery: [how our Exchange Lab Delivery Teams build stuff](https://medium.com/@awilkinson/skateboard-bike-car-6bec841ed96e)
+* Essential reading ["On Delivery Driven Government."](https://medium.com/code-for-america/delivery-driven-government-67e698c57c7b)
