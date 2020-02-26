@@ -27,6 +27,7 @@ The methods and tools used for delivery at the lab are largely new to to the BC 
 
 The language and culture that has developed around these approaches is new and can be disorienting if you have not made the effort to learn.
 * [Check out some of our favourite online resources.](https://bcgov.github.io/ExchangeLabOps/Lab-Learning-Programs/Learning-Links.html)
+* [Learn about the application of Agile in the BC Public Service.](
 
 All of the programs at the Exchange Lab are designed to facilitate learning this new way of working. In particular, we offer the following:
 
@@ -147,6 +148,8 @@ The work we do is complex. Rather than relying on multiple layers of committees 
 ## Delivery - Through a year long residency in the Lab, or through coaching.
 
 Delivery teams at the lab earn a residency through establishing a specific problem they are trying to solve, and by getting their organization aligned to the digital delivery approach we support. If you think your organization would benefit from a year long residency, please read about [the Journey of a Lab Team.](https://bcgov.github.io/ExchangeLabOps/Journey_of_a_team/Journey.html)
+
+As of February 2020, we are in the process of designing our coaching practice, as the demand for "in-situ" organizational development grows. We envision a series of engagements that help organizations start to learn the mindsets and methods through practice.
 
 ## How we develop our programs
 
