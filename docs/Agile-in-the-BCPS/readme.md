@@ -35,7 +35,7 @@ Agile has its roots in Lean manufacturing and became popular in the software ind
 
 Additonally, when we create isolated and specialized teams in project structures, we require cascading hand-offs which challenge communication and collaboration. This limits innovation, slows delivery of value, and degrades the quality of our products.
 
-In 2015, the BC Developer's Exchange started experimenting with Agile product teams. We tested the [Agile Delivery Process](https://developer.gov.bc.ca/Agile-Delivery-Journey?intention=LOGIN#error=login_required "Agile Delivery Process"). We also learned it takes more than just process improvement: we needed to adjust our mindsets and build a supportive community to enable results.
+In 2015, the BC Developers' Exchange started experimenting with Agile product teams. We tested the [Agile Delivery Process](https://developer.gov.bc.ca/Agile-Delivery-Journey?intention=LOGIN#error=login_required "Agile Delivery Process"). We also learned it takes more than just process improvement: we needed to adjust our mindsets and build a supportive community to enable results.
 
 **The result?** There are over [20 product teams](https://bcgov.github.io/ExchangeLabOps/Resident-Teams/README.html) who have delivered high quality products in an Agile way and many within a year. Additionally, organizations that have graduated teams from the Lab are now embarking on broader Agile adoption and are creating more teams.
 
@@ -43,7 +43,7 @@ The demand for support from across the Public Service to become more Agile is in
 
 ### There is a way to do this with ill-effect.
 
-Agile is considered "new" to many, but it has been used in the technology industry since at least the 1990s. It has surged in popularily among public services across Canada and more broadly. This means there are many flavours of adoption, and not all are successful.
+Agile is considered "new" to many, but it has been used in the technology industry since at least the 1990s. It has surged in popularity among public services across Canada and more broadly. This means there are many flavours of adoption, and not all are successful.
 
 Expecting a new team or organization to simply adopt Agile methodologies is like asking an African Safari guide to lead Scuba divers on a reef tour. There are some core competencies that need to be adopted before this can happen. 
 
