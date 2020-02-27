@@ -27,7 +27,7 @@ The methods and tools used for delivery at the lab are largely new to to the BC 
 
 The language and culture that has developed around these approaches is new and can be disorienting if you have not made the effort to learn.
 * [Check out some of our favourite online resources.](https://bcgov.github.io/ExchangeLabOps/Lab-Learning-Programs/Learning-Links.html)
-* [Learn about the application of Agile in the BC Public Service.](
+* [Learn about the application of Agile in the BC Public Service.](https://bcgov.github.io/ExchangeLabOps/Agile-in-the-BCPS/readme.html)
 
 All of the programs at the Exchange Lab are designed to facilitate learning this new way of working. In particular, we offer the following:
 
