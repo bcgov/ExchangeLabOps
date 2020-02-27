@@ -12,7 +12,7 @@ When it comes to governance, we receive two types of questions:
 
 Both questions are fair, but the first question often leads to a more productive conversation.
 
-Ultimately, if we are building Agile teams, we should be focused on how to help them get results. These teams are full-time and focused on solving for users needs and deliver value more quickly than traditional (waterfall) methods. They have a high burn rate on resources, but they manage risk in small increments, so they require quick feedback cycles. The governance needs to be equally responsive.
+Ultimately, if we are building Agile teams, we should be focused on how to help them get results. These teams are full-time and focused on solving for user's needs and deliver value more quickly than traditional (waterfall) methods. They have a high burn rate on resources, but they manage risk in small increments, so they require quick feedback cycles. The governance needs to be equally responsive.
 
 The second question assumes that an Agile team can work with a traditional governance structure. This might include multiple levels of approval designed to slow decision making. This governance design is effective where high levels of **known** risk require management across an enterprise. While this is a helpful and required structure for a variety of public sector functions, it is not effective for Agile teams. 
 
