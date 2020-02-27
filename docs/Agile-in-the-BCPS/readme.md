@@ -11,15 +11,15 @@ Public servants are seeking ways to better deliver services that meet citizen ex
 
 * predict the outcomes of our work over long periods of time, 
 * manage complexity with increasingly large and complex projects, and 
-* know people's needs without talking to them. 
+* understand people's needs without talking to them. 
 
-It also means re-training and gaining competency in new mindset and methods that enable us to navigate change and new opportunties. With  an "Agile" approach, teams can to respond to unpredictable change through:
+It also means re-training and gaining competency in new mindset and methods that enable us to navigate change and new opportunities. With  an "Agile" approach, teams can to respond to unpredictable change through:
 
 * starting small on a well defined problem,
 * building, or iterating on, direct feedback from users on prototypes or early versions of real products; and
 * taking an incremental approach to delivery that reduces the risk we manage at any given time.
 
-If applied appropriately, Agile practices usually yield better results for citizens through faster and more efficient service delivery. This, according to the [Corporate HR Plan](https://www2.gov.bc.ca/assets/gov/careers/forms-tools/all-employees/corporate_plan_where_ideas_work.pdf "Corporate HR Plan"), is why the BC Public Service is investing in learning how to apply agile methods, where traditional approaches are not meeting citizen expectations.
+If applied appropriately, Agile practices usually yield better results for citizens through faster and more efficient service delivery. This, according to the [Corporate HR Plan](https://www2.gov.bc.ca/assets/gov/careers/forms-tools/all-employees/corporate_plan_where_ideas_work.pdf "Corporate HR Plan"), is why the BC Public Service is investing in learning how to apply Agile methods, where traditional approaches are not meeting citizen expectations.
 
 The Exchange Lab is one place where public servants learn to be Agile. The lab incubates and accelerates learning through the experience of delivering high quality services. 
 ![alt text](https://github.com/bcgov/ExchangeLabOps/blob/heather-feb26/docs/assets/images/2020-02_BCdevExchange_Flywheel.png "The Flywheel that drives momentum at the BCDevExchange.")
