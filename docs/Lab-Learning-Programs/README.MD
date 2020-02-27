@@ -23,14 +23,13 @@ table th:nth-of-type(4) {
 
 Our team creates and offers learning programs to support agencies to build the structures and competencies that enable better service delivery through digital government. 
 
-The methods and tools used for delivery at the lab are largely new to to the BC Public Service, but have been used with success in other governments and sectors. We apply a specific approach, called Agile, to foster high performing teams that focus and deliver products in short time frames through iterative development. We also expect continuous service improvement and new approaches to technology, specifically DevOps practices.
+The methods and tools used for delivery at the lab are largely new to to the BC Public Service, but have been used with success in other governments and sectors. We apply a specific approach, called Agile, to foster high performing teams that focus and deliver products in short time frames through iterative development. We also expect continuous service improvement and new approaches to technology including DevOps practices.
 
 The language and culture that has developed around these approaches is new and can be disorienting if you have not made the effort to learn.
+* [Check out some of our favourite online resources.](https://bcgov.github.io/ExchangeLabOps/Lab-Learning-Programs/Learning-Links.html)
+* [Learn about the application of Agile in the BC Public Service.](https://bcgov.github.io/ExchangeLabOps/Agile-in-the-BCPS/readme.html)
 
 All of the programs at the Exchange Lab are designed to facilitate learning this new way of working. In particular, we offer the following:
-
-## [Lab Learning Program Miro Board](https://miro.com/app/board/o9J_kyzak5o=/?moveToWidget=3074457346984654518)
-Note - the information on this Miro Board is being migrated to this website.
 
 ## Current Lab Training Offerings
 
@@ -53,9 +52,8 @@ Course reading and watching resources can be found [Here](https://trello.com/b/1
             <td>BC Government employees and BC Government contractors</td>
             <td>
                 <ul>
-                    <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">January 29, 2020</a></li>
-                    <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">February 11, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">March 19, 2020</a></li>
+                    <li>More dates to come for April-June</li>
                 </ul>
             </td>
             <td>Internal government employees (typically Scrum Masters)</td>
@@ -80,10 +78,8 @@ Course content unpacks new leadership competencies, the new OCIO Digital Framewo
             <td>BC Government employees Band 3 and above</td>
             <td>
                 <ul>
-                    <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">January 30, 2020</a></li>
-                    <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">January 31, 2020</a></li>
-                    <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">February 20, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">March 26, 2020</a></li>
+                    <li>More dates to come.</li>
                 </ul>
             </td>
             <td>Internal government employees</td>
@@ -109,8 +105,6 @@ Course reading and watching resources can be found [here](https://trello.com/b/F
             <td>BC Government employees and government contractors</td>
             <td>
                 <ul>
-                    <li><a href="https://www.eventbrite.ca/e/discover-devops-tickets-85567545833" target="_blank">January 21, 2020</a></li>
-                    <li><a href="https://www.eventbrite.ca/e/discover-devops-tickets-85567908919" target="_blank">February 25, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/discover-devops-tickets-85568424461" target="_blank">March 10, 2020</a></li>
                 </ul>
             </td>
@@ -136,9 +130,6 @@ Covers DevOps platform training (application operational tasks).
             <td>BC Government employees and BC Government contractors</td>
             <td>
                 <ul>
-                    <li><a href="https://www.eventbrite.ca/e/openshift-101-tickets-85533754763" target="_blank">January 23-24, 2020</a></li>
-                    <li><a href="https://www.eventbrite.ca/e/openshift-101-tickets-85533754763" target="_blank">February 6-7, 2020</a></li>
-                    <li><a href="https://www.eventbrite.ca/e/openshift-101-tickets-85533754763" target="_blank">February 26-27, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/openshift-101-tickets-85533754763" target="_blank">March 11-12, 2020</a></li>
                 </ul>
             </td>
@@ -151,12 +142,14 @@ Covers DevOps platform training (application operational tasks).
 ## Community - Broad and specific to people who are learning new roles.
 
 The work we do is complex. Rather than relying on multiple layers of committees to review, approve or direct our work, we enagage with the community around us to discover the best possible way to solve problems. 
-
-Learn more about the communities you can participate in by [checking out events](https://developer.gov.bc.ca/events) or [connect with them in Rocket.Chat, our community messaging tool](https://developer.gov.bc.ca/Steps-to-join-Pathfinder-Rocket.Chat).
+* Learn more about the communities you can participate in by [checking out events](https://developer.gov.bc.ca/events) or [connect with them in Rocket.Chat, our community messaging tool](https://developer.gov.bc.ca/Steps-to-join-Pathfinder-Rocket.Chat).
+* [Learn more about governance in an agile organization.](https://bcgov.github.io/ExchangeLabOps/Agile-in-the-BCPS/governance/README.html)
 
 ## Delivery - Through a year long residency in the Lab, or through coaching.
 
-Delivery teams at the lab earn a residency through establishing a specific problem they are trying to solve, and by getting their organization aligned to the digital delivery approach we support. If you think your organization would benefit from a year long residency, please read about the Journey of a Lab Team.
+Delivery teams at the lab earn a residency through establishing a specific problem they are trying to solve, and by getting their organization aligned to the digital delivery approach we support. If you think your organization would benefit from a year long residency, please read about [the Journey of a Lab Team.](https://bcgov.github.io/ExchangeLabOps/Journey_of_a_team/Journey.html)
+
+As of February 2020, we are in the process of designing our coaching practice, as the demand for "in-situ" organizational development grows. We envision a series of engagements that help organizations start to learn the mindsets and methods through practice.
 
 ## How we develop our programs
 
