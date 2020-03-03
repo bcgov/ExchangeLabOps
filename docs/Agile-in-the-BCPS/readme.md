@@ -22,7 +22,7 @@ It also means re-training and gaining competency in new mindset and methods that
 If applied appropriately, Agile practices usually yield better results for citizens through faster and more efficient service delivery. This, according to the [Corporate HR Plan](https://www2.gov.bc.ca/assets/gov/careers/forms-tools/all-employees/corporate_plan_where_ideas_work.pdf "Corporate HR Plan"), is why the BC Public Service is investing in learning how to apply Agile methods, where traditional approaches are not meeting citizen expectations.
 
 The Exchange Lab is one place where public servants learn to be Agile. The lab incubates and accelerates learning through the experience of delivering high quality services. 
-![alt text](https://github.com/bcgov/ExchangeLabOps/blob/heather-feb26/docs/assets/images/2020-02_BCdevExchange_Flywheel.png "The Flywheel that drives momentum at the BCDevExchange.")
+![alt text](/assets/images/2020-02_BCdevExchange_Flywheel.png "The Flywheel that drives momentum at the BCDevExchange.")
 While we build real products, the higher value deliverable is the talent and team that becomes equipped to continue service improvement, while taking on new important challenges.
 
 * For more insight into the values and principles of an Agile team, please see the [Agile Manifesto](http://agilemanifesto.org "Agile Manifesto") and its [history](https://agilemanifesto.org/history.html "History of the Manifesto")
@@ -55,7 +55,7 @@ Further, service delivery in complex circumstances, regardless of methodology, i
 
 ## Tips to get started:
 [Check out digital principles in development for the BC Public Service](https://github.com/bcgov/digital-principles "Digital Principles in the BCGov Github") including:
-![alt text](https://github.com/bcgov/ExchangeLabOps/blob/heather-feb26/docs/assets/images/2020-02_Draft-digital-principles.png "BC's Draft Digital Principles Slide")
+![alt text](/assets/images/2020-02_Draft-digital-principles.png "BC's Draft Digital Principles Slide")
 
 ### About Working in the Open
 There are many benefits to sharing information openly. [See the government of Canada's Guide for Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/open-source-software/guide-for-publishing-open-source-code.html)
