@@ -55,7 +55,7 @@ Further, service delivery in complex circumstances, regardless of methodology, i
 
 ## Tips to get started:
 [Check out digital principles in development for the BC Public Service](https://github.com/bcgov/digital-principles "Digital Principles in the BCGov Github") including:
-![alt text](/assets/images/2020-02_Draft-digital-principles.png "BC's Draft Digital Principles Slide")
+!["BC's Draft Digital Principles Slide"](/ExchangeLabOps/assets/images/2020-02_Draft-digital-principles.png)
 
 ### About Working in the Open
 There are many benefits to sharing information openly. [See the government of Canada's Guide for Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/open-source-software/guide-for-publishing-open-source-code.html)
