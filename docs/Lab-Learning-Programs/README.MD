@@ -116,8 +116,8 @@ Course reading and watching resources can be found [here](https://trello.com/b/F
                     <li><a href="https://www.eventbrite.ca/e/discover-devops-tickets-85568424461" target="_blank">April 15, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/discover-devops-tickets-85568424461" target="_blank">May 5, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/discover-devops-tickets-85568424461" target="_blank">June 16, 2020</a></li>
-                    <li>Dates may be subject to change due to the availability of trainers and government priorities.</li>
                 </ul>
+                Dates may be subject to change due to the availability of trainers and government priorities.
             </td>
             <td>Internal government employees</td>
             <td>Product owners and members of an Agile team</td>
