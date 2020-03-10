@@ -57,8 +57,8 @@ Course reading and watching resources can be found [Here](https://trello.com/b/1
                     <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">April 28, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">May 20, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">June 18, 2020</a></li>
-                    <li>Dates may be subject to change due to the availability of trainers and government priorities.</li>
                 </ul>
+                Dates may be subject to change due to the availability of trainers and government priorities.
             </td>
             <td>Internal government employees (typically Scrum Masters)</td>
             <td>New teams entering the Exchange Lab</td>
@@ -87,8 +87,8 @@ Course content unpacks new leadership competencies, the new OCIO Digital Framewo
                     <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">May 1, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">May 13, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">June 11, 2020</a></li>
-                    <li>Dates may be subject to change due to the availability of trainers and government priorities.</li>
                 </ul>
+                Dates may be subject to change due to the availability of trainers and government priorities.
             </td>
             <td>Internal government employees</td>
             <td>Leadership responsible for Agile teams</td>
@@ -145,8 +145,8 @@ Covers DevOps platform training (application operational tasks).
                     <li><a href="https://www.eventbrite.ca/e/openshift-101-tickets-85533754763" target="_blank">April 16-17, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/openshift-101-tickets-85533754763" target="_blank">May 21-22, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/openshift-101-tickets-85533754763" target="_blank">June 9-10, 2020</a></li>
-                    <li>Dates may be subject to change due to the availability of trainers and government priorities.</li>
                 </ul>
+                Dates may be subject to change due to the availability of trainers and government priorities.
             </td>
             <td>Internal government employees</td>
             <td>Developers (government staff or government contractors) using the OpenShift Container Platform</td>
