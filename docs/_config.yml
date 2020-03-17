@@ -2,6 +2,10 @@ remote_theme: pmarsceill/just-the-docs
 
 logo: "assets/images/ExchangeLabOpsImage.png"
 
+aux_links:
+  "Edit on Github":
+    - "//github.com/bcgov/ExchangeLabOps"
+
 footer_content: "<a href='https://gov.bc.ca/'>
   <img 
     src='/ExchangeLabOps/assets/images/BCID_H_rgb_pos.png' 
