@@ -30,7 +30,7 @@ This is a brief overview of the teams that have come through the Exchange Lab to
 
 ## Current Teams
 
-[BC Services Card](#bc-services-card 
+[BC Services Card](#bc-services-card) 
 
 [Common Components](#common-components)
 
