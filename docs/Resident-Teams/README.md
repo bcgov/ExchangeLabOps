@@ -30,6 +30,8 @@ This is a brief overview of the teams that have come through the Exchange Lab to
 
 ## Current Teams
 
+[BC Services Card](#bc-services-card 
+
 [Common Components](#common-components)
 
 [Wildfire](#wildfire)
@@ -69,6 +71,15 @@ This is a brief overview of the teams that have come through the Exchange Lab to
 [Transportation Fuel Reporting System](#transportation-fuel-reporting-system)
 
 ## Current Teams
+
+### BC Services Card 
+Enabling BC Services Card Login. The vision is to make it easier for public organizations to offer the widely-used BC Services Card, a secure and verified government issued identity, as a simple easy-to-use login option for online services`
+
+* [See the code on GitHub]( https://github.com/bcgov/BCSC-SS)
+
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| Node, Vue, Vuetify | Python, Flask  | Postgres | OpenShift | | Python, js |
 
 ### Common Components
 The Common Components team is working on ways to reduce the time and cost of delivering digital products and services. The user-focused team plans to achieve this by making it easy to find, onboard to and use components like code and microservices that solve common problems. Several teams across the BC Public Service are creating reusable digital building blocks that can be used across government and the Common Components team is working to amplify these teams’ important work. Where gaps and unmet needs are found, the team will fill them, seeking wherever possible to reuse components from other jurisdictions or the open source community.
