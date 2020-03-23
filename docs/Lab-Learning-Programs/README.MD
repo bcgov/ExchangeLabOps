@@ -52,13 +52,12 @@ Course reading and watching resources can be found [Here](https://trello.com/b/1
             <td>BC Government employees and BC Government contractors</td>
             <td>
                 <ul>
-                    <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">March 19, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">April 7, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">April 28, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">May 20, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">June 18, 2020</a></li>
                 </ul>
-                Dates may be subject to change due to the availability of trainers and government priorities.
+                An online version is in progress for the above dates in response to Covid-19. Dates may be subject to change due to the availability of trainers and government priorities.
             </td>
             <td>Internal government employees (typically Scrum Masters)</td>
             <td>New teams entering the Exchange Lab</td>
@@ -82,13 +81,13 @@ Course content unpacks new leadership competencies, the new OCIO Digital Framewo
             <td>BC Government employees Band 3 and above</td>
             <td>
                 <ul>
-                    <li><strike><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">March 26, 2020</a></strike></li>
-                    <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">April 8, 2020</a></li>
-                    <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">May 1, 2020</a></li>
-                    <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">May 13, 2020</a></li>
+                    <li><strike>March 26, 2020</strike></li>
+                    <li><strike>April 8, 2020</strike></li>
+                    <li><strike>May 1, 2020</strike></li>
+                    <li><strike>May 13, 2020</strike></li>
                     <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">June 11, 2020</a></li>
                 </ul>
-                Dates may be subject to change due to the availability of trainers and government priorities.
+                An online version is in progress for the above dates in response to Covid-19. Dates may be subject to change due to the availability of trainers and government priorities.
             </td>
             <td>Internal government employees</td>
             <td>Leadership responsible for Agile teams</td>
@@ -113,11 +112,11 @@ Course reading and watching resources can be found [here](https://trello.com/b/F
             <td>BC Government employees and government contractors</td>
             <td>
                 <ul>
-                    <li><a href="https://www.eventbrite.ca/e/discover-devops-tickets-85568424461" target="_blank">April 15, 2020</a></li>
-                    <li><a href="https://www.eventbrite.ca/e/discover-devops-tickets-85568424461" target="_blank">May 5, 2020</a></li>
+                    <li><strike>April 15, 2020</strike></li>
+                    <li><strike>May 5, 2020</strike></li>
                     <li><a href="https://www.eventbrite.ca/e/discover-devops-tickets-85568424461" target="_blank">June 16, 2020</a></li>
                 </ul>
-                Dates may be subject to change due to the availability of trainers and government priorities.
+                An online version is in progress for the above dates in response to Covid-19. Dates may be subject to change due to the availability of trainers and government priorities.
             </td>
             <td>Internal government employees</td>
             <td>Product owners and members of an Agile team</td>
@@ -141,12 +140,11 @@ Covers DevOps platform training (application operational tasks).
             <td>BC Government employees and BC Government contractors</td>
             <td>
                 <ul>
-                    <li><a href="https://www.eventbrite.ca/e/openshift-101-tickets-85533754763" target="_blank">March 11-12, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/openshift-101-tickets-85533754763" target="_blank">April 16-17, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/openshift-101-tickets-85533754763" target="_blank">May 21-22, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/openshift-101-tickets-85533754763" target="_blank">June 9-10, 2020</a></li>
                 </ul>
-                Dates may be subject to change due to the availability of trainers and government priorities.
+                An online version is in progress for the above dates in response to Covid-19. Dates may be subject to change due to the availability of trainers and government priorities.
             </td>
             <td>Internal government employees</td>
             <td>Developers (government staff or government contractors) using the OpenShift Container Platform</td>
