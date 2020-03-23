@@ -82,7 +82,7 @@ Course content unpacks new leadership competencies, the new OCIO Digital Framewo
             <td>BC Government employees Band 3 and above</td>
             <td>
                 <ul>
-                    <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">March 26, 2020</a></li>
+                    <li><strike><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">March 26, 2020</a></strike></li>
                     <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">April 8, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">May 1, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/digital-leadership-registration-85577198705" target="_blank">May 13, 2020</a></li>
