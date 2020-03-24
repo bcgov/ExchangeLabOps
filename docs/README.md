@@ -1,4 +1,4 @@
-# Exchange Lab - Real Home, but actually real
+# Exchange Lab - Jon's Real Home page
 
 The BCDevExchange exists at the leading edge of delivery-driven government in British Columbia. We live at a location called the **Exchange Lab.** (Formerly the Continuous Service Improvement (CSI) Lab)
 
