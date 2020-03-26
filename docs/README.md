@@ -4,6 +4,10 @@ The BCDevExchange exists at the leading edge of delivery-driven government in Br
 
 [We are one of many labs around the world](https://apolitical.co/government-innovation-lab-directory/ "Map of Public Sector Innovation Labs"). Our Lab has a focus on building digital competencies and a more digital government, aligned to our [Digital Framework](https://digital.gov.bc.ca/ "BC's Digital Government Website"). 
 
+## To find the current state of the BCDevX Platform Services visit here:
+
+[BCDevX Platform Services Status](http://status.developer.gov.bc.ca/)
+
 ## What you'll find here
 
 This site is maintained by the Lab Operations team. This is where we share information and resources with Lab Residents, community members, and those curious about how we run the lab. We are constantly learning what works for our diverse clients. You'll see the materials on this site improved frequently.
