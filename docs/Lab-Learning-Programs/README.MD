@@ -52,7 +52,6 @@ Course reading and watching resources can be found [Here](https://trello.com/b/1
             <td>BC Government employees and BC Government contractors</td>
             <td>
                 <ul>
-                    <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">April 7, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">April 28, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">May 20, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">June 18, 2020</a></li>
@@ -140,7 +139,7 @@ Covers DevOps platform training (application operational tasks).
             <td>BC Government employees and BC Government contractors</td>
             <td>
                 <ul>
-                    <li><a href="https://www.eventbrite.ca/e/openshift-101-tickets-85533754763" target="_blank">April 16-17, 2020</a></li>
+                    <li><strike>April 16-17, 2020</strike>Postponed</li>
                     <li><a href="https://www.eventbrite.ca/e/openshift-101-tickets-85533754763" target="_blank">May 21-22, 2020</a></li>
                     <li><a href="https://www.eventbrite.ca/e/openshift-101-tickets-85533754763" target="_blank">June 9-10, 2020</a></li>
                 </ul>
