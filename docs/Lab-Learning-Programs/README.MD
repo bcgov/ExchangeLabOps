@@ -114,7 +114,7 @@ Course reading and watching resources can be found [here](https://trello.com/b/F
                 <ul>
                     <li><strike>April 15, 2020</strike></li>
                     <li><strike>May 5, 2020</strike></li>
-                    <li><a href="https://www.eventbrite.ca/e/discover-devops-tickets-85568424461" target="_blank">June 16, 2020</a></li>
+                    <li><a href="https://www.eventbrite.ca/e/discover-devops-tickets-82642392621" target="_blank">June 16, 2020</a></li>
                 </ul>
                 An online version is in progress for the above dates in response to Covid-19. Dates may be subject to change due to the availability of trainers and government priorities.
             </td>
