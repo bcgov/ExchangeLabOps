@@ -146,7 +146,7 @@ The new application will leverage the BC Services Card and PayBC for credit card
 * [Relationships Repos on GitHub](https://github.com/bcgov/sbc-pay)
 * [Name Request Repos on GitHub](https://github.com/bcgov/namerequest)
 * [NameX Repos on GitHub](https://github.com/bcgov/namex)
-* [NameX Repos on GitHub](https://github.com/bcgov/name-examinatio)
+* [NameX Repos on GitHub](https://github.com/bcgov/name-examination)
 
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
