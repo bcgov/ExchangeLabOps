@@ -135,8 +135,18 @@ The ServiceBC team is developing a number of Registry products. The Names Examin
 application verifies if a company name is available for use in BC. Cooperatives in B.C. will soon be
 able to file reports securely online: a faster, simpler way than the previous paper mail-in process.
 The new application will leverage the BC Services Card and PayBC for credit card payments.
-* [View the app]()
-* [See the code on GitHub](https://github.com/bcgov/entity)
+* [View the app](https://www.bcregistry.ca/cooperatives)
+* [Entity Repos on GitHub](https://github.com/bcgov/entity)
+* [Entity Repos on GitHub](https://github.com/bcgov/lear)
+* [Entity Repos on GitHub](https://github.com/bcgov/business-filings-ui)
+* [Entity Repos on GitHub](https://github.com/bcgov/bcrs-business-create-ui)
+* [Entity Repos on GitHub](https://github.com/bcgov/business-schemas)
+* [Relationships Repos on GitHub](https://github.com/bcgov/sbc-common-components)
+* [Relationships Repos on GitHub](https://github.com/bcgov/sbc-auth)
+* [Relationships Repos on GitHub](https://github.com/bcgov/sbc-pay)
+* [Name Request Repos on GitHub](https://github.com/bcgov/namerequest)
+* [NameX Repos on GitHub](https://github.com/bcgov/namex)
+* [NameX Repos on GitHub](https://github.com/bcgov/name-examinatio)
 
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
