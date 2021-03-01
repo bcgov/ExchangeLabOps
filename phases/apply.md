@@ -19,6 +19,9 @@ During this phase, a program area becomes more clear on what they need to solve 
 #### Pre-conditions:
 - You've spent some time getting familiar with the Service Design and Delivery standard, and service innovation methods, including Agile Delivery.
 - Your organization needs support to build its capacity for digital service delivery using modern methods and tools (there isn't enough support for this in your home organization.)
+- You've read the Lab Partnership Agreement and believe your organization can be supported to align to it.
+
+<a href="resources\2021-02-Exchange-Lab-Partnership-Agreement_Template.pdf"><img height="675" width="458" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\coverpage_partnership-agreement.png" alt="Partnership Agreement cover page">
 
 #### What success looks like in this phase:
 - You are able to clarify why Agile product delivery might be appropriate for the service delivery challenge you are seeking to solve.
@@ -38,9 +41,11 @@ Adopting or implementing new technology can be challenging, or desirable, but th
 
 We help teams develop readiness around problem definition through these steps:
 
-1. Answer focused questions about he potential problem in a Challenge Brief Template (.docx)
+1. Answer focused questions about he potential problem in a Challenge Brief Template
 2. Explore the nature of the problem with experts in service delivery connected through the Digital Delivery Network (we facilitate a workshop)
 3. Get clear on root cause analysis if the source of the problem is not clear, and identify a place to start solving the problem from.
+
+<a href="resources\2021-02_Challenge-Brief_Template.pdf"><img height="411" width="586" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\coverpage_challenge-brief.png" alt="Challenge Brief cover page"></a>
 
 ## Confirm Priority
 
@@ -49,7 +54,7 @@ We help teams develop readiness around problem definition through these steps:
 Sometimes, program staff approach before they have this support, but they have clarity of the problem they want to solve, or can point to value they want to achieve. We support program areas to confirm priority a few ways:
 
 - Define the problem as described above, to help build a case for the opportunity to work with the Lab on a real, complex challenge.
-- Determine an opportunity to "pathfind" a solution to a problem that is common and can be leveraged by others with significant return on investment.
+- Determine an opportunity to "path find" a solution to a problem that is common and can be leveraged by others with significant return on investment.
 
 Ultimately, if the problem or opportunity appears to be a good investment of Exchange Lab resources, our team will test it with others in the Digital Delivery Network and with OCIO Executive. This may result in advancing towards a partnership.
 

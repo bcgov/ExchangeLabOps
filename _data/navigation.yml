@@ -16,8 +16,8 @@ primary:
     href: /
   - text: Partner with the Lab
     href: /partner
-  - text: Design & Delivery Standard
-    href: /standard
+  - text: Design & Delivery Playbook
+    href: /playbook
   - text: Governance
     href: /governance
 
@@ -32,8 +32,8 @@ docs:
     href: /governance
   - text: Tools we Use
     href: /tools
-  - text: Design & Delivery Standard
-    href: /standard
+  - text: Design & Delivery Playbook
+    href: /playbook
 
 partner:
   - text: Exchange Lab Overview
@@ -67,11 +67,11 @@ secondary:
     href: https://github.com/bcgov/exchangelabops
     external: true
 
-standard:
+playbook:
     - text: Exchange Lab Overview
       href: /
-    - text: Design & Delivery Standard
-      href: /standard
+    - text: Design & Delivery Playbook
+      href: /playbook
 
 teams:
     - text: Exchange Lab Overview

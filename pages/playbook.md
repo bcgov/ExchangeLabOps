@@ -1,9 +1,9 @@
 ---
-title: Design & Delivery Standard
-permalink: /standard
+title: Design & Delivery Playbook
+permalink: /playbook
 
 layout: post
-sidenav: standard
+sidenav: playbook
 subnav:
   - text: Understand users
     href: '#1-understand-users'
@@ -34,11 +34,25 @@ subnav:
   - text: Test with the minister
     href: '#14-test-with-the-minister'
 ---
-The Exchange community adopts generally accepted modern standards for service design and delivery that have been pioneered, practiced and proven by other government digital service agencies.
+Our Exchange Lab community adopts generally accepted modern standards for service design and delivery that have been pioneered, practiced and proven by other government digital service agencies. Here, we present the elements of these standards we've adopted as a **"playbook" for teams seeking to shift their practices and create and run great public services that optimize digital channels.**
 
-These standards are intended to guide service delivery teams to create and run great public services that optimize digital channels. Excellent services are inclusive and may likely include integrated, multi-channel delivery.
+We've gratefully borrowed content from:
+- <a href="https://www.gov.uk/service-manual/service-standard" target="_blank">the UK Digital Service Standard</a>, and
+- <a href="https://www.ontario.ca/page/digital-service-standard" target="_blank"> the Ontario Digital Service Standard</a>.
 
-As an early adopter of other service standards, we've gratefully borrowed content from the UK Service Standard and the Ontario Digital Service Standard. At this time, the Service Design and Delivery Standard we present here is intended only as a practical guide. We do envision that it will be improved and adopted for broader use, with input from those who apply it.
+Each section of this Playbook includes a list of **tools** and **supports** that can help a team make the play. We'll also do our best to indicate where there may be a gap, or resources in progress you might be able to contribute to.
+- [Make a suggestion for a tool or support we should add.](https://github.com/HeatherRemacle/exchangelabops/issues/new/choose).
+
+#### Tools may include:
+- **Guidance**: policies, practices and capability-building resources for service design and delivery.
+- **Procurement & finance**: investment, sourcing and contracting instruments to support the acquisition or creation of good services.
+- **Design elements**: colours, layouts and typography to create a consistent experience of services.
+- **Shared platforms**: whole-of-government components, APIs, infrastructure and data.
+
+#### Supports may include:
+- **Governance**: support and strategic decision-making for a whole-of-government approach to service design and delivery.
+- **Leadership**: cross-government networks of servant leaders catalyzing, guiding and coordinating innovative approaches to services.
+- **Community**: Intentional and supported communities of creators and innovators - inside and outside government - with whom to connect, share and learn.
 
 <hr>
 
@@ -75,7 +89,7 @@ To inform service features, interview users and gather data to develop:
 * **user profiles** - show user groups based on demographics such as
   gender, age, location, income and family size
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -107,6 +121,15 @@ In the live stage:
 * talk about how research results will be used to continuously improve
   the service (e.g. participants, frequency, location, timing)
 
+#### Tools
+- <a href="https://bcgov.github.io/design-research-guide/" target="_blank">Design research guide</a>
+
+#### Supports
+- User experience (UX) guild: Yammer group; Rocket.Chat channel.
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+*[Make a suggestion](https://github.com/HeatherRemacle/exchangelabops/issues/new/choose).*
+
 ## 2. Establish the right team
 
 Put a sustained multidisciplinary team in place that can design, build
@@ -136,7 +159,7 @@ To be successful, build a team with:
   the service evolves
 * the resources and ability to deliver the product
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -154,6 +177,14 @@ At a minimum:
 * continue to improve the service after it’s gone live
 * involve the maintenance team for the service early on in the project
 
+#### Tools
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+#### Supports
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+*[Make a suggestion](https://github.com/HeatherRemacle/exchangelabops/issues/new/choose).*
+
 ## 3. Be consistent
 
 When the public interacts with the BC government, their experience
@@ -170,37 +201,34 @@ Services delivered online, over the phone or in person should provide a
 consistent experience for the public. From branding to tone of voice and
 error handling, users should always feel confident in their ability to complete the service properly and our ability to guide them to the completion of their task.
 
-### How to meet this standard
-
+### How to apply this play
 gov.bc.ca is the government's flagship website. At a minimum:
 
 * add new content to gov.bc.ca, rather than create any new websites or
   mobile applications
 * use an gov.bc.ca/keyword for websites and marketing, rather than
-  register any new public-facing domain names (e.g.
-  gov.bc.ca/digitalthing instead of digitalthing.gov.bc.ca)
+  register any new public-facing domain names (e.g. gov.bc.ca/digitalthing instead of digitalthing.gov.bc.ca)
 * migrate high-demand, priority web content to gov.bc.ca
 * use gov.bc.ca as the front door for all transactional applications on
   other platforms
-* demonstrate how the service has used the BC Government design system (https://developer.gov.bc.ca/Design-System/About)
-* apply gov.bc.ca web & development guides (https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/web-content-development-guides) to maintain the tone and voice of
-  government content
+* Apply standard BC Government webiste standards and design elements.
 * show core content on gov.bc.ca that’s easy to find, understand and
   use
 * work with the Exchange Lab team
 * demonstrate that the service is responsive, with the same content and
   functionality on all devices, and works on mobile devices
 
-### Laws and rules to follow (to be updated with BC content)
+#### Tools:
 
-* Accessibility -
-  [*Accessibility for Ontarians with Disabilities Act*, Information and Communication Standard](https://www.ontario.ca/laws/regulation/r11191#BK9)
-* French language -
-  [*French Language Services Act*](https://www.ontario.ca/laws/statute/90f32),
-  [Government services in French](https://www.ontario.ca/page/government-services-french)
-* Open data -
-  [Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive)
-* Social Media - [Ontario Public Service social media guidelines](https://www.ontario.ca/page/ontario-public-service-social-media-guidelines)
+- Policy Guidance: <a href="https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/communications-and-public-engagement" target="_blank">CPPM Policy Chapter 22: Communications and Public Engagement</a>{: .bc-external_link}.
+- <a href="https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/web-content-development-guides" target="_blank">Guides: gov.bc.ca web & development</a>{: .bc-external_link}.
+- <a href="https://developer.gov.bc.ca/Design-System/About" target="_blank">BC Government design system</a>{: .bc-external_link}.
+- <a href="https://www2.gov.bc.ca/gov/content/home/accessible-government/toolkit" target="blank"> Accessibility toolkit</a>{: .bc-external_link}.
+- <a href="https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/social-media-guidelines" target="blank">Social Media Guidelines</a>{: .bc-external_link}.
+- <a href="https://www2.gov.bc.ca/gov/content/data/open-data" target="blank"> Open Data </a>{: .bc-external_link}.
+
+#### Supports:
+- Connect with the Government Digital Experience Division to get help meeting this standard, in alignment with Core Policy Chapter 22.
 
 ## 4. Design from start to finish
 
@@ -225,7 +253,7 @@ in person. Every encounter — whether it's online or offline — needs to
 be carefully considered and should help the user get closer to their end
 goal.
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -248,6 +276,14 @@ At a minimum:
 * use analytics data in the user research plan
 * show any problems found through testing and proposed solutions
 
+#### Tools
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+#### Supports
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+*[Make a suggestion](https://github.com/HeatherRemacle/exchangelabops/issues/new/choose).*
+
 ## 5. Users succeed the first time
 
 Using a government service should be an intuitive and stress-free
@@ -267,7 +303,7 @@ their task. Or they may avoid using it altogether.
 Not only does this lead to higher operational costs, but it also can
 lead to user frustration and a loss of confidence in government.
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -292,6 +328,14 @@ At a minimum:
   didn’t complete the task they set out to do online (e.g. renew a
   driver’s licence)
 
+#### Tools
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+#### Supports
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+*[Make a suggestion](https://github.com/HeatherRemacle/exchangelabops/issues/new/choose).*
+
 ## 6. Test end-to-end
 
 Continuously test the end-to-end service to ensure that it remains
@@ -310,7 +354,7 @@ digital services to be online 24/7.
 
 This means more satisfied users that have trust in government services.
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -335,6 +379,14 @@ At a minimum:
   documentation up-to-date
 * have a plan for data storage and recovery in case of data loss
 
+#### Tools
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+#### Supports
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+*[Make a suggestion](https://github.com/HeatherRemacle/exchangelabops/issues/new/choose).*
+
 ## 7. Make it accessible
 
 Accessible design is good design and it's good for business. Creating accessible digital products and services improves the experience for everybody. Ensure the service is accessible to all users regardless of their individual abilities, device, environment or quality of access.
@@ -352,7 +404,7 @@ digital tools.
 If users find it difficult to complete the task the first time, they may
 avoid using the service or contact your organization to get help.
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -364,14 +416,13 @@ At a minimum:
 * demonstrate how your staff will be equipped with knowledge of barriers to accessibility and will be trained to assist users with disabilities in completing tasks and accessing information
 * ensure that when new technology platforms are considered you find out about any WCAG 2.0 AA compliance issues and efforts to implement the Authoring Tool Accessibility Guidelines 2.0 (ATAG) Part A & B
 
-### Laws and rules to follow (to be updated with BC content)
+#### Tools
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
 
-* [*Accessibility for Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/05a11)
-  * [Integrated Accessibility Standards Regulation](https://www.ontario.ca/laws/regulation/110191)
-    * [Customer Service Standards](https://www.ontario.ca/laws/regulation/110191#BK148)
-    * [Information and Communications Standards](https://www.ontario.ca/laws/regulation/110191#BK8)
-* [*Ontario Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
-* [*Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/01o32)
+#### Supports
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+*[Make a suggestion](https://github.com/HeatherRemacle/exchangelabops/issues/new/choose).*
 
 ## 8. Be agile and user-centred
 
@@ -402,7 +453,7 @@ Agile methods build services that:
 * can keep improving based on user feedback
 * can be built quickly with a minimum set of features, and enhanced with more features after the service goes live
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -421,6 +472,14 @@ At a minimum:
   service
 * have a quality assurance testing and rollback plan that supports frequent iterations to the service
 * use a phased approach to test changes to part of service, when feature-based changes are not feasible
+
+#### Tools
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+#### Supports
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+*[Make a suggestion](https://github.com/HeatherRemacle/exchangelabops/issues/new/choose).*
 
 ## 9. Use open standards and common platforms
 
@@ -444,7 +503,7 @@ government:
   vendors
 * eliminate potentially restrictive long-term contracts
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -460,14 +519,13 @@ At a minimum:
 * use common government platforms (e.g. gov.bc.ca, GeoCoder)
 * integrate with any legacy systems
 
-### Laws and rules to follow (to be updated with BC content)
+#### Tools
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
 
-* [Ontario’s Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive)
-* Standard platforms
-  * Web publishing - [Ontario.ca](http://www.ontario.ca/)
-  * News - [Ontario Newsroom](https://www.ontario.ca/news)
-  * Open data -
-    [Data catalogue](https://www.ontario.ca/search/data-catalogue)
+#### Supports
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+*[Make a suggestion](https://github.com/HeatherRemacle/exchangelabops/issues/new/choose).*
 
 ## 10. Embed privacy and security
 
@@ -485,7 +543,7 @@ Users won’t use a service unless they have a guarantee:
 * they can access their information in the service when they need to
 * that their privacy is protected while they use the service, and afterwards
 
-### How to meet this standard
+### How to apply this play
 
 In the early stages of development, explain:
 
@@ -525,13 +583,14 @@ When the service is live, describe:
   changed during beta
 * how the privacy policy will stay up-to-date
 
-### Laws and rules to follow (to be updated with BC content)
+#### Tools
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+- FOIPPA
 
-* [*Freedom of Information and Protection of Privacy Act*](https://www.ontario.ca/laws/statute/90f31)
-* [*Archives and Recordkeeping Act*​](https://www.ontario.ca/laws/statute/06a34)
-* [*Personal Health Information Protection Act*​](https://www.ontario.ca/laws/statute/04p03)
-* [*Personal Information Protection and Electronic Documents Act*](https://www.pwriv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r_o_p/)
-* [*Canada's Anti-Spam Legislation*](http://fightspam.gc.ca/eic/site/030.nsf/eng/home)
+#### Supports
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+*[Make a suggestion](https://github.com/HeatherRemacle/exchangelabops/issues/new/choose).*
 
 ## 11. Encourage people to use digital services
 
@@ -548,7 +607,7 @@ Encouraging people to use digital service will:
 * allow non-digital resources to give more attention to those who can’t use digital services on their
   own
 
-### How to meet this standard
+### How to apply this play
 
 In the early stages of development:
 
@@ -578,6 +637,14 @@ When the service is live:
   yearly targets for 5 years
 * measure the expected impact on other service points, such as phone and in person, and how that could impact funding and resource allocation
 
+#### Tools
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+#### Supports
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+*[Make a suggestion](https://github.com/HeatherRemacle/exchangelabops/issues/new/choose).*
+
 ## 12. Support those who need it
 
 Put tools in place across all channels to support people who cannot use
@@ -595,7 +662,7 @@ digital services. Understand how and where users require
 support, make that support available, and raise awareness of that
 support.
 
-### How to meet this standard
+### How to apply this play
 
 Do user research as early as possible to:
 
@@ -624,9 +691,13 @@ Respond to user research by:
 * designing an assisted digital support model to meet user needs
 * committing to participating in ongoing user research to discover digital support needs
 
-### Laws and rules to follow (to be updated with BC content)
+#### Tools
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
 
-* [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
+#### Supports
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+*[Make a suggestion](https://github.com/HeatherRemacle/exchangelabops/issues/new/choose).*
 
 ## 13. Measure performance
 
@@ -640,7 +711,7 @@ Measuring performance means continuously improving a service by:
 * learning its strengths and weaknesses
 * using data to support changes
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -661,6 +732,14 @@ At a minimum:
   government and private sector services
 * share your review findings with leadership
 
+#### Tools
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+#### Supports
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
+
+*[Make a suggestion](https://github.com/HeatherRemacle/exchangelabops/issues/new/choose).*
+
 ## 14. Test with the minister
 
 Test or demo the service from beginning to end with the responsible
@@ -672,7 +751,7 @@ Ministers are responsible for delivering on the government’s priorities
 for the people of British Columbia, so you need to show them the digital service
 before it goes live. When the ministers can understand and are experienced with a product, and feel that it is user-centric, they can trust that it will serve the public well.
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -696,27 +775,13 @@ The standard will help us:
 
 We looked near and far to develop this standard. It’s built on the aspirations and experiences of teams across the BC Public Service, as well as other jurisdictions, especially Gov.UK, USDS and 18F.
 
+#### Tools
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
 
-##Contributing to the standard
+#### Supports
+- <a href="TBD" target="blank">What should we add here?</a>{: .bc-external_link}.
 
-All new or redesigned information and services will eventually be required to follow the standard,before work begins. First, we want to test the standard, gather user feedback and improve it.
-
-You can share your thoughts and ideas by:
-
-* emailing us at TBD
-* forking our GitHub repository
-
-### By email
-
-* Send plain text formats like text files, Word documents and Google docs
-* Do not send HTML, PDF, printed paper or handwritten notes
-* Tell us what section your suggestions apply to or if they apply to the overall document
-* Include the original text for reference and your proposed changes if you are sending text file or email
-* Use track changes or suggest mode if you are sending Word or Google documents
-* Tell us the reason for your suggestion and the benefit it will have
-
-
-
+*[Make a suggestion](https://github.com/HeatherRemacle/exchangelabops/issues/new/choose).*
 
 <br/>
 [Back to the Top](#)
