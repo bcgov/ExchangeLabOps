@@ -14,6 +14,8 @@ subnav:
     href: '#delivery-community'
   - text: About Us
     href: '#about-us'
+  - text: Our Results
+    href: '#our-results'
 
 ---
 We are known as a **lab** and a **community** of people who are learning how to improve service delivery in the BC Public Service.
@@ -108,7 +110,7 @@ History of the Lab and our current team roster to come...
 
 #### What others say about us
 
-## Results from our programs
+## Our Results
 
 How do we know if we are successful? This is one of the first questions all teams ask when they set out to solve a problem. Our team works from a service blueprint and we engage in impact mapping ([what is impact mapping?](https://www.impactmapping.org/index.html){: .bc-external_link}.) to improve the experience for our partners and our operations.
  - Current service blueprint (coming soon)
