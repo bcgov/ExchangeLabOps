@@ -16,7 +16,7 @@ subnav:
     href: '#about-us'
 
 ---
-
+<img height="250" width="388" img align="right" src="assets\img\communityGrey.png" alt="illustration of people having a conversation.">
 
 We are known as a **lab** and a **community** of people who are learning how to improve service delivery in the BC Public Service.
 
