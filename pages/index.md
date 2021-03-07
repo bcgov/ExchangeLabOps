@@ -1,6 +1,6 @@
 ---
 title: Exchange Lab Operations (Alpha)
-description: This is a main page.
+description: Home page of Lab Operations.
 permalink: /
 
 layout: post
@@ -18,11 +18,11 @@ subnav:
     href: '#our-results'
 
 ---
-<img height="125" width="194" img align="right" src="assets\img\communityGrey.png" alt="illustration of people having a conversation.">
+<img height="125" width="194" style="display: block; margin-bottom: 40px; margin-left: auto; margin-right: auto;" img align="right" src="assets\img\communityGrey.png" alt="illustration of people having a conversation.">
 
 We are known as a **lab** and a **community** of people who are learning how to improve service delivery in the BC Public Service.
 
-<img height="54" width="194" img align="right" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\bcdevexchangelogo.png" alt="BC Developer's Exchange Logo.">
+<img height="54" width="194" img align="right" style="display: block; margin-bottom: 100 px; margin-left: auto; margin-right: auto;" src="assets\img\bcdevexchangelogo.png" alt="BC Developer's Exchange Logo.">
 
 We are also the home of the [BC Developers' Exchange](https://bcdevexchange.org/), known for producing innovative procurement tools ([Code with Us and Sprint with Us](https://digital.gov.bc.ca/marketplace)) and **a thriving community of GovTech designers and developers.**
 
