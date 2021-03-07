@@ -100,13 +100,11 @@ The Delivery Network uses a variety of channels to connect. The MS Teams channel
 
 ## About Us
 
-History of the Lab and our current team roster to come...
+There is lots to tell... and we've been trying to do so over time through a variety of channels. Check out some of our multimedia to get a sense of our program, results, and the community that makes it work.
 
-#### How we started
+- [The Exchange Medium Blog]
 
-#### What has sustained us
-
-#### Who we are today
+#### A brief timeline of key events
 
 #### What others say about us
 
