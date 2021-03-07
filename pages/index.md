@@ -14,6 +14,8 @@ subnav:
     href: '#delivery-community'
   - text: About Us
     href: '#about-us'
+  - text: Our Results
+    href: '#our-results'
 
 ---
 <img height="250" width="388" img align="right" src="assets\img\communityGrey.png" alt="illustration of people having a conversation.">
@@ -90,7 +92,7 @@ Underlying the success of these teams are a variety of centralized services, com
 
 ### Delivery Community Channels
 
-Guidance and playbooks can aid some of the work we do. However, conditions change so rapidly and delivery contexts are too diverse for any ordered list to remain relevant. The evolving knowledge shared by the community is how we keep pace while learning how to be successful in navigating the complexity of people and technology.
+Guidance and [playbooks](/playbook) can aid some of the work we do. However, conditions change so rapidly and delivery contexts are too diverse for any ordered list to remain relevant. The evolving knowledge shared by the community is how we keep pace while learning how to be successful in navigating the complexity of people and technology.
 
 The Delivery Network uses a variety of channels to connect. The MS Teams channel internal to the BC Public Service is very active, as is [Rocket.Chat](https://chat.developer.gov.bc.ca/home), which is available to external partners who are authenticated as part of a team in our BCGov Github organization.
 
@@ -108,7 +110,7 @@ Formally, the Exchange is less than 20 people who organize around the following 
 
 - **Digital Marketplace:** Builds products and programs that help bridge relationships with the internal and external ecosystem of service delivery talent, including through innovative procurement methods (E.g. Sprint with Us).
 
--**Digital Academy:** Builds, coordinates, and delivers training  and learning resources with a community of experts.
+- **Digital Academy:** Builds, coordinates, and delivers training  and learning resources with a community of experts.
 
 Other corporate service and Delivery Network partners support these functions with specific services, products and mentorship. The Exchange Lab would not be successful without broad collaboration, including with our external partners.
 
@@ -118,7 +120,7 @@ The organizational structure the Exchange Lab Team is part of in the Province of
 - The Office of the Chief Information Officer, in
 - the Ministry of Citizens' Services.
 
-## Results from our programs
+## Our Results
 
 How do we know if we are successful? This is one of the first questions all teams ask when they set out to solve a problem. Our team works from a service blueprint and we engage in impact mapping ([what is impact mapping?](https://www.impactmapping.org/index.html){: .bc-external_link}.) to improve the experience for our partners and our operations.
  - Current service blueprint (coming soon)
