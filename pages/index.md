@@ -18,9 +18,11 @@ subnav:
     href: '#our-results'
 
 ---
-<img height="250" width="388" img align="right" src="assets\img\communityGrey.png" alt="illustration of people having a conversation.">
+<img height="125" width="194" img align="right" src="assets\img\communityGrey.png" alt="illustration of people having a conversation.">
 
 We are known as a **lab** and a **community** of people who are learning how to improve service delivery in the BC Public Service.
+
+<img height="54" width="194" img align="right" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\bcdevexchangelogo.png" alt="BC Developer's Exchange Logo.">
 
 We are also the home of the [BC Developers' Exchange](https://bcdevexchange.org/), known for producing innovative procurement tools ([Code with Us and Sprint with Us](https://digital.gov.bc.ca/marketplace)) and **a thriving community of GovTech designers and developers.**
 
@@ -99,7 +101,6 @@ The Delivery Network uses a variety of channels to connect. The MS Teams channel
 - [Learn more about the Digital Delivery and Service Improvement communities you can join on DevHub](https://developer.gov.bc.ca/Community-and-Events/BC-Gov-Development-Community-Events)
 - [Check out this recorded webinar where the Exchange Lab leadership team shares insights into the role the digital delivery community played during pandemic response.](https://youtu.be/DS7jbKE2fUc)
 
-
 ## About the Team
 
 Formally, the Exchange is less than 20 people who organize around the following functions:
@@ -120,7 +121,16 @@ The organizational structure the Exchange Lab Team is part of in the Province of
 - The Office of the Chief Information Officer, in
 - the Ministry of Citizens' Services.
 
-## Our Results
+### Our Stories
+
+There is lots to tell... and we've been trying to do so over time through a variety of channels. Check out some of our multimedia to get a sense of our program, results, and the community that makes it work.
+
+- [The Exchange Medium Blog]
+- [The Exchange Youtube channel]
+- [The Exchange on Twitter]
+- [The Exchange on LinkedIn]
+
+## Results from our programs
 
 How do we know if we are successful? This is one of the first questions all teams ask when they set out to solve a problem. Our team works from a service blueprint and we engage in impact mapping ([what is impact mapping?](https://www.impactmapping.org/index.html){: .bc-external_link}.) to improve the experience for our partners and our operations.
  - Current service blueprint (coming soon)
