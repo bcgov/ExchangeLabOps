@@ -18,6 +18,8 @@ subnav:
     href: '#our-results'
 
 ---
+<img height="250" width="388" img align="right" src="assets\img\communityGrey.png" alt="illustration of people having a conversation.">
+
 We are known as a **lab** and a **community** of people who are learning how to improve service delivery in the BC Public Service.
 
 We are also the home of the [BC Developers' Exchange](https://bcdevexchange.org/), known for producing innovative procurement tools ([Code with Us and Sprint with Us](https://digital.gov.bc.ca/marketplace)) and **a thriving community of GovTech designers and developers.**
@@ -40,12 +42,12 @@ To  Exchange Lab partners with government programs to deliver high quality, mode
 We apply BC's [Digital Principles](https://digital.gov.bc.ca/digital-principles/) and generally accepted modern [standards for service design and delivery](/standard), pioneered and practiced by other government digital service agencies around the world.
 
 The Exchange Lab operates within a model of continuous improvement, centered around a value chain that delivers **teams**. Explore the phases of Exchange Lab residency and the variety of resources we produce to support teams in each phase:
-1. [Apply to the Lab](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/apply.md)
-2. [Align Your Org](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/align.md)
-3. [Resource a Team](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/resource.md)
-4. [Onboard & Discover](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/discover.md)
-5. [Deliver a Product](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/deliver.md)
-6. [Sustain Practices](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/align.md/sustain)
+1. [Apply to the Lab](/apply)
+2. [Align Your Org](/align)
+3. [Resource a Team](/resource)
+4. [Onboard & Discover](/discover)
+5. [Deliver a Product](/deliver)
+6. [Sustain Practices](/sustain)
 
 We continuously refine and adapt lab operations to the specific context of program areas we partner with. **There is no single, consistent path.** We operate in high degrees of complexity and create the conditions for a positive, productive trajectory through the application of:
 - experimentation;
@@ -98,15 +100,25 @@ The Delivery Network uses a variety of channels to connect. The MS Teams channel
 - [Check out this recorded webinar where the Exchange Lab leadership team shares insights into the role the digital delivery community played during pandemic response.](https://youtu.be/DS7jbKE2fUc)
 
 
-## About Us
+## About the Team
 
-There is lots to tell... and we've been trying to do so over time through a variety of channels. Check out some of our multimedia to get a sense of our program, results, and the community that makes it work.
+Formally, the Exchange is less than 20 people who organize around the following functions:
 
-- [The Exchange Medium Blog]
+- **Exchange Lab Operations:** Leads organizational development for program areas seeking to apply emerging digital service delivery standards in line with the BC Government Digital Principles. Facilitates early design and delivery readiness and community support for delivery teams throughout their development.
 
-#### A brief timeline of key events
+- **Strategic Policy:** Builds enabling functions or removes frictions and blockers in the system that slow down or impede the results of delivery teams. Work includes enhancing institutional policies and processes and creating or enabling platform functions that are broadly valuable (e.g. common components).
 
-#### What others say about us
+- **Digital Marketplace:** Builds products and programs that help bridge relationships with the internal and external ecosystem of service delivery talent, including through innovative procurement methods (E.g. Sprint with Us).
+
+- **Digital Academy:** Builds, coordinates, and delivers training  and learning resources with a community of experts.
+
+Other corporate service and Delivery Network partners support these functions with specific services, products and mentorship. The Exchange Lab would not be successful without broad collaboration, including with our external partners.
+
+The organizational structure the Exchange Lab Team is part of in the Province of B.C. is
+- The Design and Delivery Branch, in
+- The Digital Platforms and Data Division, in
+- The Office of the Chief Information Officer, in
+- the Ministry of Citizens' Services.
 
 ## Our Results
 
