@@ -1,6 +1,6 @@
 # Exchange Lab Operations
 
-This repository is for the Github.io site that will document guidance for Exchange Lab Operations. Visit the site here: [https://heatherremacle.github.io/exchangelabops/](https://heatherremacle.github.io/exchangelabops/)
+This repository is for the Github.io site that will document guidance for Exchange Lab Operations. Visit the site here: [https://bcgov.github.io/exchangelabops/](https://bcgov.github.io/exchangelabops/)
 
 The primary audience for this website is a BC Public Servant that is seeking support with developing digital capabilities - talent, methods and tools - to improve the way they delivery services.
 
@@ -8,11 +8,11 @@ A secondary audience is our broader ecosystem of partners, including:
 - other public sector agencies within and beyond the Exchange Lab, who are seeking to deliver similar services; and
 - private and non-profit sector partners, seeking to work with BC Public Service teams in the Lab.
 
-This site also serves to support  reliable service by the Exchange Lab Team, who will continuously improve operations. Click the projects tab above to see what we have planned. Click issues above add your own suggestions for improvement.
+This site also supports reliable service by the Exchange Lab Team, who will orient around and continuously improve these operations practices. Click the projects tab above to see what we have planned. Click issues above add your own suggestions for improvement.
 
 ##
 
-This operations guide is maintained by the [Exchange Lab team](https://dir.gov.bc.ca/gtds.cgi?show=Branch&organizationCode=CITZ&organizationalUnitCode=DPD%2dLab), a key node in the BC Developers's Exchange network.
+This operations guide is maintained by the [Exchange Lab team](https://dir.gov.bc.ca/gtds.cgi?show=Branch&organizationCode=CITZ&organizationalUnitCode=DPD%2dLab), a key node in the BC Digital Delivery Network and the BC Developer's Exchange.
 
 The organizational structure the Exchange Lab Team is part of in the Province of B.C. is
 - The Design and Delivery Branch, in
