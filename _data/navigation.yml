@@ -16,29 +16,41 @@ primary:
     href: /
   - text: Partner with the Lab
     href: /partner
+
+secondary:
+  - text: Partner with us
+    href: /partner
+    external: false
   - text: Design & Delivery Playbook
     href: /playbook
-  - text: Governance
-    href: /governance
+    external: false
+  - text: Guides & Resources
+    href: /guides
+  - text: Teams we Work with
+    href: /teams
+    external: false
+  - text: GitHub
+    href: https://github.com/bcgov/ExchangeLabOps
+    external: true
 
 docs:
-  - text: Exchange Lab Overview
+  - text: Exhchange Lab Overview
     href: /
-  - text: Partner with Us
-    href: /partner
-  - text: Teams
-    href: /teams
-  - text: Agile Governance
-    href: /governance
-  - text: Tools we Use
-    href: /tools
-  - text: Design & Delivery Playbook
-    href: /playbook
+
+  - text: Provide Feedback
+    href: /feedback
+
+
+playbook:
+    - text: Overview
+      href: /
+    - text: Design & Delivery Playbook
+      href: /playbook
 
 partner:
   - text: Exchange Lab Overview
     href: /
-  - text: Partnership Overview
+  - text: Partner with Us
     href: /partner
   - text: 1. Apply to the Lab
     href: /apply
@@ -53,26 +65,6 @@ partner:
   - text: 6. Sustain Practices
     href: /sustain
 
-secondary:
-  - text: Home
-    href: /
-    external: false
-  - text: Glossary
-    href: /glossary
-    external: false
-  - text: Provide Feedback
-    href: /feedback
-    external: false
-  - text: On GitHub
-    href: https://github.com/bcgov/ExchangeLabOps
-    external: true
-
-playbook:
-    - text: Exchange Lab Overview
-      href: /
-    - text: Design & Delivery Playbook
-      href: /playbook
-
 teams:
     - text: Exchange Lab Overview
       href: /
@@ -83,11 +75,15 @@ teams:
     - text: Other Teams we cheer on
       href: /other-teams
 
-glossary:
-  - text: Exchange Lab Overview
-    href: /
-  - text: Glossary
-    href: /glossary
+guides:
+      - text: Exchange Lab Overview
+        href: /
+      - text: Agile governance
+        href: /governance
+      - text: Tools we use
+        href: /tools
+      - text: Glossary
+        href: /glossary
 
 footer:
   - text: Home
@@ -109,8 +105,8 @@ footer:
     external: true
   - text: Fair Use
     href: /fairuse
-  - text: Updated 15/02/2021
-    href: https://github.com/bcgov/exchangelabops
+  - text: Updated 17/03/2021
+    href: https://github.com/bcgov/ExchangeLabOps
     external: true
 
 feedback:

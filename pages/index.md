@@ -41,15 +41,9 @@ Exchange Lab partners with government programs to deliver high quality, modern s
 
 ## Delivery Model
 
-We apply BC's [Digital Principles](https://digital.gov.bc.ca/digital-principles/) and generally accepted modern [standards for service design and delivery](/standard), pioneered and practiced by other government digital service agencies around the world.
+We apply BC's [Digital Principles](https://digital.gov.bc.ca/digital-principles/). We also borrow generally accepted modern <a href="/playbook/">standards for service design and delivery as a "playbook"</a>, pioneered and practiced by other government digital service agencies around the world.
 
-The Exchange Lab operates within a model of continuous improvement, centered around a value chain that delivers **teams**. Explore the phases of Exchange Lab residency and the variety of resources we produce to support teams in each phase:
-1. [Apply to the Lab](/apply)
-2. [Align Your Org](/align)
-3. [Resource a Team](/resource)
-4. [Onboard & Discover](/discover)
-5. [Deliver a Product](/deliver)
-6. [Sustain Practices](/sustain)
+The Exchange Lab operates within a model of continuous improvement, centered around a value chain that delivers **teams**. Explore the phases of Exchange Lab residency and the variety of resources we produce to support teams <a href="/partner/">in each phase of partnering with us.</a>
 
 We continuously refine and adapt lab operations to the specific context of program areas we partner with. **There is no single, consistent path.** We operate in high degrees of complexity and create the conditions for a positive, productive trajectory through the application of:
 - experimentation;
@@ -68,9 +62,9 @@ The Exchange Lab is an anchor in a broader **"Digital Delivery Network"** that w
 
 ### Delivery Teams
 
-Agile product delivery teams are most successful when they plug into the Digital Delivery Network and communities that are relevant to their practices. The Exchange Lab team actively connects these teams to eachother as well, so they can share learning and solve common problems together.
+Agile product delivery teams are most successful when they plug into the Digital Delivery Network and communities that are relevant to their practices. The Exchange Lab team actively connects these teams to each other as well, so they can share learning and solve common problems together.
 
-* See the [teams connected to this digital delivery network](/teams)
+* See the <a href="/teams/">teams connected to this digital delivery network.</a> 
 
 ### Delivery Partners (corporate services and products)
 
