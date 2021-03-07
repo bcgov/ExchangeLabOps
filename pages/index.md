@@ -31,7 +31,7 @@ This website guides expectations for how The Exchange Lab operates and makes our
 ## Our Mission
 Government, through the BC Public Service, can be trusted to respond to change and meet peoples' expectations for excellent service delivery. A [modern public service](http://whereideaswork.gov.bc.ca/modern/) that embraces digital mindset and practices is one way to achieve this mission.
 
-To  Exchange Lab partners with government programs to deliver high quality, modern services by supporting people to learn and apply the best available design and delivery methods, tools, and technology.
+Exchange Lab partners with government programs to deliver high quality, modern services by supporting people to learn and apply the best available design and delivery methods, tools, and technology.
 
 **The results we seek center around:**
 - Creating high performing, cross functional teams.
@@ -94,12 +94,10 @@ Underlying the success of these teams are a variety of centralized services, com
 
 ### Delivery Community Channels
 
-Guidance and [playbooks](/playbook) can aid some of the work we do. However, conditions change so rapidly and delivery contexts are too diverse for any ordered list to remain relevant. The evolving knowledge shared by the community is how we keep pace while learning how to be successful in navigating the complexity of people and technology.
+Guidance and [playbooks](/playbook) can aid some of the work we do. However, conditions change so rapidly and delivery contexts are too diverse for any ordered list to remain relevant. The evolving knowledge shared by the community is how we keep pace. Get connected:
 
-The Delivery Network uses a variety of channels to connect. The MS Teams channel internal to the BC Public Service is very active, as is [Rocket.Chat](https://chat.developer.gov.bc.ca/home), which is available to external partners who are authenticated as part of a team in our BCGov Github organization.
-
-- [Learn more about the Digital Delivery and Service Improvement communities you can join on DevHub](https://developer.gov.bc.ca/Community-and-Events/BC-Gov-Development-Community-Events)
-- [Check out this recorded webinar where the Exchange Lab leadership team shares insights into the role the digital delivery community played during pandemic response.](https://youtu.be/DS7jbKE2fUc)
+- MS Teams: search for the "Digital Delivery Network"
+- [Rocket.Chat](https://chat.developer.gov.bc.ca/home): available to external partners who are authenticated as part of a team in our BCGov Github organization.
 
 ## About the Team
 
@@ -125,10 +123,10 @@ The organizational structure the Exchange Lab Team is part of in the Province of
 
 There is lots to tell... and we've been trying to do so over time through a variety of channels. Check out some of our multimedia to get a sense of our program, results, and the community that makes it work.
 
-- [The Exchange Medium Blog]
-- [The Exchange Youtube channel]
-- [The Exchange on Twitter]
-- [The Exchange on LinkedIn]
+- [The Exchange Medium Blog](){: .bc-external_link}
+- [The Exchange Youtube channel](){: .bc-external_link}
+- [The Exchange on Twitter](){: .bc-external_link}
+- [The Exchange on LinkedIn](https://www.linkedin.com/company/bc-gov-csi-lab/){: .bc-external_link}
 
 ## Results from our programs
 
