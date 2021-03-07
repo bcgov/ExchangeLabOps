@@ -4,7 +4,7 @@ description: Answers to common questions about governance and agile.
 permalink: /governance
 
 layout: post
-sidenav: docs
+sidenav: guides
 subnav:
   - text: Definition
     href: '#definition'

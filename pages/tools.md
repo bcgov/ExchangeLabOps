@@ -4,11 +4,11 @@ description: Insight into digital tools used by the Exchange Lab
 permalink: /tools
 
 layout: post
-sidenav: docs
+sidenav: guides
 subnav:
     - text: How to get permission to use a new tool
       href: '#how-to-get-permission-to-use-a-new-tool'
-    - text: Collaboration
+    - text: Collaboratsion
       href: '#collaboration'
     - text: Engagement
       href: '#engagement'
@@ -46,10 +46,9 @@ TBC - Here is a where you can find your Ministry Privacy Officer.
 ## Collaboration
 
 - Microsoft Teams (Enterprise support)
-- Miro (not currently recommended by security team - managing for low risk content only)
+- Miro (not currently recommended by security team - managing with low risk content only)
 - Mural (preferred by security team)
 - Fun Retro (low risk content only)
-- Google docs (low risk content only)
 
 ## Engagement
 
