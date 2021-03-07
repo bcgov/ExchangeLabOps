@@ -54,23 +54,8 @@ partner:
     href: /sustain
 
 secondary:
-
-  - text: Exchange Lab Overview
+  - text: Home
     href: /
-  - text: Partner with Us
-    href: /partner
-    external: false
-  - text: Teams
-    href: /teams
-    external: false
-  - text: Agile Governance
-    href: /governance
-    external: false
-  - text: Tools we Use
-    href: /tools
-    external: false
-  - text: Design & Delivery Playbook
-    href: /playbook
     external: false
   - text: Glossary
     href: /glossary
@@ -78,6 +63,9 @@ secondary:
   - text: Provide Feedback
     href: /feedback
     external: false
+  - text: On GitHub
+    href: https://github.com/bcgov/ExchangeLabOps
+    external: true
 
 playbook:
     - text: Exchange Lab Overview
