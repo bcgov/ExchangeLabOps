@@ -1,6 +1,6 @@
 # Exchange Lab Operations
 
-This repository is for the Github.io site that will document guidance for Exchange Lab Operations. Visit the site here: [https://bcgov.github.io/exchangelabops/](https://bcgov.github.io/exchangelabops/)
+This repository is for the Github.io site that will document guidance for Exchange Lab Operations. Visit the site here: [https://bcgov.github.io/exchangelabops/](https://bcgov.github.io/ExchangeLabOps/)
 
 The primary audience for this website is a BC Public Servant that is seeking support with developing digital capabilities - talent, methods and tools - to improve the way they delivery services.
 
