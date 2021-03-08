@@ -16,11 +16,11 @@ Here we share guides to the way we work. To learn the practices behind these gui
 
 ## Guides we Produce
 
-<a href="/ExchangeLabOps/governance/">Agile Governance</a>: From our experience building agile teams, we support the development of appropriate governance structures.
+<a href="/ExchangeLabOps/governance">Agile Governance</a>: From our experience building agile teams, we support the development of appropriate governance structures.
 
-<a href="/ExchangeLabOps/tools/">Tools we Use</a>: From our experimentation in working in digital ways, we're always discovering new tools. Learn about our practice in learning and applying new tools.
+<a href="/ExchangeLabOps/tools">Tools we Use</a>: From our experimentation in working in digital ways, we're always discovering new tools. Learn about our practice in learning and applying new tools.
 
-<a href="/ExchangeLabOps/glossary/">Glossary</a>: A list of terms and topics that are relevant to our way of working (mostly external links).
+<a href="/ExchangeLabOps/glossary">Glossary</a>: A list of terms and topics that are relevant to our way of working (mostly external links).
 
 [Partnership Guides](/ExchangeLabOps/partner): From our practice of onboarding new teams to our way of working, we offer guides and resources found within each phase of partnership with the lab. Includes:
 - references for when to apply the [design & delivery playbook](/playbook/)
