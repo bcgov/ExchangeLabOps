@@ -24,6 +24,7 @@ secondary:
     external: false
   - text: Guides
     href: /guides
+    external: false
   - text: Teams
     href: /teams
     external: false
@@ -35,8 +36,9 @@ docs:
     href: /feedback
   - text: Contribute
     href: /contribute
-  - text: GitHub Source{: .bc-external_link}
+  - text: GitHub Source
     href: https://github.com/bcgov/ExchangeLabOps
+    external: true
 
 playbook:
     - text: Overview
