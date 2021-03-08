@@ -20,7 +20,7 @@ Here we share guides to the way we work. To learn the practices behind these gui
 
 <a href="/tools/">Tools we Use</a>: From our experimentation in working in digital ways, we're always discovering new tools. Learn about our practice in learning and applying new tools.
 
-<a href="/glossary/">glossary</a>: A list of terms and topics that are relevant to our way of working (mostly external links).
+<a href="/glossary/">Glossary</a>: A list of terms and topics that are relevant to our way of working (mostly external links).
 
 [Partnership Guides](/partner): From our practice of onboarding new teams to our way of working, we offer guides and resources found within each phase of partnership with the lab. Includes:
 - references for when to apply the [design & delivery playbook](/playbook/)

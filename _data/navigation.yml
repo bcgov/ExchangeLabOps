@@ -41,7 +41,7 @@ docs:
     external: true
 
 playbook:
-    - text: Overview
+    - text: Exchange Lab Overview
       href: /
     - text: Design & Delivery Playbook
       href: /playbook

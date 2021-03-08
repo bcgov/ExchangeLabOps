@@ -31,7 +31,7 @@ This website guides expectations for how The Exchange Lab operates and makes our
 ## Our Mission
 Government, through the BC Public Service, can be trusted to respond to change and meet peoples' expectations for excellent service delivery. A [modern public service](http://whereideaswork.gov.bc.ca/modern/) that embraces digital mindset and practices is one way to achieve this mission.
 
-Exchange Lab partners with government programs to deliver high quality, modern services by supporting people to learn and apply the best available design and delivery methods, tools, and technology.
+The Exchange Lab partners with government programs to deliver high quality, modern services by supporting people to learn and apply the best available design and delivery methods, tools, and technology.
 
 **The results we seek center around:**
 - Creating high performing, cross functional teams.
@@ -45,14 +45,14 @@ We apply BC's [Digital Principles](https://digital.gov.bc.ca/digital-principles/
 
 The Exchange Lab operates within a model of continuous improvement, centered around a value chain that delivers **teams**. Explore the phases of Exchange Lab residency and the variety of resources we produce to support teams <a href="/partner/">in each phase of partnering with us.</a>
 
-We continuously refine and adapt lab operations to the specific context of program areas we partner with. **There is no single, consistent path.** We operate in high degrees of complexity and create the conditions for a positive, productive trajectory through the application of:
+We continuously refine and adapt Lab operations to the specific context of program areas we partner with. **There is no single, consistent path.** We operate in high degrees of complexity and create the conditions for a positive, productive trajectory through the application of:
 - experimentation;
 - collaboration; and
 - emergent practices and standards.
 
 This diagram illustrates broader connections to our delivery model.
 
-<img height="570" width="600" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\Lab-value-stream-delivery-model.png" alt="illustration of the lab value stream connecting to institutional enablers and foundational supports">
+<img height="570" width="600" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\Lab-value-stream-delivery-model.png" alt="illustration of the Lab value stream connecting to institutional enablers and foundational supports">
 
 ## Delivery Community
 
@@ -134,7 +134,7 @@ Here are some of the results of our work as of **December 2019.**
 
 **We aim to deliver digital products that meet people's needs.**
 
-The Exchange Lab has hosted more than a dozen teams since 2015. [See the list of resident and graduated teams for the products that have come from the lab](https://bcgov.github.io/ExchangeLabOps/Resident-Teams/README.html "Lab products")
+The Exchange Lab has hosted more than a dozen teams since 2015. [See the list of resident and graduated teams for the products that have come from the Lab](https://bcgov.github.io/ExchangeLabOps/Resident-Teams/README.html "Lab products")
 
 Note: We are working on ways to illustrate the return on investment for Agile product teams.
 
@@ -154,7 +154,7 @@ Note: We are working on ways to illustrate the return on investment for Agile pr
 | Visual Facilitation Practices | 48 trainees |
 | Lab and Learns -  delivered by BCPS employees, vendors, or guest speakers. | 	35 sessions to date with over 1,000 attendees |
 | Webinars - delivered by BCPS employees, vendors, or guest speakers.	| 7 Sessions to date with 330 attendees 330 |
-| Tours of the Lab – Bi-weekly open door tours are a first stop for anyone interested in accessing lab programming. Attendees engage with teams active in the lab to learn about their experience.	| 50 tours with on average 9 attendees per tour. Special tours have been arranged for Deputy Ministers and the Premier’s Office staff. |
+| Tours of the Lab – Bi-weekly open door tours are a first stop for anyone interested in accessing Lab programming. Attendees engage with teams active in the Lab to learn about their experience.	| 50 tours with on average 9 attendees per tour. Special tours have been arranged for Deputy Ministers and the Premier’s Office staff. |
 | Partnership with Ontario Digital Services, Government of Canada and Apolitical on <a href="https://www.csps-efpc.gc.ca/Catalogue/courses-eng.aspx?code=I60" target="blank">How to be digital in the Canadian public service: a 10-week online boot camp.</a>.| Two cohorts delivered as of February 2021 (stats to come)|
 
 <br/>
