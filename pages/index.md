@@ -41,7 +41,7 @@ The Exchange Lab partners with government programs to deliver high quality, mode
 
 ## Delivery Model
 
-We apply BC's [Digital Principles](https://digital.gov.bc.ca/digital-principles/). We also borrow generally accepted modern <a href="/ExchangeLabOps/playbook/">standards for service design and delivery as a "playbook"</a>, pioneered and practiced by other government digital service agencies around the world.
+We apply BC's [Digital Principles](https://digital.gov.bc.ca/digital-principles/). We also borrow generally accepted modern <a href="/ExchangeLabOps/playbook">standards for service design and delivery as a "playbook"</a>, pioneered and practiced by other government digital service agencies around the world.
 
 The Exchange Lab operates within a model of continuous improvement, centered around a value chain that delivers **teams**. Explore the phases of Exchange Lab residency and the variety of resources we produce to support teams <a href="/ExchangeLabOps/partner/">in each phase of partnering with us.</a>
 
