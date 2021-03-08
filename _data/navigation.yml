@@ -12,10 +12,8 @@
 #   links: primary
 #
 primary:
-  - text: Home
+  - text: Exhchange Lab Overview
     href: /
-  - text: Partner with the Lab
-    href: /partner
 
 secondary:
   - text: Partner with us
@@ -29,17 +27,14 @@ secondary:
   - text: Teams we Work with
     href: /teams
     external: false
-  - text: GitHub
-    href: https://github.com/bcgov/ExchangeLabOps
-    external: true
 
 docs:
   - text: Exhchange Lab Overview
     href: /
-
   - text: Provide Feedback
     href: /feedback
-
+  - text: GitHub{: .bc-external_link}
+    href: https://github.com/bcgov/ExchangeLabOps
 
 playbook:
     - text: Overview
@@ -76,14 +71,16 @@ teams:
       href: /other-teams
 
 guides:
-      - text: Exchange Lab Overview
-        href: /
-      - text: Agile governance
-        href: /governance
-      - text: Tools we use
-        href: /tools
-      - text: Glossary
-        href: /glossary
+  - text: Exchange Lab Overview
+    href: /
+  - text: Guides
+    href: /guides
+  - text: Agile governance
+    href: /governance
+  - text: Tools we use
+    href: /tools
+  - text: Glossary
+    href: /glossary
 
 footer:
   - text: Home
