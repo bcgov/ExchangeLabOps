@@ -3,7 +3,7 @@ title: Provide Feedback
 permalink: /feedback
 
 layout: post
-sidenav: feedback
+sidenav: docs
 subnav:
   - text: GitHub Issues
     href: '#github-issues'
@@ -20,7 +20,7 @@ This site welcomes contributions by playbook readers! On this page you will find
 The playbook uses GitHub issues to keep track of user suggestions, bugs, enhancements, and other requests.
 
 ### How to Create an Issue
-Information on how to create an issue on GitHub can be found [here](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue){:target="_blank"}. 
+Information on how to create an issue on GitHub can be found [here](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue){:target="_blank"}.
 
 You can create an issue for this playbook [here](https://github.com/bcgov/CITZ-IMB-playbook/issues/new/){:target="_blank"} and check on the status of your issue [here](https://github.com/bcgov/CITZ-IMB-playbook/issues){:target="_blank"}.
 
@@ -41,5 +41,3 @@ The site structure and theme are described in the [maintenance and development g
 <br>
 <br>
 [Back to the Top](#)
-
-
