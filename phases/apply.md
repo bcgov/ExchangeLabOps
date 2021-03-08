@@ -14,7 +14,7 @@ subnav:
 - text: LabOps Resources
   href: '#labops-resources'
 ---
-During this phase, a program area becomes more clear on what they need to solve for and how they will shift their approach in partnering with the Exchange.
+During this phase, a program area becomes more clear on the type of problem to solve for and if it makes sense to partner with the Exchange Lab and adopt new ways of working.
 
 #### Pre-conditions:
 - You've spent some time getting familiar with the Service Design and Delivery standard, and service innovation methods, including Agile Delivery.
@@ -35,11 +35,11 @@ During this phase, a program area becomes more clear on what they need to solve 
 
 **Teams that partner with the lab are ready to get started solving a real problem that is complex.**
 
-Adopting or implementing new technology can be challenging, or desirable, but that is not what we help teams solve for. We solve for complex challenges to service delivery that lead to greater public impact. This impact includes:
-- delivering better services that meet the needs of citizens; and
-- enabling government to deliver services in better, cost effective ways.
+Implementing new technology can be challenging yet desirable, but it shouldn't be the focus. Technology can:
+- help deliver better services that meet the needs of citizens; and
+- enable government to deliver services in better, cost effective ways.
 
-We help teams develop readiness around problem definition through these steps:
+Before examining technolgy tools or solutions, the Exchange Lab helps teams develop readiness around problem definition through these steps:
 
 1. Answer focused questions about he potential problem in a Challenge Brief Template
 2. Explore the nature of the problem with experts in service delivery connected through the Digital Delivery Network (we facilitate a workshop)
@@ -53,7 +53,7 @@ We help teams develop readiness around problem definition through these steps:
 
 Sometimes, program staff approach before they have this support, but they have clarity of the problem they want to solve, or can point to value they want to achieve. We support program areas to confirm priority a few ways:
 
-- Define the problem as described above, to help build a case for the opportunity to work with the Lab on a real, complex challenge.
+- Confirm the problem to solve aligns to a program priority and help build a case to present to senior executive.
 - Determine an opportunity to "path find" a solution to a problem that is common and can be leveraged by others with significant return on investment.
 
 Ultimately, if the problem or opportunity appears to be a good investment of Exchange Lab resources, our team will test it with others in the Digital Delivery Network and with OCIO Executive. This may result in advancing towards a partnership.
@@ -68,10 +68,10 @@ While other methods of IM/IT development treat technology development as a "proj
 
 - Confirmation of a full time Product Owner who will manage the product (and a potential portfolio of products) ongoing.
 - Commitment to hire at least one DevOps Specialist or Site Reliability Engineer who will ensure the product continues to improve and evolve with emerging security and application hosting requirements.
-- Potential capital spending to build the first version of working software, and ongoing operational (program) funding to sustain and continuously improve the product.
+- Potential capital spending to build the first version of working software, and ongoing operational (program) funding to sustain and continuously improve the product with a dedicated team.
 - Commitment to align other functions in the organization to support this new way of working (change management).
 
-In many cases, this commitment can only be confirmed through the approval of Digital Investment Board funding or Treasury Board funding (and often both). It may  be possible to realign resources within an operational budget or within existing capital allocations.
+In many cases, this commitment can only be confirmed through the approval of Digital Investment Board funding or Treasury Board funding (and often both). It may also be possible to realign resources within an operational budget or within existing capital allocations.
 
 ## LabOps Resources
 
@@ -82,7 +82,6 @@ In many cases, this commitment can only be confirmed through the approval of Dig
 - Organizational Design Guidelines (TBC)
 - Application hosting expectations (TBC)
 - Finance guidelines (TBC)
-
 
 <br/>
 [Back to the Top](#)
