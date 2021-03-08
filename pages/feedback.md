@@ -21,11 +21,11 @@ This site welcomes contributions by playbook readers! On this page you will find
 The playbook uses GitHub issues to keep track of user suggestions, bugs, enhancements, and other requests.
 
 ### How to Create an Issue
-Information on how to create an issue on GitHub can be found [here](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue){:target="_blank"}.
+Information on how to [create an issue on GitHub can be found here](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue){:target="_blank"}.
 
-You can create an issue for this playbook [here](https://github.com/bcgov/ExchangeLabOps/issues/new/){:target="_blank"} and check on the status of your issue [here](https://github.com/bcgov/ExchangeLabOps/issues){:target="_blank"}.
+You can [create an issue for this website on Github](https://github.com/bcgov/ExchangeLabOps/issues/new/){:target="_blank"} and check on the status of your issue [here](https://github.com/bcgov/ExchangeLabOps/issues){:target="_blank"}.
 
-If you don't have a GitHub account, please email us your [feedback to ExchaneLab@gov.bc.ca](mailto:Exhangelab@gov.bc.ca).
+If you don't have a GitHub account, please email us your [feedback to ExchangeLab@gov.bc.ca](mailto:Exchangelab@gov.bc.ca).
 
 ### Guidelines for Creating Issues
 To help our developers resolve your issue, we suggest the following:
@@ -36,7 +36,7 @@ To help our developers resolve your issue, we suggest the following:
 
 ## Site Maintenance
 
-The site structure and theme are described on the [contribute page](/contribute), so you can participate in helping us improve the site.
+The site structure and theme are described on the [contribute page](/ExchangeLabOps/contribute), so you can participate in helping us improve the site.
 
 <br>
 <br>

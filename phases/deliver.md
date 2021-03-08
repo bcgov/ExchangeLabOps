@@ -30,7 +30,7 @@ During this phase, the team applies Agile methods and mindset to continuously im
 - There is a report on the value being delivered to date (return on investment)
 
 #### Applicable Standards:
-- [Be Agile and User Centered](https://github.com/bcgov/exchangelabops/reference/standard.md#agile)
+- [Be Agile and User Centered](/ExchangeLabOps/playbook#agile)
 
 ## Deliver Working software
 Within a few months of sprinting, a team will have delivered open source code that results in working software that becomes increasingly feature rich. Teams are supported to apply Agile Scrum methods, with sprints occurring between 1-4 weeks.

@@ -34,7 +34,7 @@ The Exchange Lab has experience assessing the context within an organization tha
 ## Define Governance
 Governance is different for Agile delivery products that continuously improve than we typically create for projects that have an end date with a fixed scope. The Lab will work with the program area to understand the current expectations related to governance and how we can work to adjust expectations and structures to be aligned to Agile methods.
 
-See the [Governance section](https://heatherremacle.github.io/exchangelabops/governance) for more details on what we have learned works to date.
+See the [Governance section](/ExchangeLabOps/governance) for more details on what we have learned works to date.
 
 ## Get Training
 

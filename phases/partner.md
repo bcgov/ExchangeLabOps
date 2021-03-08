@@ -64,7 +64,7 @@ We don't want your business requirements document (unless we are having a bon fi
 #### Partnership Agreement Template
 <a href="resources\2021-02-Exchange-Lab-Partnership-Agreement_Template.pdf" target="_blank"><img height="226" width="183" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\coverpage_partnership-agreement.png" alt="cover page illustration of the partnership agreement document"></a>
 
-This agreement is dated by the Lab and the program area during the [onboarding phase](/discover). It is useful to read if you are considering partnership with the Lab, and may be modified to suit unique considerations for each partnership.
+This agreement is dated by the Lab and the program area during the [onboarding phase](/ExchangeLabOps/discover). It is useful to read if you are considering partnership with the Lab, and may be modified to suit unique considerations for each partnership.
 - <a href="resources\2021-02-Exchange-Lab-Partnership-Agreement_Template.pdf" target="_blank">Partnership Agreement Template (.docx)</a>
 
 <br/>

@@ -34,8 +34,8 @@ The Exchange Lab hosts Agile product delivery teams that learn to be digital thr
 Ideally, they go on to address other program needs with new products, or they hive off other teams to increase capacity and grow a portfolio of excellent service delivery products.
 
 This is a brief overview of the teams that are currently in the lab or in the process of onboarding. You can also learn about:
-- [Alumni Teams](/alumni-teams)
-- [Teams outside the lab we cheer on](/other-teams)
+- [Alumni Teams](/ExchangeLabOps/alumni-teams)
+- [Teams outside the lab we cheer on](/ExchangeLabOps/other-teams)
 
 ## BC Registries
 
