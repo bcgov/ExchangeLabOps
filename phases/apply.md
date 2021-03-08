@@ -29,7 +29,7 @@ During this phase, a program area becomes more clear on the type of problem to s
 - Your program area and service delivery challenge sufficiently meets the readiness criteria set by the lab (explained below)
 
 #### Applicable Standards:
-- [Be Agile and User Centered](https://github.com/bcgov/exchangelabops/reference/standard.md#agile)
+- [Be Agile and User Centered](/ExchangeLabOps/playbook#agile)
 
 ## Define a Problem
 

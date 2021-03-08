@@ -67,6 +67,7 @@ alt="Product Owner in a Nutshell" width="450" height="251" border="10" align="ce
 While teams have a lot of autonomy to address a specific problem, they also need support for their function within the broader organization, including alignment to broader organizational goals and resourcing.
 
 ## Alliance Team
+
 From 2018-2019, Lab Operations designed and tested a governance structure called an Alliance Team. The Health Gateway Team was the first to apply and learn from this approach, and it has since been adopted in various forms by other teams.
 
 Below is an illustration of how an Alliance team operates to enable effective governance.

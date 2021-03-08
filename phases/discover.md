@@ -29,7 +29,7 @@ During this phase, the Exchange Lab helps the new team to get oriented to the pr
 - Executive and Alliance team members support are engaged in the team's progress, and can support the direction of the product roadmap.
 
 #### Applicable Standards in this Phase
-- [Be Agile and User Centered](https://github.com/bcgov/exchangelabops/standard.md#agile)
+- [Be Agile and User Centered](/ExchangeLabOps/playbook#agile)
 
 ## Orient the Team
 
