@@ -12,6 +12,8 @@ subnav:
     href: '#guides-we-reference'
 ---
 
+Here we share guides to the way we work. To learn the practices behind these guides, we recommend you participate in community channels and engagements, or learning opportunities.
+
 ## Guides we Produce
 
 <a href="/governance/">Agile Governance</a>: From our experience building agile teams, we support the development of appropriate governance structures.
