@@ -22,9 +22,9 @@ subnav:
 
 We are known as a **lab** and a **community** of people who are learning how to improve service delivery in the BC Public Service.
 
-<img height="54" width="194" img align="left" style="display: block; margin-bottom: 65 px; margin-bottom: 85 px; margin-left: auto; margin-right: auto;" src="assets\img\bcdevexchangelogo.png" alt="BC Developer's Exchange Logo.">
-
 We are also the home of the [BC Developers' Exchange](https://bcdevexchange.org/), known for producing innovative procurement tools ([Code with Us and Sprint with Us](https://digital.gov.bc.ca/marketplace)) and **a thriving community of GovTech designers and developers.**
+
+<img height="54" width="194" img align="center" style="display: block; margin-bottom: 20px; margin-bottom: 20px; margin-left: auto; margin-right: auto;" src="assets\img\bcdevexchangelogo.png" alt="BC Developer's Exchange Logo.">
 
 This website guides expectations for how The Exchange Lab operates and makes our methods and tools open for others to use.
 
@@ -64,7 +64,7 @@ The Exchange Lab is an anchor in a broader **"Digital Delivery Network"** that w
 
 Agile product delivery teams are most successful when they plug into the Digital Delivery Network and communities that are relevant to their practices. The Exchange Lab team actively connects these teams to each other as well, so they can share learning and solve common problems together.
 
-* See the <a href="/teams/">teams connected to this digital delivery network.</a> 
+* See the <a href="/teams/">teams connected to this digital delivery network.</a>
 
 ### Delivery Partners (corporate services and products)
 

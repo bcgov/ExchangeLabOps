@@ -1,9 +1,9 @@
 ---
-title: Maintenance and Development
-permalink: /maintenanceanddevelopment
+title: Contribute
+permalink: /contribute
 
 layout: post
-sidenav: maintenanceanddevelopment
+sidenav: docs
 subnav:
   - text: Development Background
     href: '#development-background'
@@ -15,13 +15,16 @@ subnav:
     href: '#big-changes'
   - text: Developing With Jekyll
     href: '#developing-with-jekyll'
-  - text: Playbook Structure
-    href: '#playbook-structure'
+  - text: Site Structure
+    href: '#site-structure'
 ---
 ## Development Background
-We developed this playbook website with the [US Web Design System](https://designsystem.digital.gov/whats-new/updates/2019/04/08/introducing-uswds-2-0/){:target="_blank"} in mind. The site is a clone of the [18F US Web Design Jekyll theme](https://github.com/18F/uswds-jekyll){:target="_blank"}  that we modified to fit BC Government branding. The content is hosted on the [bcgov](https://github.com/bcgov){:target="_blank"} collection of repositories.
 
-Some of the changes we made include:
+This site was cloned from the [CITZ IMB Modern Application Playbook](https://github.com/bcgov/CITZ-IMB-playbook){:target="_blank"}, which was one of the first Github sites created with good use of the BC Design System. Gratitude to the Capstone program at Camosun College that supported students to work with our public servants in creating it.
+
+That team developed this playbook website with the [US Web Design System](https://designsystem.digital.gov/whats-new/updates/2019/04/08/introducing-uswds-2-0/){:target="_blank"} in mind. The site is a clone of the [18F US Web Design Jekyll theme](https://github.com/18F/uswds-jekyll){:target="_blank"}, modified to fit BC Government branding. The content is hosted on the [bcgov](https://github.com/bcgov){:target="_blank"} collection of repositories.
+
+Some of the changes made include:
 - Replacing all instances of "uswds" to "bcwds"
 - Inclusion of the BC Government masthead
 - Alteration of the header and footer elements
@@ -53,8 +56,8 @@ Follow these steps when making big changes:
     - Familiarize yourself with the [structure of the playbook](#playbook-structure)
     - Preview your changes with a local server
 - Issue the following commands to push the changes to your forked repo:
-~~~~ 
-git add . 
+~~~~
+git add .
 git commit -m “Meaningful message about your changes”
 git push origin master
 ~~~~
@@ -65,7 +68,7 @@ git push origin master
 ### A Note on Versioning
 If the changes you are making to the site are quite large, consider creating a new version release. Please consult these resources before creating a new version:
 - [Version releases with GitHub](https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository){:target="_blank"}
-- [Version tagging concepts](https://semver.org/){:target="_blank"} 
+- [Version tagging concepts](https://semver.org/){:target="_blank"}
 
 ## Developing With Jekyll
 ### OS Recommendation
@@ -77,8 +80,8 @@ To get started developing with Jekyll, use this [guide](https://jekyllrb.com/doc
 ### A Note on Markdown
 The Markdown files that hold the playbook content live in the “plays” and “pages” folders. If you are unfamiliar with Markdown, [this](https://www.markdownguide.org/basic-syntax/){:target="_blank"} is a good place to get started.
 
-## Playbook Structure
-The playbook follows the general structure of a Jekyll site. If you wish to make large structural or navigational changes, the resources below should help you.
+## Site Structure
+The site follows the general structure of a Jekyll site. If you wish to make large structural or navigational changes, the resources below should help you.
 
 *Note: the following list is not exhaustive (as there is a wealth of Jekyll documentation available online), but it should be a good start.*
 - [Directory Structure](https://jekyllrb.com/docs/structure/){:target="_blank"}

@@ -22,9 +22,9 @@ secondary:
   - text: Design & Delivery Playbook
     href: /playbook
     external: false
-  - text: Guides & Resources
+  - text: Guides
     href: /guides
-  - text: Teams we Work with
+  - text: Teams
     href: /teams
     external: false
 
@@ -33,7 +33,9 @@ docs:
     href: /
   - text: Provide Feedback
     href: /feedback
-  - text: GitHub{: .bc-external_link}
+  - text: Contribute
+    href: /contribute
+  - text: GitHub Source{: .bc-external_link}
     href: https://github.com/bcgov/ExchangeLabOps
 
 playbook:
@@ -105,9 +107,3 @@ footer:
   - text: Updated 17/03/2021
     href: https://github.com/bcgov/ExchangeLabOps
     external: true
-
-feedback:
-  - text: Exchange Lab Overview
-    href: /
-  - text: Provide Feedback
-    href: /feedback
