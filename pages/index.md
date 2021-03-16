@@ -43,7 +43,7 @@ The Exchange Lab partners with government programs to deliver high quality, mode
 
 We apply BC's [Digital Principles](https://digital.gov.bc.ca/digital-principles/). We also borrow generally accepted modern <a href="/ExchangeLabOps/playbook">standards for service design and delivery as a "playbook"</a>, pioneered and practiced by other government digital service agencies around the world.
 
-The Exchange Lab operates within a model of continuous improvement, centered around a value chain that delivers **teams**. Explore the phases of Exchange Lab residency and the variety of resources we produce to support teams <a href="/ExchangeLabOps/partner/">in each phase of partnering with us.</a>
+The Exchange Lab operates within a model of continuous improvement, centered around a value chain that delivers **teams**. Explore the phases of Exchange Lab residency and the variety of resources we produce to support teams <a href="/ExchangeLabOps/partner">in each phase of partnering with us.</a>
 
 We continuously refine and adapt Lab operations to the specific context of program areas we partner with. **There is no single, consistent path.** We operate in high degrees of complexity and create the conditions for a positive, productive trajectory through the application of:
 - experimentation;
@@ -64,7 +64,7 @@ The Exchange Lab is an anchor in a broader **"Digital Delivery Network"** that w
 
 Agile product delivery teams are most successful when they plug into the Digital Delivery Network and communities that are relevant to their practices. The Exchange Lab team actively connects these teams to each other as well, so they can share learning and solve common problems together.
 
-* See the <a href="/teams/">teams connected to this digital delivery network.</a>
+* See the <a href="/teams">teams connected to this digital delivery network.</a>
 
 ### Delivery Partners (corporate services and products)
 
@@ -88,7 +88,7 @@ Underlying the success of these teams are a variety of centralized services, com
 
 ### Delivery Community Channels
 
-<a href="/ExchangeLabOps/partner/">Guides</a> and the [Service Design & Delivery Playbook](/ExchangeLabOps/playbook) can aid some of the work we do. However, conditions change so rapidly and delivery contexts are too diverse for any ordered list to remain relevant. The evolving knowledge shared by the community is how we keep pace. Get connected:
+<a href="/ExchangeLabOps/guides">Guides</a> and the [Service Design & Delivery Playbook](/ExchangeLabOps/playbook) can aid some of the work we do. However, conditions change so rapidly and delivery contexts are too diverse for any ordered list to remain relevant. The evolving knowledge shared by the community is how we keep pace. Get connected:
 
 - MS Teams: search for the "Digital Delivery Network"
 - [Rocket.Chat](https://chat.developer.gov.bc.ca/home): available to external partners who are authenticated as part of a team in our BCGov Github organization.
@@ -134,7 +134,7 @@ Here are some of the results of our work as of **December 2019.**
 
 **We aim to deliver digital products that meet people's needs.**
 
-The Exchange Lab has hosted more than a dozen teams since 2015. [See the list of resident and graduated teams for the products that have come from the Lab](/ExchangeLabOps/Resident-Teams).
+The Exchange Lab has hosted more than a dozen teams since 2015. [See the list of resident and graduated teams for the products that have come from the Lab](/ExchangeLabOps/teams).
 
 Note: We are working on ways to illustrate the return on investment for Agile product teams.
 
