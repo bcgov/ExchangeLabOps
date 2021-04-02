@@ -16,18 +16,19 @@ Programs that partner with the Exchange Lab demonstrate a **need for acceleratio
 
 Prior to partnering with the Exchange, a program area must demonstrate they are:
 
-- **Solving a real problem:** Enough service analytics and/or user research has confirmed the users needs requires development of a new product.
+- **Solving a real problem:** Enough service analytics and/or user research indicate users' needs require development of a new product.
 - **Priority for the Ministry:** receives funding, requires timely delivery, is connected to mandate, and generally has the attention of the senior executive.
 - **Complex:** requires focused attention to define the problem and explore and test solutions using Agile methods.
 - **Digital:** requires a digital or online expression (this may also lead to policy and procedure changes) or advances broader government digital objectives.
 - **Broadly valued:** includes at least one business capability that serves the needs of other program areas, such that the product built can be leveraged by others.
 - **Continuous:** will deliver value into the foreseeable future, such that a program will dedicate a team to continuously improve the product after it leaves the Lab.
 
-Explore what happens in each of the phases a program goes through during partnership with the Exchange.
+Explore the phases of partnership:
+[Apply](/ExchangeLabOps/apply) | [Align](/ExchangeLabOps/align) | [Resource](/ExchangeLabOps/resource) | [Discover](/ExchangeLabOps/discover) | [Deliver](/ExchangeLabOps/deliver) | [Sustain](/ExchangeLabOps/sustain)
 
 ## Timeline
 
-Not every journey is the same, but given what we have seen to be possible when the right conditions are in place, here is want you can expect from a digital delivery team in the lab:
+Not every journey is the same, but when the right conditions are in place, here is want you can expect from a digital delivery team in the lab:
 
 **Within a month**, program areas build a team and align their organization to support Agile delivery.
 
