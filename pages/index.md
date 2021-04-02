@@ -14,8 +14,8 @@ subnav:
     href: '#delivery-community'
   - text: About Us
     href: '#about-us'
-  - text: Our Results
-    href: '#our-results'
+  - text: Results
+    href: '#results'
 
 ---
 <img height="125" width="194" style="display: block; margin-bottom: 10px; margin-bottom: 10px; margin-left: auto; margin-right: auto;" img align="center" src="assets\img\communityGrey.png" alt="illustration of people having a conversation.">
@@ -93,7 +93,7 @@ Underlying the success of these teams are a variety of centralized services, com
 - MS Teams: search for the "Digital Delivery Network"
 - [Rocket.Chat](https://chat.developer.gov.bc.ca/home){: .bc-external_link}: available to external partners who are authenticated as part of a team in our BCGov Github organization.
 
-## About the Team
+## About Us
 
 Formally, the Exchange is less than 20 people who organize around the following functions:
 
@@ -124,7 +124,7 @@ There is lots to tell... and we've been trying to do so over time through a vari
 
 We also cross post and share content relevant only to the BC Public Service on our [@Work Group](https://gww.gov.bc.ca/groups/exchange-lab){: .bc-external_link}
 
-## Results from our programs
+## Results
 
 How do we know if we are successful? This is one of the first questions all teams ask when they set out to solve a problem. Our team works from a service blueprint and we engage in impact mapping ([what is impact mapping?](https://www.impactmapping.org/index.html){: .bc-external_link}.) to improve the experience for our partners and our operations.
  - Current service blueprint (coming soon)
