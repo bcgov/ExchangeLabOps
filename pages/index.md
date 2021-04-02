@@ -18,18 +18,18 @@ subnav:
     href: '#our-results'
 
 ---
-<img height="125" width="194" style="display: block; margin-bottom: 20px; margin-bottom: 20px; margin-left: auto; margin-right: auto;" img align="right" src="assets\img\communityGrey.png" alt="illustration of people having a conversation.">
+<img height="125" width="194" style="display: block; margin-bottom: 10px; margin-bottom: 10px; margin-left: auto; margin-right: auto;" img align="center" src="assets\img\communityGrey.png" alt="illustration of people having a conversation.">
 
-We are known as a **lab** and a **community** of people who are learning how to improve service delivery in the BC Public Service.
+We are known as a **lab** and a **community** of people working in the open and learning how to improve service delivery in the BC Public Service, together.
 
-We are also the home of the [BC Developers' Exchange](https://bcdevexchange.org/), known for producing innovative procurement tools ([Code with Us and Sprint with Us](https://digital.gov.bc.ca/marketplace)) and **a thriving community of GovTech designers and developers.**
+We are also the home of the [BC Developers' Exchange](https://bcdevexchange.org/){: .bc-external_link}, known for producing innovative procurement tools ([Code with Us and Sprint with Us](https://digital.gov.bc.ca/marketplace)) and **a thriving community of GovTech designers and developers.**
 
 <img height="54" width="194" img align="center" style="display: block; margin-bottom: 20px; margin-bottom: 20px; margin-left: auto; margin-right: auto;" src="assets\img\bcdevexchangelogo.png" alt="BC Developer's Exchange Logo.">
 
 This website guides expectations for how The Exchange Lab operates and makes our methods and tools open for others to use.
 
 ## Our Mission
-Government, through the BC Public Service, can be trusted to respond to change and meet peoples' expectations for excellent service delivery. A [modern public service](http://whereideaswork.gov.bc.ca/modern/) that embraces digital mindset and practices is one way to achieve this mission.
+Government, through the BC Public Service, can be trusted to respond to change and meet peoples' expectations for excellent service delivery. A [modern public service](http://whereideaswork.gov.bc.ca/modern/){: .bc-external_link} that embraces digital mindset and practices is one way to achieve this mission.
 
 The Exchange Lab partners with government programs to deliver high quality, modern services by supporting people to learn and apply the best available design and delivery methods, tools, and technology.
 
@@ -41,7 +41,7 @@ The Exchange Lab partners with government programs to deliver high quality, mode
 
 ## Delivery Model
 
-We apply BC's [Digital Principles](https://digital.gov.bc.ca/digital-principles/). We also borrow generally accepted modern <a href="/ExchangeLabOps/playbook">standards for service design and delivery as a "playbook"</a>, pioneered and practiced by other government digital service agencies around the world.
+We apply BC's [Digital Principles](https://digital.gov.bc.ca/digital-principles/){: .bc-external_link}. We also borrow generally accepted modern <a href="/ExchangeLabOps/playbook">standards for service design and delivery as a "playbook"</a>, pioneered and practiced by other government digital service agencies around the world.
 
 The Exchange Lab operates within a model of continuous improvement, centered around a value chain that delivers **teams**. Explore the phases of Exchange Lab residency and the variety of resources we produce to support teams <a href="/ExchangeLabOps/partner">in each phase of partnering with us.</a>
 
@@ -70,28 +70,28 @@ Agile product delivery teams are most successful when they plug into the Digital
 
 Underlying the success of these teams are a variety of centralized services, common components, or platforms for building excellent services. The Exchange Lab supports connection to these agencies, which include:
 
-- [Accessibility](https://gww.gov.bc.ca/groups/accessibility-bc-public-service) – working to make accessibility part of the DNA of the public – both in the digital and physical environments.
-- [BC Behavioural Insights Group](https://gww.gov.bc.ca/groups/bc-behavioural-insights-group-big) – applying behavioural science to behaviour-based policy problems by making small tweaks or “nudges” to a program or service.
-- [ Corporate Privacy](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy) – supporting employees in balancing their need to collect and share personal information while meeting their privacy obligations.
-- [Data](https://gww.gov.bc.ca/groups/data-science-community-practice) – supporting employees to develop their ability to collect, manage, share, analyse, interpret and present data.
-- [DevOps](https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/BC-Government-OpenShift-Container-Platform-Service-Definition) – enabling BC Public Service digital delivery teams to fully control the deployment of their applications.
-- [Innovation Hub](https://gww.gov.bc.ca/groups/innovation-hub) – supporting a more innovative workplace culture by inspiring and empowering employees to reimagine their work now and into the future.
+- [Accessibility](https://gww.gov.bc.ca/groups/accessibility-bc-public-service){: .bc-external_link} – working to make accessibility part of the DNA of the public – both in the digital and physical environments.
+- [BC Behavioural Insights Group](https://gww.gov.bc.ca/groups/bc-behavioural-insights-group-big){: .bc-external_link} – applying behavioural science to behaviour-based policy problems by making small tweaks or “nudges” to a program or service.
+- [ Corporate Privacy](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy){: .bc-external_link} – supporting employees in balancing their need to collect and share personal information while meeting their privacy obligations.
+- [Data](https://gww.gov.bc.ca/groups/data-science-community-practice){: .bc-external_link} – supporting employees to develop their ability to collect, manage, share, analyse, interpret and present data.
+- [DevOps](https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/BC-Government-OpenShift-Container-Platform-Service-Definition){: .bc-external_link} – enabling BC Public Service digital delivery teams to fully control the deployment of their applications.
+- [Innovation Hub](https://gww.gov.bc.ca/groups/innovation-hub){: .bc-external_link} – supporting a more innovative workplace culture by inspiring and empowering employees to reimagine their work now and into the future.
 - [LeanBC](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/lean-bc) – improving business processes, from the simple to the complex, and reducing red tape for citizens and businesses across British Columbia.
-- [Service & Content Design ](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design#:~:text=Service%20Design%20in%20B.C.,%2C%20education%2C%20policy%20and%20finance.)– improving how citizens find, access and use government services by performing human-centred design research with citizens and stakeholders in B.C.
-- [Analytics](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/web-content-development-guides/analytics) - using digital tooling and business process to enable assessment of the success people have using services from end-to-end.
+- [Service & Content Design ](https://www2.gov.bc.ca/gov/content?id=4FB03369094247EF850BEFF8EFB201B3){: .bc-external_link} – improving how citizens find, access and use government services by performing human-centred design research with citizens and stakeholders in B.C.
+- [Analytics](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/web-content-development-guides/analytics){: .bc-external_link} - using digital tooling and business process to enable assessment of the success people have using services from end-to-end.
 
 #### Want to connect with these partners "in person"?
 
 <img height="226" width="815" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/link-experts-in-residence.png" alt="experts in residence">
 
-* [Sign up for Experts in Residence on Eventbrite](https://www.eventbrite.ca/e/experts-in-residence-tickets-109220948798)
+* [Sign up for Experts in Residence on Eventbrite](https://www.eventbrite.ca/e/experts-in-residence-tickets-109220948798){: .bc-external_link}
 
 ### Delivery Community Channels
 
 <a href="/ExchangeLabOps/guides">Guides</a> and the [Service Design & Delivery Playbook](/ExchangeLabOps/playbook) can aid some of the work we do. However, conditions change so rapidly and delivery contexts are too diverse for any ordered list to remain relevant. The evolving knowledge shared by the community is how we keep pace. Get connected:
 
 - MS Teams: search for the "Digital Delivery Network"
-- [Rocket.Chat](https://chat.developer.gov.bc.ca/home): available to external partners who are authenticated as part of a team in our BCGov Github organization.
+- [Rocket.Chat](https://chat.developer.gov.bc.ca/home){: .bc-external_link}: available to external partners who are authenticated as part of a team in our BCGov Github organization.
 
 ## About the Team
 
@@ -117,10 +117,12 @@ The organizational structure the Exchange Lab Team is part of in the Province of
 
 There is lots to tell... and we've been trying to do so over time through a variety of channels. Check out some of our multimedia to get a sense of our program, results, and the community that makes it work.
 
-- [The Exchange Medium Blog](){: .bc-external_link}
-- [The Exchange Youtube channel](){: .bc-external_link}
-- [The Exchange on Twitter](){: .bc-external_link}
+- [The Exchange Medium Blog](https://medium.com/exchange-bc){: .bc-external_link}
+- [The Exchange Youtube channel](https://www.youtube.com/channel/UCw-yG91WPPEvNa69ZroqT1Q/featured){: .bc-external_link}
+- [The Exchange on Twitter](https://twitter.com/exchangelab){: .bc-external_link}
 - [The Exchange on LinkedIn](https://www.linkedin.com/company/bc-gov-csi-lab/){: .bc-external_link}
+
+We also cross post and share content relevant only to the BC Public Service on our [@Work Group](https://gww.gov.bc.ca/groups/exchange-lab){: .bc-external_link}
 
 ## Results from our programs
 

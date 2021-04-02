@@ -17,16 +17,16 @@ subnav:
 During this phase, a program area becomes more clear on the type of problem to solve for and if it makes sense to partner with the Exchange Lab and adopt new ways of working.
 
 #### Pre-conditions:
-- You've spent some time getting familiar with the Service Design and Delivery standard, and service innovation methods, including Agile Delivery.
+- You've spent some time getting familiar with service innovation methods, and the [digital design and delivery playbook on this site.](/ExchangeLabOps/playbook)
 - Your organization needs support to build its capacity for digital service delivery using modern methods and tools (there isn't enough support for this in your home organization.)
 - You've read the Lab Partnership Agreement and believe your organization can be supported to align to it.
 
-<a href="resources\2021-02-Exchange-Lab-Partnership-Agreement_Template.pdf"><img height="675" width="458" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\coverpage_partnership-agreement.png" alt="Partnership Agreement cover page">
+<a href="resources\2021-02-Exchange-Lab-Partnership-Agreement_Template.pdf" target="_blank"><img height="226" width="183" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\coverpage_partnership-agreement.png" alt="cover page illustration of the partnership agreement document"></a>
 
 #### What success looks like in this phase:
-- You are able to clarify why Agile product delivery might be appropriate for the service delivery challenge you are seeking to solve.
+- You are able to clarify why Agile product delivery is appropriate for the service delivery challenge you are seeking to solve.
 - Your leadership has engaged with the leadership team at the Exchange Lab to confirm the program and product is likely a good candidate for receiving support from the Exchange Lab.
-- Your program area and service delivery challenge sufficiently meets the readiness criteria set by the lab (explained below)
+- Your program area and service delivery challenge sufficiently meets the readiness criteria set by the lab (explained below).
 
 #### Applicable Standards:
 - [Be Agile and User Centered](/ExchangeLabOps/playbook#agile)
@@ -45,7 +45,7 @@ Before examining technolgy tools or solutions, the Exchange Lab helps teams deve
 2. Explore the nature of the problem with experts in service delivery connected through the Digital Delivery Network (we facilitate a workshop)
 3. Get clear on root cause analysis if the source of the problem is not clear, and identify a place to start solving the problem from.
 
-<a href="resources\2021-02_Challenge-Brief_Template.pdf"><img height="411" width="586" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\coverpage_challenge-brief.png" alt="Challenge Brief cover page"></a>
+<a href="resources\2021-02_Challenge-Brief_Template.pdf" target="_blank"><img height="165" width="200" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\coverpage_challenge-brief.png" alt="cover page illustration of the challenge brief document"></a>
 
 ## Confirm Priority
 
@@ -75,13 +75,12 @@ In many cases, this commitment can only be confirmed through the approval of Dig
 
 ## LabOps Resources
 
-- Challenge Brief Template
-- Partnership Agreement template
+- <a href="resources\2021-02_Challenge-Brief_Template.pdf" target="_blank">Challenge Brief Template</a>
+- <a href="resources\2021-02-Exchange-Lab-Partnership-Agreement_Template.pdf" target="_blank">Partnership Agreement template</a>
 - Diagram of Readiness Criteria & optional readiness support functions of the Digital Delivery Network
-- Exchange Lab Service Blueprint (TBC)
-- Organizational Design Guidelines (TBC)
-- Application hosting expectations (TBC)
-- Finance guidelines (TBC)
+- Exchange Lab Service Blueprint (Coming soon)
+- Organizational Design Guidelines (Coming soon)
+- Application hosting expectations (Coming soon)
 
 <br/>
 [Back to the Top](#)
