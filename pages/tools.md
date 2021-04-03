@@ -8,7 +8,7 @@ sidenav: guides
 subnav:
     - text: How to get permission to use a new tool
       href: '#how-to-get-permission-to-use-a-new-tool'
-    - text: Collaboratsion
+    - text: Collaboration
       href: '#collaboration'
     - text: Engagement
       href: '#engagement'
