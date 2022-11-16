@@ -1,6 +1,8 @@
 # Exchange Lab Operations
 
-This repository is for the Github.io site that will document guidance for Exchange Lab Operations. Visit the site here: [https://bcgov.github.io/exchangelabops/](https://bcgov.github.io/ExchangeLabOps/)
+This repository is for the Github.io site that has documented guidance for Exchange Lab Operations in the past. Many of these resources include insights that remain relevant, however the site is not currently being updated. Some of the content may migrate to a new site that is under development.
+
+Visit the site here: [https://bcgov.github.io/exchangelabops/](https://bcgov.github.io/ExchangeLabOps/)
 
 The primary audience for this website is a BC Public Servant that is seeking support with developing digital capabilities - talent, methods and tools - to improve the way they delivery services.
 
@@ -15,14 +17,13 @@ This site also supports reliable service by the Exchange Lab Team, who will orie
 This operations guide is maintained by the [Exchange Lab team](https://dir.gov.bc.ca/gtds.cgi?show=Branch&organizationCode=CITZ&organizationalUnitCode=DPD%2dLab), a key node in the BC Digital Delivery Network and the BC Developer's Exchange.
 
 The organizational structure the Exchange Lab Team is part of in the Province of B.C. is
-- The Design and Delivery Branch, in
-- The Digital Platforms and Data Division, in
+- The Digital Office, in
 - The Office of the Chief Information Officer, in
 - the Ministry of Citizens' Services.
 
 ## Project Status
 
-> ALPHA
+> ALPHA - on hold: the Exchange Lab has transitioned to the Digital office in the Province of BC. A new online experience for people seeking to work with the Lab is under development.
 
 ## Development
 
