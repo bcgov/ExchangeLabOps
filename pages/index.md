@@ -18,6 +18,10 @@ subnav:
     href: '#results'
 
 ---
+# We have a new website!
+
+Official communications about the Exchange Lab and associated Digital Plan and the office that directs modernization in the BC publilc service can be found at [Digital.gov.bc.ca](https://digital.gov.bc.ca/lab)
+
 <img height="125" width="194" style="display: block; margin-bottom: 10px; margin-bottom: 10px; margin-left: auto; margin-right: auto;" img align="center" src="assets\img\communityGrey.png" alt="illustration of people having a conversation.">
 
 We are known as a **lab** and a **community** of people working in the open and learning how to improve service delivery in the BC Public Service, together.
@@ -26,7 +30,6 @@ We are also the home of the [BC Developers' Exchange](https://bcdevexchange.org/
 
 <img height="54" width="194" img align="center" style="display: block; margin-bottom: 20px; margin-bottom: 20px; margin-left: auto; margin-right: auto;" src="assets\img\bcdevexchangelogo.png" alt="BC Developer's Exchange Logo.">
 
-This website guides expectations for how The Exchange Lab operates and makes our methods and tools open for others to use.
 
 ## Our Mission
 Government, through the BC Public Service, can be trusted to respond to change and meet peoples' expectations for excellent service delivery. A [modern public service](http://whereideaswork.gov.bc.ca/modern/){: .bc-external_link} that embraces digital mindset and practices is one way to achieve this mission.
