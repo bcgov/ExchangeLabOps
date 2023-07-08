@@ -1,4 +1,12 @@
-# Exchange Lab Operations
+#THIS SITE HAS BEEN REDIRECTED
+
+As the Exchange Lab has grown and received broader mandate (kudos to those who proved out the way!), this little alpha operations site is being depreciated.
+
+Official communications about the Exchange Lab and associated Digital Plan and the office that directs modernization in the BC publilc service can be found at [Digital.gov.bc.ca](https://digital.gov.bc.ca/)
+
+The original URL for this site (bcgov.github.io/ExchangeLabOps/) is being redirected.
+
+# Exchange Lab Operations - Historical Documentation
 
 This repository is for the Github.io site that has documented guidance for Exchange Lab Operations in the past. Many of these resources include insights that remain relevant, however the site is not currently being updated. Some of the content may migrate to a new site that is under development.
 
