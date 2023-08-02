@@ -44,6 +44,4 @@ sass:
 redirects:
   - from: /ExchangeLabOps/
     to: https://digital.gov.bc.ca/about/lab/
-  - from: /ExchangeLabOps/feedback
-    to: mailto:DO.ContentDesign@gov.bc.ca <DO.ContentDesign@gov.bc.ca>
  
