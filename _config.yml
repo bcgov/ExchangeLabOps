@@ -42,6 +42,6 @@ sass:
 
 # redirects for each page
 redirects:
-  - from: /ExchangeLabOps/
+  - redirect_from: /ExchangeLabOps/
     to: https://digital.gov.bc.ca/about/lab/
  
